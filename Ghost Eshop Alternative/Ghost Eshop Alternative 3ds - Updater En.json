@@ -1,13 +1,13 @@
 {
-	"Ghost Eshop Alternatif - Francais": [
+	"Ghost Eshop Alternative - Francais": [
 		{
-			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternatif%203ds%20-%20Fr.json",
+			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%203ds%20-%20Fr.json",
 			"message": "Telechargement du script en cours...",
 			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (2)- Fr.json",
 			"type": "downloadFile"
 		}
 	], 
-	"Ghost Eshop Alternatif Updater - Francais": [
+	"Ghost Eshop Alternative Updater - Francais": [
 		{
 			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternatif%203ds%20-%20Updater%20Fr.json",
 			"message": "Telechargement du script en cours...",
@@ -15,7 +15,7 @@
 			"type": "downloadFile"
 		}
 	],
-	"Ghost Eshop Alternatif - Anglais": [
+	"Ghost Eshop Alternative - Anglais": [
 		{
 			"file": "",
 			"message": "Telechargement du script en cours...",
@@ -23,7 +23,7 @@
 			"type": "downloadFile"
 		}
 	],
-	"Ghost Eshop Alternatif Updater - Anglais": [
+	"Ghost Eshop Alternative Updater - Anglais": [
 		{
 			"file": "",
 			"message": "Downloading the script...",
@@ -33,10 +33,10 @@
 	],
 	"info": {
 		"author": "Ghost0159",
-		"description": "Ce script sert a mettre a jour:\n-Ghost Eshop Alternatif Updater\n-Ghost Eshop Alternatif\n\nGithub du createur: https://github.com/ghost0159\nEmail du createur: contact.ghost01@gmail.com\n\n\nLangue disponible: Francais, Anglais                                     Version: v1.0",
+		"description": "Ce script sert a mettre a jour:\n-Ghost Eshop Alternative Updater\n-Ghost Eshop Alternative\n\nGithub du createur: https://github.com/ghost0159\nEmail du createur: contact.ghost01@gmail.com\n\n\nLangue disponible: Francais, Anglais                                     Version: v1.0",
 		"revision": 1,
 		"shortDesc": "\nVersion de l'updater: 1.0\nNombre de langue: 2\nLangue actuel: Fr",
-		"title": "Ghost Eshop Alternatif - Updater",
+		"title": "Ghost Eshop Alternative - Updater",
 		"version": 3
 	}
 }
