@@ -3,7 +3,7 @@
 		{
 			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%203ds%20-%20Fr.json",
 			"message": "Downloading the request script...",
-			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (1)- Fr.json",
+			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds - Fr.json",
 			"type": "downloadFile"
 		}
 	], 
@@ -11,7 +11,7 @@
 		{
 			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternatif%203ds%20(1)-%20Updater%20Fr.json",
 			"message": "Downloading the request script...",
-			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (1)- Updater Fr.json",
+			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds - Updater Fr.json",
 			"type": "downloadFile"
 		}
 	],
@@ -19,7 +19,7 @@
 		{
 			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternatif%203ds%20(En).json",
 			"message": "Downloading the request script...",
-			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (2)- En.json",
+			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds - En.json",
 			"type": "downloadFile"
 		}
 	],
@@ -27,15 +27,15 @@
 		{
 			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternatif%203ds%20(1)-%20Updater%20En.json",
 			"message": "Downloading the request script...",
-			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (1)- Updater En.json",
+			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds - Updater En.json",
 			"type": "downloadFile"
 		}
 	],
 	"info": {
 		"author": "Ghost0159",
-		"description": "This script is used to update:\n-Ghost Eshop Alternative Updater\n-Ghost Eshop Alternative\n\nGithub du createur: https://github.com/ghost0159\nCreator's email: contact.ghost01@gmail.com\n\n\nLanguages available: French, English                                     Version: v1.0",
+		"description": "This script is used to update:\n-Ghost Eshop Alternative Updater\n-Ghost Eshop Alternative\n\nGithub du createur: https://github.com/ghost0159\nCreator's email: contact.ghost01@gmail.com\n\n\nLanguages available: French, English                                     Version: v1.1",
 		"revision": 1,
-		"shortDesc": "\nUpdater version: 1.0\nNumber of languages: 2\nCurrent language: En",
+		"shortDesc": "\nUpdater version: 1.1\nNumber of languages: 2\nCurrent language: En",
 		"title": "Ghost Eshop Alternative - Updater",
 		"version": 3
 	}
