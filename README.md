@@ -11,7 +11,7 @@ Mail: contact.ghost01@gmail.com
 
 Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases).
 
-The latest version available is "V0.2"! Check its output!
+The latest version available is "V0.3"! Check its output!
 
 **Français:**
 
@@ -25,4 +25,4 @@ Mail: contact.ghost01@gmail.com
 
 Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases).
 
-La derniére derniére version valide est la "V0.2"! Testé là!
+La derniére version valide est la "V0.3"! Testé là!
