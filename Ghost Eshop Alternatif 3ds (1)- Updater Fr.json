@@ -1,0 +1,42 @@
+{
+	"Ghost Eshop Alternative - Francais": [
+		{
+			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%203ds%20-%20Fr.json",
+			"message": "Telechargement du script en cours...",
+			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (2)- Fr.json",
+			"type": "downloadFile"
+		}
+	], 
+	"Ghost Eshop Alternative Updater - Francais": [
+		{
+			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%203ds%20-%20Updater%20Fr.json",
+			"message": "Telechargement du script en cours...",
+			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (1)- Updater Fr.json",
+			"type": "downloadFile"
+		}
+	],
+	"Ghost Eshop Alternative - Anglais": [
+		{
+			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%203ds%20-%20En.json",
+			"message": "Telechargement du script en cours...",
+			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (2)- En.json",
+			"type": "downloadFile"
+		}
+	],
+	"Ghost Eshop Alternative Updater - Anglais": [
+		{
+			"file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%203ds%20-%20Updater%20En.json",
+			"message": "Downloading the script...",
+			"output": "/3ds/Universal-Updater/scripts/Ghost Eshop Alternatif 3ds (1)- Updater En.json",
+			"type": "downloadFile"
+		}
+	],
+	"info": {
+		"author": "Ghost0159",
+		"description": "Ce script sert a mettre a jour:\n-Ghost Eshop Alternative Updater\n-Ghost Eshop Alternative\n\nGithub du createur: https://github.com/ghost0159\nEmail du createur: contact.ghost01@gmail.com\n\n\nLangue disponible: Francais, Anglais                                     Version: v1.0",
+		"revision": 1,
+		"shortDesc": "\nVersion de l'updater: 1.0\nNombre de langue: 2\nLangue actuel: Fr",
+		"title": "Ghost Eshop Alternative - Updater",
+		"version": 3
+	}
+}
