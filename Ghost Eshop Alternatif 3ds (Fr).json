@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: 0.4\nNombre de Fichiers: 62\nLangue actuel: Fr",
-		"description": "Sur ce script vous trouverez:\n-Jeux 3ds au format .cia: _\n-Jeux Gba au format .cia: _\n-Jeux DSiWare au format .cia: _\n\nGithub du createur: https://gitub.com/ghost0159\nEmail du createur: contact.ghost01@gmail.com\n\nNombre de fichier: 9                                         Version: 0.4",
+		"shortDesc": "\nVersion de l'eshop: v0.5\nNombre de Fichiers: 62\nLangue actuel: Fr",
+		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  30\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  14\n\nCreateur: Ghost0159                                         Version: v0.5",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -1116,7 +1116,7 @@
 			"type": "downloadFile",
 			"file": "https://agameaweek.com/completeB/2019/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
 			"output": "/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
-			"message": "Téléchargement de votre jeux en cours..."
+			"message": "Téléchargement  de votre homebrew en cours..."
 		},
 		{
 			"type": "extractFile",
