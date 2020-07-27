@@ -2,7 +2,7 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - En",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion of the eshop: v0.6\nNumber of files: 73\nCurrent language: En",
+		"shortDesc": "\nVersion of the eshop: v0.6\nNumber of files: 79\nCurrent language: En",
 		"description": "On this script you will find:\n-Movies and series in .cia format:  2/Homebrew:  2\n-Games and updates 3ds in .cia format:  41\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  9\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format:  14\n\nCreator: Ghost0159                                          Version: v0.6",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
@@ -1249,7 +1249,7 @@
 			"message": "Nettoyage..."
 			}
 	],
-	"50 Classic Games (EUR)(M4)": [
+	"50 Classic Games (EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/4c7wf2636xvzf37/0197%20-%2050%20Classic%20Games%20%28EU%29%28M4%29.cia?dl=1",
@@ -1267,7 +1267,7 @@
 			"message": "Nettoyage..."
 			}
 	],
-	"50 Classic Games 3D (EUR)(M6)": [
+	"50 Classic Games 3D (EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/10mkipsr9nbocrj/0342%20-%2050%20Classic%20Games%203D%20%28EU%29%28M6%29.cia?dl=1",
@@ -1336,6 +1336,114 @@
 		{
 			"type": "deleteFile",
 			"file": "/A-Train 3D City Simulator (EUR).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Ace Combat - Assault Horizon Legacy (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/jbmpze6y67w1yuw/0067%20-%20Ace%20Combat%20-%20Assault%20Horizon%20Legacy%20%28EU%29%28M5%29.cia?dl=1",
+			"output": "/Ace Combat - Assault Horizon Legacy (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ace Combat - Assault Horizon Legacy (EUR).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ace Combat - Assault Horizon Legacy (EUR).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"Ace Combat - Assault Horizon Legacy (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/i5rs4boahr1vcbn/0063%20-%20Ace%20Combat%20-%20Assault%20Horizon%20Legacy%20%28US%29%28M3%29.cia?dl=1",
+			"output": "/Ace Combat - Assault Horizon Legacy (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ace Combat - Assault Horizon Legacy (USA).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ace Combat - Assault Horizon Legacy (USA).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Ace Combat - Assault Horizon Legacy Plus (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/rd3crcm19mus7os/1187%20-%20Ace%20Combat%20-%20Assault%20Horizon%20Legacy%2B%20%28EU%29%28M5%29.cia?dl=1",
+			"output": "/Ace Combat - Assault Horizon Legacy Plus (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ace Combat - Assault Horizon Legacy Plus (EUR).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ace Combat - Assault Horizon Legacy Plus (EUR).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Ace Combat - Assault Horizon Legacy Plus (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/yo88g6cla4vvpjd/1318%20-%20Ace%20Combat%20-%20Assault%20Horizon%20Legacy%2B%20%28US%29%28M3%29.cia?dl=1",
+			"output": "/Ace Combat - Assault Horizon Legacy Plus (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ace Combat - Assault Horizon Legacy Plus (USA).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ace Combat - Assault Horizon Legacy Plus (USA).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Ace Combat 3D - Cross Rumble (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/4xgwj9brirsrz7m/0690%20-%20Ace%20Combat%203D%20-%20Cross%20Rumble%20%28JP%29.cia?dl=1",
+			"output": "/Ace Combat 3D - Cross Rumble (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ace Combat 3D - Cross Rumble (JPN).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ace Combat 3D - Cross Rumble (JPN).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Ace Combat 3D - Cross Rumble Plus (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/kxk0ylym3zf8s6x/1180%20-%20Ace%20Combat%203D%20-%20Cross%20Rumble%20%2B%20%28JP%29.cia?dl=1",
+			"output": "/Ace Combat 3D - Cross Rumble Plus (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ace Combat 3D - Cross Rumble Plus (JPN).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ace Combat 3D - Cross Rumble Plus (JPN).cia",
 			"message": "Nettoyage..."
 		}
 	]
