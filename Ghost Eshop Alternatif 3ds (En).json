@@ -1,9 +1,9 @@
 {
 	"info": {
-		"title": "Ghost Eshop Alternative - Fr",
+		"title": "Ghost Eshop Alternative - En",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: 0.3\nNombre de Jeux: 9\nLangue actuel: Fr",
-		"description": "Sur ce script vous trouverez:\n-Jeux 3ds au format .cia: 7\n-Jeux Gba au format .cia: 0\n-Jeux DSiWare au format .cia: 2\n\nGithub du createur: https://gitub.com/ghost0159\nEmail du createur: contact.ghost01@gmail.com\n\nNombre de fichier: 9                                         Version: 0.3",
+		"shortDesc": "\nVersion of the eshop: v0.5\nNumber of files: 62\nCurrent language: En",
+		"description": "On this script you will find:\n-Movies and series in .cia format:  2/Homebrew:  2\n-Games and updates 3ds in .cia format:  30\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  9\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format:  14\n\nCreator: Ghost0159                                          Version: v0.5",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -16,13 +16,13 @@
 	"Anonymous notes chapter 1 (DSiWare)": [
 		{
 			"file": "https://www.dropbox.com/s/k3ac29648jdqyqg/?dl=1",
-			"message": "Downloading your current games...",
+			"message": "Telechargement de votre jeux en cours...",
 			"output": "/Anonymous notes chapter 1 - USA (DSiWare).cia",
 			"type": "downloadFile"
 		},
 		{
 			"file": "/Anonymous notes chapter 1 - USA (DSiWare).cia",
-			"message": "Installing your current game...",
+			"message": "Installation de votre jeux en cours...",
 			"type": "installCia"
 		},
 		{
@@ -34,13 +34,13 @@
 	"Bloons TD4 (DSiWare)": [
 		{
 			"file": "https://www.dropbox.com/s/u5i2pne5dzc9u5g/?dl=1",
-			"message": "Downloading your current games...",
+			"message": "Telechargement de votre jeux en cours...",
 			"output": "/Bloons TD4 - USA (DSiWare).cia",
 			"type": "downloadFile"
 		},
 		{
 			"file": "/Bloons TD4 - USA (DSiWare).cia",
-			"message": "Installing your current game...",
+			"message": "Installation de votre jeux en cours...",
 			"type": "installCia"
 		},
 		{
@@ -49,17 +49,17 @@
 			"type": "deleteFilE"
 			}
 	],
-	"1001 Spikes (US)": [
+	"1001 Spikes (USA)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/drd4cenbureq05b/0000%20-%201001%20Spikes%20%28US%29.cia?dl=1",
 			"output": "/1001 Spikes (US).cia",
-			"message": "Downloading your current games..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/1001 Spikes (US).cia",
-			"message": "Installing your current game..."
+			"message": "Installation de votre Jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -67,17 +67,17 @@
 			"message": "Nettoyage..."
 			}
 	],
-	"12-Sai. Honto no Kimochi (JP)": [
+	"12-Sai. Honto no Kimochi (JPN)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/u7eu7qmn2s3y5as/1160%20-%2012-Sai.%20Honto%20no%20Kimochi%20%28JP%29.cia?dl=1",
 			"output": "/12-Sai. Honto no Kimochi (JP).cia",
-			"message": "Downloading your current games..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/12-Sai. Honto no Kimochi (JP).cia",
-			"message": "Installing your current game..."
+			"message": "Installation de votre Jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -85,17 +85,17 @@
 			"message": "Nettoyage..."
 			}
 	],
-	"2 in 1 - Life with Horses 3D (EU)": [
+	"2 in 1 - Life with Horses 3D (EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/cmqwllssnvtia4a/1227%20-%202%20in%201%20-%20Life%20with%20Horses%203D%20%2B%20My%20Baby%20Pet%20Hotel%203D%20%28EU%29%28M6%29.cia?dl=1",
 			"output": "/2 in 1 - Life with Horses 3D + My Baby Pet Hotel 3D (EU)(M6).cia",
-			"message": "Downloading your current games..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/2 in 1 - Life with Horses 3D + My Baby Pet Hotel 3D (EU)(M6).cia",
-			"message": "Installing your current game..."
+			"message": "Installation de votre Jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -103,17 +103,17 @@
 			"message": "Nettoyage..."
 			}
 	],
-	"2 in 1 - My Vet Practise 3D in the Country (EU)": [
+	"2 in 1 - My Vet Practise 3D in the Country (EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/1xh53hkncqnnmqj/1064%20-%202%20in%201%20-%20My%20Vet%20Practise%203D%20in%20the%20Country%20%2B%20My%20Baby%20Pet%20Hotel%203D%20%28EU%29%28M6%29.cia?dl=1",
 			"output": "/2 in 1 - My Vet Practise 3D in the Country + My Baby Pet Hotel 3D (EU)(M6).cia",
-			"message": "Downloading your current games..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/2 in 1 - My Vet Practise 3D in the Country + My Baby Pet Hotel 3D (EU)(M6).cia",
-			"message": "Installing your current game..."
+			"message": "Installation de votre Jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -121,17 +121,17 @@
 			"message": "Nettoyage..."
 			}
 	],
-	"2in1 - Horse 3D Vol.1 (EU)": [
+	"2in1 - Horse 3D Vol.1 (EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/x3qksrv0vsb6m1u/0626%20-%202in1%20-%20Horses%203D%20%28EU%29%28M9%29.cia?dl=1",
 			"output": "/2in1 - Horse 3D Vol.1 (EU)(M6).cia",
-			"message": "Downloading your current games..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/2in1 - Horse 3D Vol.1 (EU)(M6).cia",
-			"message": "Installing your current game..."
+			"message": "Installation de votre Jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -139,17 +139,17 @@
 			"message": "Nettoyage..."
 			}
 	],
-	"2in1 - Horse 3D Vol.2 (EU)": [
+	"2in1 - Horse 3D Vol.2 (EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/cwjwgi5xo2g9hzk/1208%20-%202%20in%201%20Horses%203D%20Vol.2%20-%20Rivals%20in%20the%20Saddle%20and%20Jumping%20for%20the%20Team%203D%20%28EU%29%28M5%29.cia?dl=1",
 			"output": "/2in1 - Horse 3D Vol.2 Rivals in the Saddle and Jumping for the Team 3D (EU)(M5).cia",
-			"message": "Downloading your current games..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/2in1 - Horse 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D (EU)(M5).cia",
-			"message": "Installing your current game..."
+			"message": "Installation de votre Jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -157,22 +157,988 @@
 			"message": "Nettoyage..."
 			}
 	],
-	"2in1 - Horse 3D Vol.3 (EU)": [
+	"2in1 - Horse 3D Vol.3 (EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://www.dropbox.com/s/o8advakp73pg8ym/1197%20-%202%20in%201%20Horses%203D%20Vol.3%20-%20My%20Riding%20Stables%203D%20-%20Jumping%20for%20the%20Team%20%26%20My%20Western%20Horse%203D%20%28EU%29%281",
 			"output": "/2in1 - Horse 3D Vol.3 - My Riding Stables 3D Jumping for the Team... (EU)(M5).cia",
-			"message": "Downloading your current games..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/2in1 - Horse 3D Vol.3 - My Riding Stables 3D Jumping for the Team... (EU)(M5).cia",
-			"message": "Installing your current game..."
+			"message": "Installation de votre Jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
 			"file": "/2in1 - Horse 3D Vol.3 - My Riding Stables 3D Jumping for the Team... (EU)(M5).cia",
 			"message": "Nettoyage..."
 			}
+	],
+	"Captain Toad: Treasure Tracker (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/8zuo5y0f0nipp6x/Captain%10Toad%20-%20Treasure%20Tracker-Revo3DS.cia?dl=1",
+			"output": "/Captain Toad - Treasure Tracker-Revo3DS.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Captain Toad - Treasure Tracker-Revo3DS.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Captain Toad - Treasure Tracker-Revo3DS.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"The Legend of Zelda (NES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/9w5h0h7yubeqq97/The%20Legend%20of%20Zelda.cia?dl=1",
+			"output": "/The Legend of Zelda.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/The Legend of Zelda.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/The Legend of Zelda.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"3D Sonic the Hedgehog (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/u0psaklhd53jyn2/3D%20Sonic%20the%20Hedgehog%20USA_kameb.cia?dl=1",
+			"output": "/cias/3D Sonic the Hedgehog USA_kameb.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/cias/3D Sonic the Hedgehog USA_kameb.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/cias/3D Sonic the Hedgehog USA_kameb.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Poké Transfert": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nintendo-3ds-eshop-complete-collection/0003%20-%20Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia.7z/0003%20-%20Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
+			"output": "/0003 - Poke Transporter (World) (En,Ja,Fr,De,Es,It,Ko) (eShop).cia",
+			"message": "Téléchargement de votre application en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/0003 - Poke Transporter (World) (En,Ja,Fr,De,Es,It,Ko) (eShop).cia",
+			"message": "Installation de votre application en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/0003 - Poke Transporter (World) (En,Ja,Fr,De,Es,It,Ko) (eShop).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"3D Sonic the Hedgehog 2 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/4vgvu7c69r84dv6/?dl=1",
+			"output": "/3D Sonic The Hedgehog 2 (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/3D Sonic The Hedgehog 2 (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/3D Sonic The Hedgehog 2 (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Mother 3 (Anglais, GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/5zea3iqe92pu0qd/Mother%203%20%28Eng.%20Translation%201.1%29.cia?dl=1",
+			"output": "/Mother 3 (Eng. Translation 1.1).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Mother 3 (Eng. Translation 1.1).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Mother 3 (Eng. Translation 1.1).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Banque Pokémon": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nintendo-3ds-eshop-complete-collection/0004%20-%20Pokemon%20Bank%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia.7z/0004%20-%20Pokemon%20Bank%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
+			"output": "/0004 - Pokemon Bank (World) (En,Ja,Fr,De,Es,It,Ko) (eShop).cia",
+			"message": "Téléchargement de votre application en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/0004 - Pokemon Bank (World) (En,Ja,Fr,De,Es,It,Ko) (eShop).cia",
+			"message": "Installation de votre application en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/0004 - Pokemon Bank (World) (En,Ja,Fr,De,Es,It,Ko) (eShop).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"WarioWare Touched! (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/l2bczwrsbnm03a6/WarioWareTM%20%20Touched%21%20%28USA%29.cia?dl=1",
+			"output": "/WarioWareTM  Touched! (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/WarioWareTM  Touched! (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/WarioWareTM  Touched! (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Zelda II: The Adventure of Link (NES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/xfpdis8f43b5nkz/Zelda%20II%20The%20Adventure%20of%20Link.cia?dl=1",
+			"output": "/Zelda II The Adventure of Link.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Zelda II The Adventure of Link.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Zelda II The Adventure of Link.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Dr. Mario: Miracle Cure": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-eshop/0517%20-%20Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.rar/0517%20-%20Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
+			"output": "/0517 - Dr. Mario - Miracle Cure (World) (En,Ja,Fr,De,Es,It) (eShop).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/0517 - Dr. Mario - Miracle Cure (World) (En,Ja,Fr,De,Es,It) (eShop).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/0517 - Dr. Mario - Miracle Cure (World) (En,Ja,Fr,De,Es,It) (eShop).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Cut the Rope (DSiWare)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/CutTheRope%20-%20DSi.cia",
+			"output": "/CutTheRope - DSi.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/CutTheRope - DSi.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/CutTheRope - DSi.cia",
+			"message": "Nettoyage..."
+		}
+	],
+     "Cut the Rope for Nintendo 3DS (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/qeamgzfz4x0uj3s/%5B3DS%20CIA%20SHOP%5D%20Cut%20the%20Rope%20%28eShop%20Exclusive%29.cia?dl=1",
+			"output": "/[3DS CIA SHOP] Cut the Rope (eShop Exclusive).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/[3DS CIA SHOP] Cut the Rope (eShop Exclusive).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/[3DS CIA SHOP] Cut the Rope (eShop Exclusive).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"The Legend of Zelda: A Link to the Past (SNES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/zhi72wpp15j0g1s/The%20Legend%20of%20Zelda%20-%20A%20Link%20to%20the%20Past%20%28SNES%29.cia?dl=1",
+			"output": "/The Legend of Zelda - A Link to the Past (SNES).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/The Legend of Zelda - A Link to the Past (SNES).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/The Legend of Zelda - A Link to the Past (SNES).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"3D Movie Viewer": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/%5B3DS%20CIA%20SHOP%5D%203D%20MOVIE%20VIEWER.cia",
+			"output": "/[3DS CIA SHOP] 3D MOVIE VIEWER.cia",
+			"message": "Téléchargement de votre application en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/[3DS CIA SHOP] 3D MOVIE VIEWER.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/[3DS CIA SHOP] 3D MOVIE VIEWER.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Shrek 2 (Film entier)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/%5BFULL%20MOVIE%5D%20Shrek%202.cia",
+			"output": "/[FULL MOVIE] Shrek 2.cia",
+			"message": "Téléchargement de votre film en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/[FULL MOVIE] Shrek 2.cia",
+			"message": "Installation de votre film en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/[FULL MOVIE] Shrek 2.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Sonic X (Episodes 1-2, Anglais)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/%5BTV%20SHOW%5D%20Sonic%20X%20-%20Episode%201%2B2.cia",
+			"output": "/[TV SHOW] Sonic X - Episode 1+2.cia",
+			"message": "Téléchargement de vos épisodes en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/[TV SHOW] Sonic X - Episode 1+2.cia",
+			"message": "Installation de vos épisodes en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/[TV SHOW] Sonic X - Episode 1+2.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"The Legend of Zelda: A Link to the Past (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/j07npemerqbgwvw/The%20Legend%20of%20Zelda%20-%20A%20Link%20to%20the%20Past.cia?dl=1",
+			"output": "/The Legend of Zelda - A Link to the Past.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/The Legend of Zelda - A Link to the Past.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/The Legend of Zelda - A Link to the Past.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Classic NES Series: Donkey Kong (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/e2wmhlns353ssf4/Donkey%20Kong%20-%20Original%20Edition%20%28NES%29.cia?dl=1",
+			"output": "/Donkey Kong - Original Edition (NES).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Donkey Kong - Original Edition (NES).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Donkey Kong - Original Edition (NES).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Kirby: Nightmare in Dream Land (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/hc44nabb2qrsowc/Kirby%20Nightmare%20in%20Dream%20Land.cia?dl=1",
+			"output": "/Kirby Nightmare in Dream Land.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Kirby Nightmare in Dream Land.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Kirby Nightmare in Dream Land.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Super Mario Advance 3 - Yoshi's Island (Gba)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/qn9wcfhr3swbdks/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island.cia?dl=1",
+			"output": "/Super Mario Advance 3 - Yoshi's Island.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario Advance 3 - Yoshi's Island.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario Advance 3 - Yoshi's Island.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Flipnote Studio (USA/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/vpz4rb0aas172qn/FlipnoteDSi.cia?dl=1",
+			"output": "/FlipnoteDSi.cia",
+			"message": "Téléchargement de votre application en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/FlipnoteDSi.cia",
+			"message": "Installation de votre application en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/FlipnoteDSi.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Flipnote Studio (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/hwfafzfxaec9ueb/Flipnote_JPN-3ds-cia-shop.cia?dl=1",
+			"output": "/Flipnote_JPN-3ds-cia-shop.cia",
+			"message": "Téléchargement de votre application en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Flipnote_JPN-3ds-cia-shop.cia",
+			"message": "Installation de votre application en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Flipnote_JPN-3ds-cia-shop.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Pac-Man (NES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/kdh3bx626fifl2t/Pac-Man%20%28NES%29.cia?dl=1",
+			"output": "/Pac-Man (NES).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pac-Man (NES).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pac-Man (NES).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Super Mario Advance 2 - Super Mario World": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/z9unlup7jb4e26f/Super%20Mario%20Advance%202%20Super%20Mario%20World.cia?dl=1",
+			"output": "/Super Mario Advance 2 Super Mario World.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario Advance 2 Super Mario World.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario Advance 2 Super Mario World.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Pac-Man Collection (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/i6bemfck3cb48bc/Pac-Man%20Collection%20%28GBA%29.cia?dl=1",
+			"output": "/Pac-Man Collection (GBA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pac-Man Collection (GBA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pac-Man Collection (GBA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Sega 3D Classics Collection (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/lyqtd8xhcm7t2vz/Sega%203D%20Classics%20Collection%20%28USA%29.cia?dl=1",
+			"output": "/Sega 3D Classics Collection (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Sega 3D Classics Collection (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Sega 3D Classics Collection (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Super Mario Bros. (NES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/mevcgcib1qnyyzu/Super%20Mario%20Bros%20%28NES%29.cia?dl=1",
+			"output": "/Super Mario Bros (NES).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario Bros (NES).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario Bros (NES).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Luigi's Mansion 2: Dark Moon (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://qrgo.page.link/rS5xn",
+			"output": "/Luigis Mansion - Dark Moon (USA) (RF).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Luigis Mansion - Dark Moon (USA) (RF).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Luigis Mansion - Dark Moon (USA) (RF).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Mario 3D Land (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https:/qrgo.page.link/yZr5y",
+			"output": "/Super Mario 3D Land US.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario 3D Land US.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario 3D Land US.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Kirby: Triple Deluxe (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://qrgo.page.link/ZkMLB",
+			"output": "/Kirby Triple Deluxe US.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Kirby Triple Deluxe US.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Kirby Triple Deluxe US.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"The Legend of Zelda: Ocarina of Time 3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/sh/7yejob260oorc2e/AABrqoobbdq4Tazg5z7EMKPta/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D%20%28USA%29.cia?dl=1",
+			"output": "/The Legend of Zelda Ocarina of Time 3D (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/The Legend of Zelda Ocarina of Time 3D (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/The Legend of Zelda Ocarina of Time 3D (USA).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Petit Computer (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/axyozjq8u3cv9m1/Petit_Computer_USA.cia?dl=1",
+			"output": "/Petit_Computer_USA.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Petit_Computer_USA.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Petit_Computer_USA.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Pokemon Crystal Version (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/rq35pd3aqk4z114/Pokemon%20Crystal%20USA.cia?dl=1",
+			"output": "/Pokemon Crystal USA.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pokemon Crystal USA.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pokemon Crystal USA.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Crash Bandicoot 2: N-Tranced (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Crash%20Bandicoot%202%20N-Tranced.cia",
+			"output": "/Crash Bandicoot 2 N-Tranced.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crash Bandicoot 2 N-Tranced.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crash Bandicoot 2 N-Tranced.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Crash Bandicoot: The Huge Adventure (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Crash%20Bandicoot%20The%20Huge%20Adventure.cia",
+			"output": "/Crash Bandicoot The Huge Adventure.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crash Bandicoot The Huge Adventure.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crash Bandicoot The Huge Adventure.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Pokemon Crystal Version (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/0ytfry8484gvwvq/Pokemon%20Crystal%20EUR.cia?dl=1",
+			"output": "/Pokemon Crystal EUR.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pokemon Crystal EUR.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pokemon Crystal EUR.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Crash Nitro Kart (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Crash%20Nitro%20Kart.cia",
+			"output": "/Crash Nitro Kart.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crash Nitro Kart.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crash Nitro Kart.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Pokemon Prism (Hack for Pokemon Crystal)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ok0dsk2m774xtu6/?dl=1",
+			"output": "/Pokemon Prism.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pokemon Prism.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pokemon Prism.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"The Legend of Zelda: Majora's Mask 3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/sh/7yejob260oorc2e/AADe_jpgozZNeePvXIufOMiHa/The%20Legend%20Of%20Zelda%20Majoras%20Mask%203D%20%28%20Usa%29.cia?dl=1",
+			"output": "/The Legend Of Zelda Majoras Mask 3D ( Usa).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/The Legend Of Zelda Majoras Mask 3D ( Usa).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/The Legend Of Zelda Majoras Mask 3D ( Usa).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Mario Advance 4 - Super Mario Bros. 3": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/1w36zt9gi6eq6co/Super%20Mario%20Advance%204.cia?dl=1",
+			"output": "/Super Mario Advance 4.cia",
+			"message": "Téléchargement de votre jeux en cours...."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario Advance 4.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario Advance 4.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Wrecking Crew (NES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Wrecking%20Crew%20%28NES%29.cia",
+			"output": "/Wrecking Crew (NES).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Wrecking Crew (NES).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+			{
+			"type": "deleteFile",
+			"file": "/Wrecking Crew (NES).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Mario Kart: Super Circuit (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20Kart%20-%20Super%20Circuit.cia",
+			"output": "/Mario Kart - Super Circuit.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Mario Kart - Super Circuit.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+			{
+			"type": "deleteFile",
+			"file": "/Mario Kart - Super Circuit.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Mario Bros. 2 (NES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/puec2vtqeqcqpy5/Super%20Mario%20USA.cia?dl=1",
+			"output": "/Super Mario USA.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario USA.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+			{
+			"type": "deleteFile",
+			"file": "/Super Mario USA.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Mario Advance - Super Mario Bros. 2 (GBA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/39jadzwimzmenbd/Super%20Mario%20Advance.cia?dl=1",
+			"output": "/Super Mario Advance.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario Advance.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario Advance.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Mario Bros. 3 (NES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/0ic9pqgaplk39bp/Super%20Mario%20Bros%20III.cia?dl=1",
+			"output": "/Super Mario Bros III.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario Bros III.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario Bros III.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Mario Bros.: The Lost Levels (NES)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Super%20Mario%20Bros%20-%20The%20Lost%20Levels.cia",
+			"output": "/Super Mario Bros - The Lost Levels.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario Bros - The Lost Levels.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario Bros - The Lost Levels.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Mario vs Donkey Kong: Minis March Again! (DSiWare)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20VS%20Donkey%20Kong%20-%20Minis%20March%20Again.cia",
+			"output": "/Mario VS Donkey Kong - Minis March Again.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Mario VS Donkey Kong - Minis March Again.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Mario VS Donkey Kong - Minis March Again.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Mario Kart 7 - Update 1.1 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/MK7Update%20-%20USA.cia",
+			"output": "/MK7Update - USA.cia",
+			"message": "Téléchargement de votre mise à jour en cours...."
+		},
+		{
+			"type": "installCia",
+			"file": "/MK7Update - USA.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/MK7Update - USA.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Mario Kart 7 - Update 1.1 (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20Kart%207%20-%201.1%20Update%20%28EUR%29.cia",
+			"output": "/Mario Kart 7 - 1.1 Update (EUR).cia",
+			"message": "Téléchargement de votre mise à jour en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Mario Kart 7 - 1.1 Update (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Mario Kart 7 - 1.1 Update (EUR).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Netflix (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Netflix%20%28USA%29.cia",
+			"output": "/Netflix (USA).cia",
+			"message": "Téléchargement de votre application en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Netflix (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Netflix (USA).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Mario Bros. Deluxe (GBC)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/%5B3DS%20CIA%20SHOP%5D%20SMB%20Deluxe%20%28Europe%2C%20GBC%29.cia",
+			"output": "/[3DS CIA SHOP] SMB Deluxe (Europe, GBC).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/[3DS CIA SHOP] SMB Deluxe (Europe, GBC).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/[3DS CIA SHOP] SMB Deluxe (Europe, GBC).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Sonic 3 Complete (Genesis/MD)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3ds-cia-shop-archive/Sega%20Genesis%20CIAs/Sonic%203%20Complete%20-%20Sonic%203%20Sprites.cia",
+			"output": "/Sonic 3 Complete - Sonic 3 Sprites.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Sonic 3 Complete - Sonic 3 Sprites.cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Sonic 3 Complete - Sonic 3 Sprites.cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Classic SpikeDislike (Homebrew)": [
+		{
+			"type": "downloadFile",
+			"file": "https://agameaweek.com/completeB/2019/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
+			"output": "/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
+			"message": "Téléchargement  de votre homebrew en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
+			"input": "ClassicSpikeDislike.cia",
+			"output": "/ClassicSpikeDislike.cia",
+			"message": "Extraction de votre homebrew"
+		},
+		{
+			"type": "installCia",
+			"file": "/ClassicSpikeDislike.cia",
+			"message": "Installation de votre homebrew en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/ClassicSpikeDislike.cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
+			"message": "Nettoyage(2/2)..."
+		}
 	]
 }
