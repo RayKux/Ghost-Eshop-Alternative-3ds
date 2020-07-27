@@ -14,6 +14,8 @@
  The latest version available is "v0.6"! Check its output!
 
  **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
+ 
+ *We currently have: **93** files in . cia format*
 
 *Test:*
 
@@ -39,6 +41,8 @@ ________________________________________________________________________________
 
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
+ 
+ *Nous avons actuellement: **93** fichier au format .cia*
 
 *Test:*
 
