@@ -15,6 +15,8 @@
 
  **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
  
+ *This script will become a homebrew that will absolutely not depend on Universal-Team or using one of their tools, when the homebrew of its script comes out, we will adapt its script so that it does not work with Universal-Updater.*
+ 
  We currently have: **93** files in . cia format
 
 *Test:*
@@ -39,8 +41,9 @@ ________________________________________________________________________________
 
  La derniére version valide est la "v0.6"! Testé là!
 
-
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
+ 
+ *Ce script deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se script sortira, nous adapterons se script de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
  
  Nous avons actuellement: **93** fichier au format .cia
 
