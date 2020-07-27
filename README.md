@@ -13,6 +13,12 @@ Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alte
 
 The latest version available is "V0.5"! Check its output!
 
+**Universal-Team is not affiliated with this project. Universal-Team is against piracy. **
+
+*Test:*
+-For games over 200Mib, it is advisable to have a stable connection (*ADSL + Private network*)
+-For games over 950Mib, it is advisable to have fiber (*Fiber + Private network*)
+
 **Français:**
 
 Ceci est un eshop 3ds alternatif sous la forme d'un script Universal-Updater.
@@ -29,3 +35,7 @@ La derniére version valide est la "V0.5"! Testé là!
 
 
 **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
+
+*Test:*
+-Pour les jeux de plus de 200Mib, il est conseillé d'avoir une connexion stable (*ADSL + Réseau privé*)
+-Pour les jeux de plus de 950Mib, il est conseillé d'avoir la fibre (*Fibre + Réseau privé*)
