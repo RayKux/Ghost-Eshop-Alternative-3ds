@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - En",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion of the eshop: v0.5\nNumber of files: 62\nCurrent language: En",
-		"description": "On this script you will find:\n-Movies and series in .cia format:  2/Homebrew:  2\n-Games and updates 3ds in .cia format:  30\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  9\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format:  14\n\nCreator: Ghost0159                                          Version: v0.5",
+		"shortDesc": "\nVersion of the eshop: v0.6\nNumber of files: 73\nCurrent language: En",
+		"description": "On this script you will find:\n-Movies and series in .cia format:  2/Homebrew:  2\n-Games and updates 3ds in .cia format:  41\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  9\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format:  14\n\nCreator: Ghost0159                                          Version: v0.6",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -1158,5 +1158,185 @@
 			"file": "/Shovel Knight Treasure Trove - Update 4.1 (EUR).cia",
 			"message": "Nettoyage..."
 			}
+	],
+	"35 Classic Games (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/of709vavr7or3h4/0186%20-%2035%20Classic%20Games%20%28EU%29%28M4%29.cia?dl=1",
+			"output": "/.cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/35 Classic Games (EUR)(M4).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/35 Classic Games (EUR)(M4).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"3D Game Collection - 55 in 1 (EUR)(M2)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/2xy6jtgde94hpws/0920%20-%203D%20Game%20Collection%20-%2055%20in%201%20%28EU%29%28M2%29.cia?dl=1",
+			"output": "/3D Game Collection - 55 in 1 (EUR)(M2).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/3D Game Collection - 55 in 1 (EUR)(M2).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/3D Game Collection - 55 in 1 (EUR)(M2).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"3D Game Collection - 55 in 1 (EUR)(M5)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/h4j9843mmcuwov5/0400%20-%203D%20Game%20Collection%20-%2055%20in%201%20%28EU%29%28M5%29.cia?dl=1",
+			"output": "/3D Game Collection - 55 in 1 (EUR)(M5).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/3D Game Collection - 55 in 1 (EUR)(M5).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/3D Game Collection - 55 in 1 (EUR)(M5).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"3D Mahjong (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/llhde25p6hcgxwi/0410%20-%203D%20MahJongg%20%28EU%29%28M4%29.cia?dl=1",
+			"output": "/3D Mahjong (EUR)(M4).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/3D Mahjong (EUR)(M4).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/3D Mahjong (EUR)(M4).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"4 Elements (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/br62olq17211eo5/0661%20-%204%20Elements%20%28EU%29%28M4%29.cia?dl=1",
+			"output": "/4 Elements (EUR)(M4).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/4 Elements (EUR)(M4).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/4 Elements (EUR)(M4).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"50 Classic Games (EUR)(M4)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/4c7wf2636xvzf37/0197%20-%2050%20Classic%20Games%20%28EU%29%28M4%29.cia?dl=1",
+			"output": "/50 Classic Games (EUR)(M4).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/50 Classic Games (EUR)(M4).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/50 Classic Games (EUR)(M4).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"50 Classic Games 3D (EUR)(M6)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/10mkipsr9nbocrj/0342%20-%2050%20Classic%20Games%203D%20%28EU%29%28M6%29.cia?dl=1",
+			"output": "/50 Classic Games 3D (EUR)(M6).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/50 Classic Games 3D (EUR)(M6).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/50 Classic Games 3D (EUR)(M6).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"50 Classic Games 3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/uhfmvnkhbj9bwa7/0484%20-%2050%20Classic%20Games%203D%20%28US%29%28M3%29.cia?dl=1",
+			"output": "/50 Classic Games 3D (USA)(M3).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/50 Classic Games 3D (USA)(M3).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/50 Classic Games 3D (USA)(M3).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"A-Ressha de Ikou 3D (JAP)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/2o3hsc08ithjaek/0801%20-%20A-Ressha%20de%20Ikou%203D%20%28JP%29.cia?dl=1",
+			"output": "/A-Ressha de Ikou 3D (JAP).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/A-Ressha de Ikou 3D (JAP).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/A-Ressha de Ikou 3D (JAP).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"A-Train 3D City Simulator (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/32wrohlycjyizrj/0000%20-%20A-Train%203D%20City%20Simulator%20%28EU%29.cia?dl=1",
+			"output": "/A-Train 3D City Simulator (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/A-Train 3D City Simulator (EUR).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/A-Train 3D City Simulator (EUR).cia",
+			"message": "Nettoyage..."
+		}
 	]
 }
