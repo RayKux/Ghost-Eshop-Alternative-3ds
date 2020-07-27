@@ -45,3 +45,7 @@ ________________________________________________________________________________
  -Pour les jeux de plus de 200Mib, il est conseillé d'avoir une connexion stable (*ADSL + Réseau privé*)
 
  -Pour les jeux de plus de 950Mib, il est conseillé d'avoir la fibre (*Fibre + Réseau privé*)
+ 
+ _____________________________________________________________________________________________________________________
+ 
+**ScreenShot:**
