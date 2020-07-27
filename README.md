@@ -13,7 +13,7 @@ Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alte
 
 The latest version available is "V0.5"! Check its output!
 
-**Universal-Team is not affiliated with this project. Universal-Team is against piracy. **
+**Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
 
 *Test:*
 
