@@ -21,6 +21,7 @@
 
  -For games over 950Mib, it is advisable to have fiber (*Fiber + Private network*)
 
+_____________________________________________________________________________________________________________________
 
 **Français:**
 
