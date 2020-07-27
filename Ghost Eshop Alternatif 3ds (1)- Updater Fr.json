@@ -33,10 +33,10 @@
 	],
 	"info": {
 		"author": "Ghost0159",
-		"description": "Ce script sert a mettre a jour:\n-Ghost Eshop Alternative Updater\n-Ghost Eshop Alternative\n\nGithub du createur: https://github.com/ghost0159\nEmail du createur: contact.ghost01@gmail.com\n\n\nLangue disponible: Francais, Anglais                                     Version: v1.1",
+		"description": "Ce script sert a mettre a jour:\n-Ghost Eshop Alternative Updater\n-Ghost Eshop Alternative\n\nGithub du createur: https://github.com/ghost0159\nEmail du createur: contact.ghost01@gmail.com\nDiscord du createur: ________________\n\nLangue disponible: Francais, Anglais                                     Version: v1.2",
 		"revision": 1,
-		"shortDesc": "\nVersion de l'updater: 1.1\nNombre de langue: 2\nLangue actuel: Fr",
-		"title": "Ghost Eshop Alternative - Updater",
+		"shortDesc": "\nVersion de l'updater: v1.2\nNombre de langue: 2\nLangue actuel: Fr",
+		"title": "Ghost Eshop Alternative - Updater Fr",
 		"version": 3
 	}
 }
