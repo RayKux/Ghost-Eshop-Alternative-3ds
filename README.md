@@ -11,7 +11,7 @@
 
  Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases).
 
- The latest version available is "V0.5"! Check its output!
+ The latest version available is "v0.6"! Check its output!
 
  **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
 
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
  Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases).
 
- La derniére version valide est la "V0.5"! Testé là!
+ La derniére version valide est la "v0.6"! Testé là!
 
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
