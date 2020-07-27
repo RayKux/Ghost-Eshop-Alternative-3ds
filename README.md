@@ -1,5 +1,5 @@
 # Ghost-Eshop-Alternative-3ds
-**English:**
+=======English:=======
 
 This is an alternative 3ds eshop in the form of a Universal-Updater script.
 
