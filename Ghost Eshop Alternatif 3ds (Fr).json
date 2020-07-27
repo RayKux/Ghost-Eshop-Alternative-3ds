@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: v0.6\nNombre de Fichiers: 79\nLangue actuel: Fr",
-		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  41\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  14\n\nCreateur: Ghost0159                                         Version: v0.6",
+		"shortDesc": "\nVersion de l'eshop: v0.6\nNombre de Fichiers: 93\nLangue actuel: Fr",
+		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  54\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  14\n\nCreateur: Ghost0159                                         Version: v0.6",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -1444,6 +1444,258 @@
 		{
 			"type": "deleteFile",
 			"file": "/Ace Combat 3D - Cross Rumble Plus (JPN).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Acrylic Palette - Irodori Cafe - Cheers (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/atwaooiadhpviyh/0774%20-%20Acrylic%20Palette%20-%20Irodori%20Cafe%20-%20Cheers%20%28JP%29.cia?dl=1",
+			"output": "/Acrylic Palette - Irodori Cafe - Cheers (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Acrylic Palette - Irodori Cafe - Cheers (JPN).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Acrylic Palette - Irodori Cafe - Cheers (JPN).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Adventure Time - Explore the Dungeon Because (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/6ug445pplkyljgo/0557%20-%20Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20DON%27T%20KNOW%21%20%28EU%29%28M5%29.cia?dl=1",
+			"output": "/Adventure Time - Explore the Dungeon Because (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Explore the Dungeon Because (EUR).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Explore the Dungeon Because (EUR).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Adventure Time - Explore the Dungeon Because (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ryi7p78622obm6g/0490%20-%20Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20DON%27T%20KNOW%21%20%28US%29.cia?dl=1",
+			"output": "/Adventure Time - Explore the Dungeon Because (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Explore the Dungeon Because (USA).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Explore the Dungeon Because (USA).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Adventure Time - Fine & Jake Investigations (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/taj3xbxrvlz8bwz/1375%20-%20Adventure%20Time%20-%20Finn%20%26%20Jake%20Investigations%20%28EU%29%28M5%29.cia?dl=1",
+			"output": "/Adventure Time - Fine & Jake Investigations (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Fine & Jake Investigations (EUR).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Fine & Jake Investigations (EUR).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Adventure Time - Fine & Jake Investigations (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/4nzfri9bzrla63s/1371%20-%20Adventure%20Time%20-%20Finn%20%26%20Jake%20Investigations%20%28US%29.cia?dl=1",
+			"output": "/Adventure Time - Fine & Jake Investigations (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Fine & Jake Investigations (USA).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Fine & Jake Investigations (USA).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/b43t2h9poofqckt/0446%20-%20Adventure%20Time%20-%20Hey%20Ice%20King%21%20Why%27d%20You%20Steal%20Our%20Garbage%21%21%20%28US%29.cia?dl=1",
+			"output": "/Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Adventure Time - The Secret of The Nameless kingdom (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/mjmu34jx0h6zhln/1135%20-%20Adventure%20Time%20-%20The%20Secret%20of%20the%20Nameless%20Kingdom%20%28EU%29.cia?dl=1",
+			"output": "/Adventure Time - The Secret of The Nameless kingdom (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - The Secret of The Nameless kingdom (EUR).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - The Secret of The Nameless kingdom (EUR).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Adventure Time - The Secret of The Nameless kingdom (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/xqrg71aandyg8x7/1110%20-%20Adventure%20Time%20-%20The%20Secret%20of%20the%20Nameless%20Kingdom%20%28US%29.cia?dl=1",
+			"output": "/Adventure Time - The Secret of The Nameless kingdom (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - The Secret of The Nameless kingdom (USA).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - The Secret of The Nameless kingdom (USA).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Aero the Acro-Bat (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/otd4835yek1yvuz/0000%20-%20Aero%20the%20Acro-Bat%20%28US%29.cia?dl=1",
+			"output": "/Aero the Acro-Bat (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Aero the Acro-Bat (USA).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Aero the Acro-Bat (USA).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Aero the Acro-Bat 2 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/xrtuhiiixtvo5yv/0000%20-%20Aero%20the%20Acro-Bat%202%20%28US%29.cia?dl=1",
+			"output": "/Aero the Acro-Bat 2 (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Aero the Acro-Bat 2 (USA).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Aero the Acro-Bat 2 (USA).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Aikatsu! 2-nin no My Princess (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/02t4x2j5rmsxjse/0856%20-%20Aikatsu%21%202-nin%20no%20My%20Princess%20%28JP%29.cia?dl=1",
+			"output": "/Aikatsu! 2-nin no My Princess (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Aikatsu! 2-nin no My Princess (JPN).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Aikatsu! 2-nin no My Princess (JPN).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Aikatsu! 365-nichi no Idol Days (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/xctzk4slb092ju4/1146%20-%20Aikatsu%21%20365-nichi%20no%20Idol%20Days%20%28JP%29.cia?dl=1",
+			"output": "/Aikatsu! 365-nichi no Idol Days (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Aikatsu! 365-nichi no Idol Days (JPN).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Aikatsu! 365-nichi no Idol Days (JPN).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"Aikatsu! Cinderella Lesson (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/lht3uykcmf22o9r/0726%20-%20Aikatsu%21%20Cinderella%20Lesson%20%28JP%29.cia?dl=1",
+			"output": "/Aikatsu! Cinderella Lesson (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Aikatsu! Cinderella Lesson (JPN).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Aikatsu! Cinderella Lesson (JPN).cia",
+			"message": "Nettoyage..."
+}
+	],
+	"AKB48 Me (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/m9ktqg00ibbqtt4/0356%20-%20AKB48%2BMe%20%28JP%29.cia?dl=1",
+			"output": "/AKB48 Me (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/AKB48 Me (JPN).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/AKB48 Me (JPN).cia",
 			"message": "Nettoyage..."
 		}
 	]
