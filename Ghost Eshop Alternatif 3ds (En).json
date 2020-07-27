@@ -1139,6 +1139,24 @@
 			"type": "deleteFile",
 			"file": "/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
 			"message": "Nettoyage(2/2)..."
-		}
+			}
+	],
+	"Shovel Knight Treasure Trove - Update 4.1 (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://uc781797b8a236abee02ba1853e8.dl.dropboxusercontent.com/cd/0/get/A8VXjv516c_4yX69oc7F3Q7GwB2lZJYx2eacnJ13ulczw1MjXhPu0TrMGm0Hakb8qFWVDN98R0CgY9sJy7hDXRsMW0atvy9hM2BE1Gl-akZUpNN9Rd-yDVMIuaDC3Fsv1Ds/file?dl=1#",
+			"output": "/Shovel Knight Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Shovel Knight Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Shovel Knight Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Nettoyage..."
+			}
 	]
 }
