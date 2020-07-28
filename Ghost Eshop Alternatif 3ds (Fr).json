@@ -49,24 +49,6 @@
 			"type": "deleteFilE"
 			}
 	],
-	"1001 Spikes (USA)": [
-		{
-			"type": "downloadFile",
-			"file": "",
-			"output": "/1001 Spikes (US).cia",
-			"message": "Téléchargement de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/1001 Spikes (US).cia",
-			"message": "Installation de votre Jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/1001 Spikes (US).cia",
-			"message": "Nettoyage..."
-			}
-	],
 	"12-Sai. Honto no Kimochi (JPN)": [
 		{
 			"type": "downloadFile",
@@ -1099,7 +1081,7 @@
 			"message": "Nettoyage..."
         }
 	],
-	"Super Monkey Ball 3D [EUR]": [
+	"Super Monkey Ball 3D (EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://o-9.1fichier.com/c491889788",
@@ -1157,7 +1139,66 @@
 			"type": "deleteFile",
 			"file": "/Pokémon Y (EUR)(M7).rar",
 			"message": "Nettoyage(2/2)..."
-
+	    }
+	],
+	"LEGO Star Wars III - The Clone Wars (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "http://dl.free.fr/jCro5tzK5",
+			"output": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).rar",
+			"input": "LEGO Star Wars III - The Clone Wars (EUR)(M6).cia",
+			"output": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).rar",
+			"message": "Nettoyage(2/2)..."
+	    }
+	],
+	"1001 Spikes (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://download2283.mediafire.com/kevt72cwosag/65qqoek2jz1y20u/1001SPKS-USA-CIA-_eShop_-Ziperto.rar",
+			"output": "/1001 Spikes (USA).rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/1001 Spikes (USA).rar",
+			"input": "1001 Spikes (USA).cia",
+			"output": "/1001 Spikes (USA).cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/1001 Spikes (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/1001 Spikes (USA).cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/1001 Spikes (USA).rar",
+			"message": "Nettoyage(2/2)..."
 		}
 	]
 }
