@@ -1,5 +1,5 @@
 # Ghost-Eshop-Alternative-3ds
-**English:**
+## English:
 
  This is an alternative 3ds eshop in the form of a Universal-Updater script.
 
@@ -27,7 +27,7 @@
 
 _____________________________________________________________________________________________________________________
 
-**Français:**
+## Français:
 
  Ceci est un eshop 3ds alternatif sous la forme d'un script Universal-Updater.
 
@@ -55,20 +55,15 @@ ________________________________________________________________________________
  
 _____________________________________________________________________________________________________________________
  
-**ScreenShot:**
-
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-01.745.bmp) 
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-30.547.bmp) 
-
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-00.489.bmp) 
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-06.051.bmp) 
+## ScreenShot:
 
 ![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-12.941.bmp) 
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-49.651.bmp) 
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-49.651.bmp)
+![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-01.745.bmp)![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-30.547.bmp)![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-00.489.bmp)![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-06.051.bmp)
 
 _____________________________________________________________________________________________________________________
 
-**Visitors:**
+## Visitors:
 
 ![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Capture.PNG) 
 
