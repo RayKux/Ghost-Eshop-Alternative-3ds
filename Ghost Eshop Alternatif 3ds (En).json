@@ -1054,7 +1054,7 @@
 	"Tom Clancy's Ghost Recon - Shadow Wars (EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/3DSCIA_testitem1/0001%20-%20Tom%20Clancy%27s%20Ghost%20Recon%20-%20Shadow%20Wars%20%28EU%29%28M5%29.rar",
+			"file": "http://dl.free.fr/jsQuA6Lww",
 			"output": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
 			"message": "Téléchargement  de votre jeux en cours..."
 		},
@@ -1084,7 +1084,7 @@
 	"Shovel Knight - Treasure Trove - Update 4.1 (EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://1fichier.com/?3ek2lvpxw2n9f2naz42b",
+			"file": "https://a-35.1fichier.com/c491907513",
 			"output": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
 			"message": "Téléchargement de votre mise à jour en cours..."
 		},
