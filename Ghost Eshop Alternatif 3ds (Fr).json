@@ -47,43 +47,7 @@
 			"file": "/Bloons TD4 - USA (DSiWare).cia",
 			"message": "Nettoyage...",
 			"type": "deleteFilE"
-			}
-	],
-	"1001 Spikes (USA)": [
-		{
-			"type": "downloadFile",
-			"file": "",
-			"output": "/1001 Spikes (US).cia",
-			"message": "Téléchargement de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/1001 Spikes (US).cia",
-			"message": "Installation de votre Jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/1001 Spikes (US).cia",
-			"message": "Nettoyage..."
-			}
-	],
-	"12-Sai. Honto no Kimochi (JPN)": [
-		{
-			"type": "downloadFile",
-			"file": "",
-			"output": "/12-Sai. Honto no Kimochi (JP).cia",
-			"message": "Téléchargement de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/12-Sai. Honto no Kimochi (JP).cia",
-			"message": "Installation de votre Jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/12-Sai. Honto no Kimochi (JP).cia",
-			"message": "Nettoyage..."
-			}
+		}
 	],
 	"Captain Toad: Treasure Tracker (EUR)": [
 		{
