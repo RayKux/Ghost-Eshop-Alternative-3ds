@@ -1079,7 +1079,7 @@
 			"type": "deleteFile",
 			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
 			"message": "Nettoyage(2/2)..."
-			        }
+		}
 	],
 	"Shovel Knight - Treasure Trove - Update 4.1 (EUR)": [
 		{
@@ -1127,6 +1127,37 @@
 			"type": "deleteFile",
 			"file": "/Super Monkey Ball 3D [EUR].rar",
 			"message": "Nettoyage(2/2)..."
+		}
+	],
+	"Pokémon Y (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "http://dl.free.fr/qrY71FFAc",
+			"output": "/Pokémon Y (EUR)(M7).rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/Pokémon Y (EUR)(M7).rar",
+			"input": "Pokémon Y (EUR)(M7).cia",
+			"output": "/Pokémon Y (EUR)(M7).cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pokémon Y (EUR)(M7).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pokémon Y (EUR)(M7).cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pokémon Y (EUR)(M7).rar",
+			"message": "Nettoyage(2/2)..."
+
 		}
 	]
 }
