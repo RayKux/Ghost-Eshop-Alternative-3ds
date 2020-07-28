@@ -57,7 +57,7 @@ ________________________________________________________________________________
  
 **ScreenShot:**
 
-![Alt Text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-01.745.bmp)
+![Alt Text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-01.745.bmp =100x20)
 ![Alt Text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-30.547.bmp)
 
 ![Alt Text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-00.489.bmp)
