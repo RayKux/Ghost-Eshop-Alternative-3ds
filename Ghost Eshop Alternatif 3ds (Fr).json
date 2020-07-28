@@ -2,7 +2,7 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: v0.6\nNombre de Fichiers: 57\nLangue actuel: Fr",
+		"shortDesc": "\nVersion de l'eshop: v0.6\nNombre de Fichiers: _\nLangue actuel: Fr",
 		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  14\n\nCreateur: Ghost0159                                         Version: v0.6",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
@@ -47,7 +47,43 @@
 			"file": "/Bloons TD4 - USA (DSiWare).cia",
 			"message": "Nettoyage...",
 			"type": "deleteFilE"
-		}
+			}
+	],
+	"1001 Spikes (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "",
+			"output": "/1001 Spikes (US).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/1001 Spikes (US).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/1001 Spikes (US).cia",
+			"message": "Nettoyage..."
+			}
+	],
+	"12-Sai. Honto no Kimochi (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "",
+			"output": "/12-Sai. Honto no Kimochi (JP).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/12-Sai. Honto no Kimochi (JP).cia",
+			"message": "Installation de votre Jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/12-Sai. Honto no Kimochi (JP).cia",
+			"message": "Nettoyage..."
+			}
 	],
 	"Captain Toad: Treasure Tracker (EUR)": [
 		{
@@ -1042,6 +1078,54 @@
 		{
 			"type": "deleteFile",
 			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
+			"message": "Nettoyage(2/2)..."
+			        }
+	],
+	"Shovel Knight - Treasure Trove - Update 4.1 (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://1fichier.com/?3ek2lvpxw2n9f2naz42b",
+			"output": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Téléchargement de votre mise à jour en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Installation de votre mise à jour en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Nettoyage..."
+        }
+	],
+	"Super Monkey Ball 3D [EUR]": [
+		{
+			"type": "downloadFile",
+			"file": "https://o-9.1fichier.com/c491889788",
+			"output": "/Super Monkey Ball 3D [EUR].rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/Super Monkey Ball 3D [EUR].rar",
+			"input": "Super Monkey Ball 3D [EUR].cia",
+			"output": "/Super Monkey Ball 3D [EUR].cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Monkey Ball 3D [EUR].cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Monkey Ball 3D [EUR].cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Monkey Ball 3D [EUR].rar",
 			"message": "Nettoyage(2/2)..."
 		}
 	]
