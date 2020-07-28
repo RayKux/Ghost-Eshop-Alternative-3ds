@@ -1050,5 +1050,35 @@
 			"file": "/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
 			"message": "Nettoyage(2/2)..."
 		}
+	],
+	"Tom Clancy's Ghost Recon - Shadow Wars (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3DSCIA_testitem1/0001%20-%20Tom%20Clancy%27s%20Ghost%20Recon%20-%20Shadow%20Wars%20%28EU%29%28M5%29.rar",
+			"output": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
+			"input": "Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
+			"output": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
+			"message": "Nettoyage(2/2)..."
+		}
 	]
 }
