@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: v0.6\nNombre de Fichiers: _\nLangue actuel: Fr",
-		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  14\n\nCreateur: Ghost0159                                         Version: v0.6",
+		"shortDesc": "\nVersion de l'eshop: v0.8\nNombre de Fichiers: _\nLangue actuel: Fr",
+		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  14\n\nCreateur: Ghost0159                                         Version: v0.8",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -1198,6 +1198,66 @@
 		{
 			"type": "deleteFile",
 			"file": "/1001 Spikes (USA).rar",
+			"message": "Nettoyage(2/2)..."
+	    }
+	],
+	"The Legend of Zelda - Ocarina of Time 3D (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://o-0.1fichier.com/c491931077",
+			"output": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).rar",
+			"input": " Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).cia",
+			"output": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).rar",
+			"message": "Nettoyage(2/2)..."
+	    }
+	],
+	"Super Mario 3D Land (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "http://www84.uptobox.com/dl/Q-9cbxpPOaxnXVBMd8m8LGLfdx-vD4rIbUzR_nIAAbSIWudXSikZeM9ukGPcV11ioCx3CTUze1UrkIYANGpnCvKTIa5k3_6KGUJ8kN33g0MO-rZpWIvnf6tnAUDMNCv6Fsm-d9EaNpQ2O-Ya87Dhsei6aSd7-_RLtH2zKjq1zjE/0005_-_Super_Mario_3D_Land__EU__M7_.RAR",
+			"output": "/Super Mario 3D Land (EU)(M7).rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/Super Mario 3D Land (EU)(M7).rar",
+			"input": "Super Mario 3D Land (EU)(M7).cia",
+			"output": "/Super Mario 3D Land (EU)(M7).cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario 3D Land (EU)(M7).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario 3D Land (EU)(M7).cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario 3D Land (EU)(M7).rar",
 			"message": "Nettoyage(2/2)..."
 		}
 	]
