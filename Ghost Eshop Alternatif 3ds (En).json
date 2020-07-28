@@ -2,7 +2,7 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - En",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion of the eshop: v0.6\nNumber of files: 57\nCurrent language: En",
+		"shortDesc": "\nVersion of the eshop: v0.6\nNumber of files: _\nCurrent language: En",
 		"description": "On this script you will find:\n-Movies and series in .cia format:  2/Homebrew:  2\n-Games and updates 3ds in .cia format:  _\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  9\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format:  14\n\nCreator: Ghost0159                                          Version: v0.6",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
@@ -1048,6 +1048,84 @@
 		{
 			"type": "deleteFile",
 			"file": "/Classic_SpikeDislike_Game_20190208_3dsBrew.zip",
+			"message": "Nettoyage(2/2)..."
+		}
+	],
+	"Tom Clancy's Ghost Recon - Shadow Wars (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/3DSCIA_testitem1/0001%20-%20Tom%20Clancy%27s%20Ghost%20Recon%20-%20Shadow%20Wars%20%28EU%29%28M5%29.rar",
+			"output": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
+			"input": "Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
+			"output": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
+			"message": "Nettoyage(2/2)..."
+			        }
+	],
+	"Shovel Knight - Treasure Trove - Update 4.1 (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://1fichier.com/?3ek2lvpxw2n9f2naz42b",
+			"output": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Téléchargement de votre mise à jour en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Installation de votre mise à jour en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
+			"message": "Nettoyage..."
+        }
+	],
+	"Super Monkey Ball 3D [EUR]": [
+		{
+			"type": "downloadFile",
+			"file": "https://o-9.1fichier.com/c491889788",
+			"output": "/Super Monkey Ball 3D [EUR].rar",
+			"message": "Téléchargement  de votre jeux en cours..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/Super Monkey Ball 3D [EUR].rar",
+			"input": "Super Monkey Ball 3D [EUR].cia",
+			"output": "/Super Monkey Ball 3D [EUR].cia",
+			"message": "Extraction de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Monkey Ball 3D [EUR].cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Monkey Ball 3D [EUR].cia",
+			"message": "Nettoyage(1/2)..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Monkey Ball 3D [EUR].rar",
 			"message": "Nettoyage(2/2)..."
 		}
 	]
