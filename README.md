@@ -11,13 +11,13 @@
 
  Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v0.7).
 
- The latest version available is "v0.7"! Check its output!
+ The latest version available is "v0.8"! Check its output!
 
  **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
  
  *This script will become a homebrew that will absolutely not depend on Universal-Team or using one of their tools, when the homebrew of its script comes out, we will adapt its script so that it does not work with Universal-Updater.*
  
- We currently have: **57** files in . cia format
+ We currently have: **64** files in . cia format
 
 *Test:*
 
@@ -39,13 +39,13 @@ ________________________________________________________________________________
 
  Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v0.7).
 
- La derniére version valide est la "v0.7"! Testé là!
+ La derniére version valide est la "v0.8"! Testé là!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
  *Ce script deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se script sortira, nous adapterons se script de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
  
- Nous avons actuellement: **57** fichier au format .cia
+ Nous avons actuellement: **64** fichier au format .cia
 
 *Test:*
 
