@@ -57,19 +57,19 @@ ________________________________________________________________________________
  
 **ScreenShot:**
 
-![https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-01.745.bmp](./pic/pic1_50.png =50x10)
-![https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-30.547.bmp](./pic/pic1_50.png =50x10)
-![https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-00.489.bmp](./pic/pic1_50.png =50x10)
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-01.745.bmp) 
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-30.547.bmp) 
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-00.489.bmp) 
 
-![https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-06.051.bmp](./pic/pic1_50.png =50x10)
-![https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-12.941.bmp](./pic/pic1_50.png =50x10)
-![https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-49.651.bmp](./pic/pic1_50.png =50x10)
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-06.051.bmp) 
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-12.941.bmp) 
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-49.651.bmp) 
 
 _____________________________________________________________________________________________________________________
 
 **Visitors:**
 
-![https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Capture.PNG](./pic/pic1_50.png =100x20)
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Capture.PNG) 
 
 _____________________________________________________________________________________________________________________
 
