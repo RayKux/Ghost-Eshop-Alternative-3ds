@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: v0.8\nNombre de Fichiers: 64\nLangue actuel: Fr",
-		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  14\n\nCreateur: Ghost0159                                         Version: v0.8",
+		"shortDesc": "\nVersion de l'eshop: v0.9\nNombre de Fichiers: _\nLangue actuel: Fr",
+		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  14\n\nCreateur: Ghost0159                                         Version: v0.9",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -47,25 +47,7 @@
 			"file": "/Bloons TD4 - USA (DSiWare).cia",
 			"message": "Nettoyage...",
 			"type": "deleteFilE"
-			}
-	],
-	"12-Sai. Honto no Kimochi (JPN)": [
-		{
-			"type": "downloadFile",
-			"file": "",
-			"output": "/12-Sai. Honto no Kimochi (JP).cia",
-			"message": "Téléchargement de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/12-Sai. Honto no Kimochi (JP).cia",
-			"message": "Installation de votre Jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/12-Sai. Honto no Kimochi (JP).cia",
-			"message": "Nettoyage..."
-			}
+		}
 	],
 	"Captain Toad: Treasure Tracker (EUR)": [
 		{
@@ -1033,36 +1015,6 @@
 			"message": "Nettoyage(2/2)..."
 		}
 	],
-	"Tom Clancy's Ghost Recon - Shadow Wars (EUR)": [
-		{
-			"type": "downloadFile",
-			"file": "http://dl.free.fr/jsQuA6Lww",
-			"output": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
-			"message": "Téléchargement  de votre jeux en cours..."
-		},
-		{
-			"type": "extractFile",
-			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
-			"input": "Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
-			"output": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
-			"message": "Extraction de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
-			"message": "Installation de votre jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).cia",
-			"message": "Nettoyage(1/2)..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Tom Clancy's Ghost Recon - Shadow Wars (EU)(M5).rar",
-			"message": "Nettoyage(2/2)..."
-		}
-	],
 	"Shovel Knight - Treasure Trove - Update 4.1 (EUR)": [
 		{
 			"type": "downloadFile",
@@ -1079,186 +1031,6 @@
 			"type": "deleteFile",
 			"file": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
 			"message": "Nettoyage..."
-        }
-	],
-	"Super Monkey Ball 3D (EUR)": [
-		{
-			"type": "downloadFile",
-			"file": "https://o-9.1fichier.com/c491889788",
-			"output": "/Super Monkey Ball 3D [EUR].rar",
-			"message": "Téléchargement  de votre jeux en cours..."
-		},
-		{
-			"type": "extractFile",
-			"file": "/Super Monkey Ball 3D [EUR].rar",
-			"input": "Super Monkey Ball 3D [EUR].cia",
-			"output": "/Super Monkey Ball 3D [EUR].cia",
-			"message": "Extraction de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/Super Monkey Ball 3D [EUR].cia",
-			"message": "Installation de votre jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Super Monkey Ball 3D [EUR].cia",
-			"message": "Nettoyage(1/2)..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Super Monkey Ball 3D [EUR].rar",
-			"message": "Nettoyage(2/2)..."
-		}
-	],
-	"Pokémon Y (EUR)": [
-		{
-			"type": "downloadFile",
-			"file": "http://dl.free.fr/qrY71FFAc",
-			"output": "/Pokémon Y (EUR)(M7).rar",
-			"message": "Téléchargement  de votre jeux en cours..."
-		},
-		{
-			"type": "extractFile",
-			"file": "/Pokémon Y (EUR)(M7).rar",
-			"input": "Pokémon Y (EUR)(M7).cia",
-			"output": "/Pokémon Y (EUR)(M7).cia",
-			"message": "Extraction de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/Pokémon Y (EUR)(M7).cia",
-			"message": "Installation de votre jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Pokémon Y (EUR)(M7).cia",
-			"message": "Nettoyage(1/2)..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Pokémon Y (EUR)(M7).rar",
-			"message": "Nettoyage(2/2)..."
-	    }
-	],
-	"LEGO Star Wars III - The Clone Wars (EUR)": [
-		{
-			"type": "downloadFile",
-			"file": "http://dl.free.fr/jCro5tzK5",
-			"output": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).rar",
-			"message": "Téléchargement  de votre jeux en cours..."
-		},
-		{
-			"type": "extractFile",
-			"file": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).rar",
-			"input": "LEGO Star Wars III - The Clone Wars (EUR)(M6).cia",
-			"output": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).cia",
-			"message": "Extraction de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).cia",
-			"message": "Installation de votre jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).cia",
-			"message": "Nettoyage(1/2)..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/LEGO Star Wars III - The Clone Wars (EUR)(M6).rar",
-			"message": "Nettoyage(2/2)..."
-	    }
-	],
-	"1001 Spikes (USA)": [
-		{
-			"type": "downloadFile",
-			"file": "https://download2283.mediafire.com/kevt72cwosag/65qqoek2jz1y20u/1001SPKS-USA-CIA-_eShop_-Ziperto.rar",
-			"output": "/1001 Spikes (USA).rar",
-			"message": "Téléchargement  de votre jeux en cours..."
-		},
-		{
-			"type": "extractFile",
-			"file": "/1001 Spikes (USA).rar",
-			"input": "1001 Spikes (USA).cia",
-			"output": "/1001 Spikes (USA).cia",
-			"message": "Extraction de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/1001 Spikes (USA).cia",
-			"message": "Installation de votre jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/1001 Spikes (USA).cia",
-			"message": "Nettoyage(1/2)..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/1001 Spikes (USA).rar",
-			"message": "Nettoyage(2/2)..."
-	    }
-	],
-	"The Legend of Zelda - Ocarina of Time 3D (EUR)": [
-		{
-			"type": "downloadFile",
-			"file": "https://o-0.1fichier.com/c491931077",
-			"output": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).rar",
-			"message": "Téléchargement  de votre jeux en cours..."
-		},
-		{
-			"type": "extractFile",
-			"file": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).rar",
-			"input": " Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).cia",
-			"output": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).cia",
-			"message": "Extraction de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).cia",
-			"message": "Installation de votre jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).cia",
-			"message": "Nettoyage(1/2)..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/ Legend of Zelda - Ocarina of Time 3D, The (EU)(M5).rar",
-			"message": "Nettoyage(2/2)..."
-	    }
-	],
-	"Super Mario 3D Land (EUR)": [
-		{
-			"type": "downloadFile",
-			"file": "http://www84.uptobox.com/dl/Q-9cbxpPOaxnXVBMd8m8LGLfdx-vD4rIbUzR_nIAAbSIWudXSikZeM9ukGPcV11ioCx3CTUze1UrkIYANGpnCvKTIa5k3_6KGUJ8kN33g0MO-rZpWIvnf6tnAUDMNCv6Fsm-d9EaNpQ2O-Ya87Dhsei6aSd7-_RLtH2zKjq1zjE/0005_-_Super_Mario_3D_Land__EU__M7_.RAR",
-			"output": "/Super Mario 3D Land (EU)(M7).rar",
-			"message": "Téléchargement  de votre jeux en cours..."
-		},
-		{
-			"type": "extractFile",
-			"file": "/Super Mario 3D Land (EU)(M7).rar",
-			"input": "Super Mario 3D Land (EU)(M7).cia",
-			"output": "/Super Mario 3D Land (EU)(M7).cia",
-			"message": "Extraction de votre jeux en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/Super Mario 3D Land (EU)(M7).cia",
-			"message": "Installation de votre jeux en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Super Mario 3D Land (EU)(M7).cia",
-			"message": "Nettoyage(1/2)..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Super Mario 3D Land (EU)(M7).rar",
-			"message": "Nettoyage(2/2)..."
 		}
 	]
 }
