@@ -70,11 +70,14 @@ ________________________________________________________________________________
 **Facebook: [Groupe Ghost Eshop Aternative](https://www.facebook.com/groups/293898438606830).**
 _____________________________________________________________________________________________________________________
 
-**Crédits: [Ghost0159](https://github.com/Ghost0159).**
-
-_____________________________________________________________________________________________________________________
 
 ## News:
 
 **Nouveaux hébergeur de fichiers:**
+
 ![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Nouvelle%20h%C3%A9bergeur.PNG)
+
+
+_____________________________________________________________________________________________________________________
+
+**Crédits: [Ghost0159](https://github.com/Ghost0159).**
