@@ -1,7 +1,7 @@
 # Ghost-Eshop-Alternative-3ds
 _____________________________________________________________________________________________________________________
 ## Languages:
-**-[English](); [Français](); [Spanish]().**
+**-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/README.md#english); [Français](); [Spanish]().**
 _____________________________________________________________________________________________________________________
 
 ## English:
