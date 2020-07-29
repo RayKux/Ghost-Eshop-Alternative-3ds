@@ -72,3 +72,9 @@ ________________________________________________________________________________
 
 **Crédits: [Ghost0159](https://github.com/Ghost0159).**
 
+_____________________________________________________________________________________________________________________
+
+## News:
+
+**Nouveaux hébergeur de fichiers:**
+![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Nouvelle%20h%C3%A9bergeur.PNG)
