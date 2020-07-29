@@ -52,16 +52,9 @@ ________________________________________________________________________________
  -Pour les jeux de plus de 200Mib, il est conseillé d'avoir une connexion stable (*ADSL + Réseau privé*)
 
  -Pour les jeux de plus de 950Mib, il est conseillé d'avoir la fibre (*Fibre + Réseau privé*)
- 
-_____________________________________________________________________________________________________________________
- 
-## ScreenShot:
-
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-12.941.bmp) 
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-49.651.bmp)
-![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-01.745.bmp)![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-55-30.547.bmp)![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-00.489.bmp)![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/mrg_2020-07-27_18-56-06.051.bmp)
 
 _____________________________________________________________________________________________________________________
+
 
 ## Visitors:
 
