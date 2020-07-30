@@ -14,9 +14,9 @@ ________________________________________________________________________________
 
  Mail: contact.ghost01@gmail.com
 
- Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v0.9).
+ Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v0.9.1).
 
- The latest version available is "v0.9"! Check its output!
+ The latest version available is "v0.9.1"! Check its output!
 
  **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
  
@@ -42,9 +42,9 @@ ________________________________________________________________________________
 
  Mail: contact.ghost01@gmail.com
 
- Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v0.9).
+ Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v0.9.1).
 
- La derniére version valide est la "v0.9"! Testé là!
+ La derniére version valide est la "v0.9.1"! Testé là!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
