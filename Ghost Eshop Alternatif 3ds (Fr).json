@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: v0.9\nNombre de Fichiers: 80\nLangue actuel: Fr",
-		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  38\n\nCreateur: Ghost0159                                         Version: v0.9",
+		"shortDesc": "\nVersion de l'eshop: v0.9.1\nNombre de Fichiers: 80\nLangue actuel: Fr",
+		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  38\n\nCreateur: Ghost0159                                         Version: v0.9.1",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -1055,17 +1055,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Alleyway%E2%84%A2%20EUR%20%280004000000041000%29.cia",
-			"output": "/Alleyway™ (GB)(EUR).cia",
+			"output": "/Alleway (GB)(EUR).cia",
 			"message": "Téléchargement de votre mise à jour en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Alleyway™ (GB)(EUR).cia",
+			"file": "/Alleway (GB)(EUR).cia",
 			"message": "Installation de votre mise à jour en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Alleyway™ (GB)(EUR).cia",
+			"file": "/A.cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1073,17 +1073,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/BIONIC%20COMMANDO%E2%84%A2%20EUR%20%280004000000058500%29.cia",
-			"output": "/Bionic Commando™ (GB)(EUR).cia",
+			"output": "/Bionic Commando (GB)(EUR).cia",
 			"message": "Téléchargement de votre mise à jour en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Bionic Commando™ (GB)(EUR).cia",
+			"file": "/Bionic Commando (GB)(EUR).cia",
 			"message": "Installation de votre mise à jour en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Bionic Commando™ (GB)(EUR).cia",
+			"file": "/Bionic Commando (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1091,17 +1091,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Balloon%20Kid%E2%84%A2%20EUR%20%280004000000067300%29.cia",
-			"output": "/Balloon Kid™ (GB)(EUR).cia",
+			"output": "/Balloon Kid (GB)(EUR).cia",
 			"message": "Téléchargement de votre mise à jour en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Balloon Kid™ (GB)(EUR).cia",
+			"file": "/Balloon Kid (GB)(EUR).cia",
 			"message": "Installation de votre mise à jour en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Balloon Kid™ (GB)(EUR).cia",
+			"file": "/Balloon Kid (GB)(EUR).cia",
 			"message": "Nettoyage..."
 	    }
 	],
@@ -1128,12 +1128,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Burger%20Time%20DELUXE%20EUR%20%280004000000050b00%29.cia",
 			"output": "/Burger Time DELUXE (GB)(EUR.cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Burger Time DELUXE (GB)(EUR.cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1146,12 +1146,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/CATRAP%20EUR%20%28000400000004f900%29.cia",
 			"output": "/Catrap (GB)(EUR.cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Catrap (GB)(EUR.cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1164,12 +1164,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Castlevania%20The%20Adventure%20EUR%20%28000400000007df00%29.cia",
 			"output": "/Castlevania The Adventure (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Castlevania The Adventure (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1181,17 +1181,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%202%20EUR%20%28000400000011a400%29.cia",
-			"output": "/Donkey Kong Land™ 2 (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Donkey Kong Land 2 (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Donkey Kong Land™ 2 (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Donkey Kong Land 2 (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Donkey Kong Land™ 2 (GB)(EUR).cia",
+			"file": "/Donkey Kong Land 2 (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1199,17 +1199,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%20III%20EUR%20%28000400000011a700%29.cia",
-			"output": "/Donkey Kong Land™ III (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Donkey Kong Land III (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Donkey Kong Land™ III (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Donkey Kong Land III (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Donkey Kong Land™ III (GB)(EUR).cia",
+			"file": "/Donkey Kong Land III (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1217,17 +1217,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20EUR%20%280004000000041f00%29.cia",
-			"output": "/Donkey Kong™ (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Donkey Kong (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Donkey Kong™ (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Donkey Kong (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Donkey Kong™ (GB)(EUR).cia",
+			"file": "/Donkey Kong (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1235,17 +1235,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20Land%20EUR%20%280004000000050200%29.cia",
-			"output": "/Donkey Kong™ Land (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Donkey Kong Land (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Donkey Kong™ Land (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Donkey Kong Land (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Donkey Kong™ Land (GB)(EUR).cia",
+			"file": "/Donkey Kong Land (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1254,12 +1254,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Double%20Dragon%20EUR%20%280004000000049d00%29.cia",
 			"output": "/Double Dragon (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Double Dragon (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1271,17 +1271,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Dr.%20Mario%E2%84%A2%20EUR%20%280004000000050800%29.cia",
-			"output": "/Dr. Mario™ (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Dr. Mario (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Dr. Mario™ (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Dr. Mario (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Dr. Mario™ (GB)(EUR).cia",
+			"file": "/Dr. Mario (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1290,12 +1290,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Fortified%20Zone%20EUR%20%280004000000046d00%29.cia",
 			"output": "/Fortified Zone (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Fortified Zone (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1308,12 +1308,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/GARGOYLE%27S%20QUEST%20EUR%20%28000400000004f500%29.cia",
 			"output": "/Gargoyle's Quest (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Gargoyle's Quest (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1325,17 +1325,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Game%20%26amp%3B%20Watch%E2%84%A2%20Gallery%20EUR%20%280004000000042500%29.cia",
-			"output": "/Game &; Watch™ Gallery (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Game &; Watch Gallery (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Game &; Watch™ Gallery (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Game &; Watch Gallery (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Game &; Watch™ Gallery (GB)(EUR).cia",
+			"file": "/Game &; Watch Gallery (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1344,12 +1344,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Golf%20EUR%20%280004000000042d00%29.cia",
 			"output": "/Golf (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Golf (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1361,17 +1361,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kid%20Icarus%E2%84%A2%20Of%20Myths%20And%20Monsters%20EUR%20%280004000000069500%29.cia",
-			"output": "/Kid Icarus™ Of Myths And Monsters (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Kid Icarus Of Myths And Monsters (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Kid Icarus™ Of Myths And Monsters (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Kid Icarus Of Myths And Monsters (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Kid Icarus™ Of Myths And Monsters (GB)(EUR).cia",
+			"file": "/Kid Icarus Of Myths And Monsters (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1379,17 +1379,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Block%20Ball%E2%84%A2%20EUR%20%280004000000069200%29.cia",
-			"output": "/Kirby's Block Ball™ (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Kirby's Block Ball (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Kirby's Block Ball™ (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Kirby's Block Ball (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "Kirby's Block Ball™ (GB)(EUR)/.cia",
+			"file": "Kirby's Block Ball (GB)(EUR)/.cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1397,17 +1397,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%202%20EUR%20%28000400000007dc00%29.cia",
-			"output": "/Kirby's Dream Land™ 2 (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Kirby's Dream Land 2 (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Kirby's Dream Land™ 2 (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Kirby's Dream Land 2 (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Kirby's Dream Land™ 2 (GB)(EUR).cia",
+			"file": "/Kirby's Dream Land 2 (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1415,17 +1415,17 @@
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%20EUR%20%280004000000041900%29.cia",
-			"output": "/Kirby's Dream Land™ (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"output": "/Kirby's Dream Land (GB)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
-			"file": "/Kirby's Dream Land™ (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"file": "/Kirby's Dream Land (GB)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "/Kirby's Dream Land™ (GB)(EUR).cia",
+			"file": "/Kirby's Dream Land (GB)(EUR).cia",
 			"message": "Nettoyage..."
 		}
 	],
@@ -1434,12 +1434,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Pinball%20Land%20EUR%20%28000400000008b100%29.cia",
 			"output": "/Kirby's Pinball Land (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Kirby's Pinball Land (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1452,12 +1452,12 @@
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Star%20Stacker%20EUR%20%28000400000008ad00%29.cia",
 			"output": "/Kirby's Star Stacker (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Kirby's Star Stacker (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
