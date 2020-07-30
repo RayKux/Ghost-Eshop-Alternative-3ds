@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: v0.9.1\nNombre de Fichiers: 80\nLangue actuel: Fr",
-		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  2\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  9\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  38\n\nCreateur: Ghost0159                                         Version: v0.9.1",
+		"shortDesc": "\nVersion de l'eshop: v0.9.1\nNombre de Fichiers: 106\nLangue actuel: Fr",
+		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  3\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  35\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  38\n\nCreateur: Ghost0159                                         Version: v0.9.1",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -301,24 +301,6 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Shrek 2 (Film entier)": [
-		{
-			"type": "downloadFile",
-			"file": "https://archive.org/download/3ds-cia-shop-archive/%5BFULL%20MOVIE%5D%20Shrek%202.cia",
-			"output": "/[FULL MOVIE] Shrek 2.cia",
-			"message": "Téléchargement de votre film en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/[FULL MOVIE] Shrek 2.cia",
-			"message": "Installation de votre film en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/[FULL MOVIE] Shrek 2.cia",
-			"message": "Nettoyage..."
-		}
-	],
 	"Sonic X (Episodes 1-2, Anglais)": [
 		{
 			"type": "downloadFile",
@@ -532,7 +514,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Super Mario Bros (NES).cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Luigi's Mansion 2: Dark Moon (USA)": [
@@ -550,7 +532,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Luigis Mansion - Dark Moon (USA) (RF).cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Super Mario 3D Land (USA)": [
@@ -568,7 +550,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Super Mario 3D Land US.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Kirby: Triple Deluxe (USA)": [
@@ -586,7 +568,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Kirby Triple Deluxe US.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"The Legend of Zelda: Ocarina of Time 3D (USA)": [
@@ -604,7 +586,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/The Legend of Zelda Ocarina of Time 3D (USA).cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Petit Computer (USA)": [
@@ -622,7 +604,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Petit_Computer_USA.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Pokemon Crystal Version (USA)": [
@@ -640,7 +622,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Pokemon Crystal USA.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Crash Bandicoot 2: N-Tranced (GBA)": [
@@ -658,7 +640,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Crash Bandicoot 2 N-Tranced.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Crash Bandicoot: The Huge Adventure (GBA)": [
@@ -676,7 +658,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Crash Bandicoot The Huge Adventure.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Pokemon Crystal Version (EUR)": [
@@ -694,7 +676,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Pokemon Crystal EUR.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Crash Nitro Kart (GBA)": [
@@ -712,7 +694,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Crash Nitro Kart.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Pokemon Prism (Hack for Pokemon Crystal)": [
@@ -730,7 +712,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Pokemon Prism.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"The Legend of Zelda: Majora's Mask 3D (USA)": [
@@ -748,7 +730,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/The Legend Of Zelda Majoras Mask 3D ( Usa).cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Super Mario Advance 4 - Super Mario Bros. 3": [
@@ -766,7 +748,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Super Mario Advance 4.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Wrecking Crew (NES)": [
@@ -784,7 +766,7 @@
 			{
 			"type": "deleteFile",
 			"file": "/Wrecking Crew (NES).cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Mario Kart: Super Circuit (GBA)": [
@@ -802,7 +784,7 @@
 			{
 			"type": "deleteFile",
 			"file": "/Mario Kart - Super Circuit.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Super Mario Bros. 2 (NES)": [
@@ -820,7 +802,7 @@
 			{
 			"type": "deleteFile",
 			"file": "/Super Mario USA.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage...."
 		}
 	],
 	"Super Mario Advance - Super Mario Bros. 2 (GBA)": [
@@ -838,7 +820,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Super Mario Advance.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Super Mario Bros. 3 (NES)": [
@@ -856,7 +838,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Super Mario Bros III.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Super Mario Bros.: The Lost Levels (NES)": [
@@ -874,7 +856,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Super Mario Bros - The Lost Levels.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Mario vs Donkey Kong: Minis March Again! (DSiWare)": [
@@ -892,7 +874,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/Mario VS Donkey Kong - Minis March Again.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Mario Kart 7 - Update 1.1 (USA)": [
@@ -905,12 +887,12 @@
 		{
 			"type": "installCia",
 			"file": "/MK7Update - USA.cia",
-			"message": "Installation de votre jeux en cours..."
+			"message": "Installation de votre mise à jour en cours..."
 		},
 		{
 			"type": "deleteFile",
 			"file": "/MK7Update - USA.cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Mario Kart 7 - Update 1.1 (EUR)": [
@@ -923,12 +905,12 @@
 		{
 			"type": "installCia",
 			"file": "/Mario Kart 7 - 1.1 Update (EUR).cia",
-			"message": "Installation de votre jeux en cours..."
+			"message": "Installation de votre mise à jour en cours..."
 		},
 		{
 			"type": "deleteFile",
 			"file": "/Mario Kart 7 - 1.1 Update (EUR).cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Netflix (USA)": [
@@ -941,12 +923,12 @@
 		{
 			"type": "installCia",
 			"file": "/Netflix (USA).cia",
-			"message": "Installation de votre jeux en cours..."
+			"message": "Installation de votre application en cours..."
 		},
 		{
 			"type": "deleteFile",
 			"file": "/Netflix (USA).cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Super Mario Bros. Deluxe (GBC)": [
@@ -964,7 +946,7 @@
 		{
 			"type": "deleteFile",
 			"file": "/[3DS CIA SHOP] SMB Deluxe (Europe, GBC).cia",
-			"message": "Deleting an unneeded file..."
+			"message": "Nettoyage..."
 		}
 	],
 	"Sonic 3 Complete (Genesis/MD)": [
@@ -1015,35 +997,17 @@
 			"message": "Nettoyage(2/2)..."
 		}
 	],
-	"Shovel Knight - Treasure Trove - Update 4.1 (EUR)": [
-		{
-			"type": "downloadFile",
-			"file": "https://a-35.1fichier.com/c491907513",
-			"output": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
-		},
-		{
-			"type": "installCia",
-			"file": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
-		},
-		{
-			"type": "deleteFile",
-			"file": "/Shovel Knight - Treasure Trove - Update 4.1 (EUR).cia",
-			"message": "Nettoyage..."
-		}
-	],
-	"Adventure Island (GB)(EUR)": [
+	"Adventure Island (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/ADVENTURE%20ISLAND%20EUR%20%28000400000004ff00%29.cia",
 			"output": "/Adventure Island (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Adventure Island (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1051,17 +1015,17 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Alleyway™ (GB)(EUR)": [
+	"Alleyway™ (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Alleyway%E2%84%A2%20EUR%20%280004000000041000%29.cia",
 			"output": "/Alleway (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Alleway (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1069,17 +1033,17 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Bionic Commando™ (GB)(EUR)": [
+	"Bionic Commando™ (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/BIONIC%20COMMANDO%E2%84%A2%20EUR%20%280004000000058500%29.cia",
 			"output": "/Bionic Commando (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Bionic Commando (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1087,17 +1051,17 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Balloon Kid™ (GB)(EUR)": [
+	"Balloon Kid™ (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Balloon%20Kid%E2%84%A2%20EUR%20%280004000000067300%29.cia",
 			"output": "/Balloon Kid (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Balloon Kid (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1105,17 +1069,17 @@
 			"message": "Nettoyage..."
 	    }
 	],
-	"Baseball (GB)(EUR)": [
+	"Baseball (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Baseball%20EUR%20%280004000000040d00%29.cia",
 			"output": "/Baseball (GB)(EUR).cia",
-			"message": "Téléchargement de votre mise à jour en cours..."
+			"message": "Téléchargement de votre jeux en cours..."
 		},
 		{
 			"type": "installCia",
 			"file": "/Baseball (GB)(EUR).cia",
-			"message": "Installation de votre mise à jour en cours..."
+			"message": "Installation de votre jeux en cours en cours..."
 		},
 		{
 			"type": "deleteFile",
@@ -1123,7 +1087,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Burger Time DELUXE (GB)(EUR)": [
+	"Burger Time DELUXE (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Burger%20Time%20DELUXE%20EUR%20%280004000000050b00%29.cia",
@@ -1141,7 +1105,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Catrap (GB)(EUR)": [
+	"Catrap (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/CATRAP%20EUR%20%28000400000004f900%29.cia",
@@ -1159,7 +1123,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Castlevania The Adventure (GB)(EUR)": [
+	"Castlevania The Adventure (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Castlevania%20The%20Adventure%20EUR%20%28000400000007df00%29.cia",
@@ -1177,7 +1141,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong Land™ 2 (GB)(EUR)": [
+	"Donkey Kong Land™ 2 (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%202%20EUR%20%28000400000011a400%29.cia",
@@ -1195,7 +1159,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong Land™ III (GB)(EUR)": [
+	"Donkey Kong Land™ III (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%20III%20EUR%20%28000400000011a700%29.cia",
@@ -1213,7 +1177,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong™ (GB)(EUR)": [
+	"Donkey Kong™ (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20EUR%20%280004000000041f00%29.cia",
@@ -1231,7 +1195,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong™ Land (GB)(EUR)": [
+	"Donkey Kong™ Land (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20Land%20EUR%20%280004000000050200%29.cia",
@@ -1249,7 +1213,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Double Dragon (GB)(EUR)": [
+	"Double Dragon (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Double%20Dragon%20EUR%20%280004000000049d00%29.cia",
@@ -1267,7 +1231,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Dr. Mario™ (GB)(EUR)": [
+	"Dr. Mario™ (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Dr.%20Mario%E2%84%A2%20EUR%20%280004000000050800%29.cia",
@@ -1285,7 +1249,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Fortified Zone (GB)(EUR)": [
+	"Fortified Zone (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Fortified%20Zone%20EUR%20%280004000000046d00%29.cia",
@@ -1303,7 +1267,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Gargoyle's Quest (GB)(EUR)": [
+	"Gargoyle's Quest (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/GARGOYLE%27S%20QUEST%20EUR%20%28000400000004f500%29.cia",
@@ -1321,7 +1285,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Game &; Watch™ Gallery (GB)(EUR)": [
+	"Game &; Watch™ Gallery (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Game%20%26amp%3B%20Watch%E2%84%A2%20Gallery%20EUR%20%280004000000042500%29.cia",
@@ -1339,7 +1303,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Golf (GB)(EUR)": [
+	"Golf (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Golf%20EUR%20%280004000000042d00%29.cia",
@@ -1357,7 +1321,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kid Icarus™ Of Myths And Monsters (GB)(EUR)": [
+	"Kid Icarus™ Of Myths And Monsters (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kid%20Icarus%E2%84%A2%20Of%20Myths%20And%20Monsters%20EUR%20%280004000000069500%29.cia",
@@ -1375,7 +1339,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Block Ball™ (GB)(EUR)": [
+	"Kirby's Block Ball™ (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Block%20Ball%E2%84%A2%20EUR%20%280004000000069200%29.cia",
@@ -1393,7 +1357,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Dream Land™ 2 (GB)(EUR)": [
+	"Kirby's Dream Land™ 2 (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%202%20EUR%20%28000400000007dc00%29.cia",
@@ -1411,7 +1375,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Dream Land™ (GB)(EUR)": [
+	"Kirby's Dream Land™ (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%20EUR%20%280004000000041900%29.cia",
@@ -1429,7 +1393,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Pinball Land (GB)(EUR)": [
+	"Kirby's Pinball Land (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Pinball%20Land%20EUR%20%28000400000008b100%29.cia",
@@ -1447,7 +1411,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Star Stacker (GB)(EUR)": [
+	"Kirby's Star Stacker (GB;EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Star%20Stacker%20EUR%20%28000400000008ad00%29.cia",
@@ -1463,6 +1427,464 @@
 			"type": "deleteFile",
 			"file": "/Kirby's Star Stacker (GB)(EUR).cia",
 			"message": "Nettoyage..."
+		}
+	],
+	"Adventure Island II (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Adventure%20Island%20II%20EUR%20%2800040000000cfa00%29.cia",
+			"output": "/Adventure Island II (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Island II (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Island II (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Adventures of Lolo™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Adventures%20of%20Lolo%E2%84%A2%20EUR%20%28000400000010fb00%29.cia",
+			"output": "/Adventures of Lolo (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventures of Lolo (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventures of Lolo (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Balloon Fight™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Balloon%20Fight%E2%84%A2%20EUR%20%280004000000070400%29.cia",
+			"output": "/Balloon Fight (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Balloon Fight (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Balloon Fight (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Blaster Master™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/BLASTER%20MASTER%E2%84%A2%20EUR%20%280004000000099300%29.cia",
+			"output": "/Blaster Master (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Blaster Master (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Blaster Master (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Castlevania Ⅱ Simon's Quest (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Castlevania%20%E2%85%A1%20Simon%27s%20Quest%20EUR%20%2800040000000bdc00%29.cia",
+			"output": "/Castlevania Ⅱ Simon's Quest (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Castlevania Ⅱ Simon's Quest (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Castlevania Ⅱ Simon's Quest (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Castlevania III Dracula's Curse (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Castlevania%20III%20Dracula%27s%20Curse%20EUR%20%2800040000000b2b00%29.cia",
+			"output": "/Castlevania III Dracula's Curse (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Castlevania III Dracula's Curse (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Castlevania III Dracula's Curse (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Castlevania™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Castlevania%E2%84%A2%20EUR%20%28000400000009dc00%29.cia",
+			"output": "/Castlevania (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Castlevania (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Castlevania (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"City Connection™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/City%20Connection%E2%84%A2%20EUR%20%2800040000000b2f00%29.cia",
+			"output": "/City Connection (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/City Connection (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/City Connection (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Clu Clu Land (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Clu%20Clu%20Land%20EUR%20%2800040000000cdc00%29.cia",
+			"output": "/Clu Clu Land (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Clu Clu Land (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Clu Clu Land (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Crash'n the Boys Street Challenge (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Crash%27n%20the%20Boys%20Street%20Challenge%20EUR%20%2800040000000b7200%29.cia",
+			"output": "/Crash'n the Boys Street Challenge (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crash'n the Boys Street Challenge (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crash'n the Boys Street Challenge (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Devil World (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Devil%20World%20EUR%20%2800040000000ca400%29.cia",
+			"output": "/Devil World (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Devil World (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Devil World (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Dig Dug (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Dig%20Dug%20EUR%20%28000400000009df00%29.cia",
+			"output": "/Dig Dug (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Dig Dug (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Dig Dug (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Donkey Kong Jr.™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Donkey%20Kong%20Jr.%E2%84%A2%20EUR%20%280004000000070100%29.cia",
+			"output": "/Donkey Kong Jr. (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Donkey Kong Jr. (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Donkey Kong Jr. (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Donkey Kong™ 3 (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%203%20EUR%20%2800040000000b6000%29.cia",
+			"output": "/Donkey Kong 3 (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Donkey Kong 3 (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Donkey Kong 3 (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Donkey Kong™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%20EUR%20%2800040000000a4700%29.cia",
+			"output": "/Donkey Kong (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Donkey Kong (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Donkey Kong (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Donkey Kong™ Original Edition (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%20Original%20Edition%20EUR%20%28000400000006f500%29.cia",
+			"output": "/Donkey Kong Original Edition (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Donkey Kong Original Edition (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Donkey Kong Original Edition (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Double Dragon (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Double%20Dragon%20EUR%20%2800040000000b5800%29.cia",
+			"output": "/Double Dragon (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Double Dragon (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Double Dragon (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Double Dragon II - The Revenge (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Double%20Dragon%20II%20The%20Revenge%20EUR%20%2800040000000d3700%29.cia",
+			"output": "/Double Dragon II The Revenge (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Double Dragon II The Revenge (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Double Dragon II The Revenge (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Galaga™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Galaga%E2%84%A2%20EUR%20%2800040000000ce100%29.cia",
+			"output": "/Galaga (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Galaga (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Galaga (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Gargoyle's Quest II The Demon Darkness (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Gargoyle%27s%20Quest%20II%20The%20Demon%20Darkness%20EUR%20%2800040000000f8a00%29.cia",
+			"output": "/Gargoyle's Quest II The Demon Darkness (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Gargoyle's Quest II The Demon Darkness (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Gargoyle's Quest II The Demon Darkness (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Ghost'n Goblins™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/GHOSTS%27N%20GOBLINS%E2%84%A2%20EUR%20%280004000000099600%29.cia",
+			"output": "/GHOSTS'N GOBLINS (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/GHOSTS'N GOBLINS (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/GHOSTS'N GOBLINS (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Gradius (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/GRADIUS%20EUR%20%280004000000094b00%29.cia",
+			"output": "/Gradius (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Gradius (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Gradius (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Ice Climber™ (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Ice%20Climber%E2%84%A2%20EUR%20%280004000000070700%29.cia",
+			"output": "/Ice Climber (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ice Climber (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ice Climber (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Life Force (NES;EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Life%20Force%20EUR%20%2800040000000b5b00%29.cia",
+			"output": "/Life Force (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Life Force (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Life Force (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Mario & Yoshi™ EUR": [
+		{
+			"type": "downloadFile",
+			"file": "https://archive.org/download/nesencia/Mario%20%26amp%3B%20Yoshi%E2%84%A2%20EUR%20%280004000000071300%29.cia",
+			"output": "/Mario &amp Yoshi (NES)(EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Mario &amp Yoshi (NES)(EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Mario &amp Yoshi (NES)(EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Mario 64 (Portage 3DS)(.3dsx)": [
+		{
+			"type": "downloadFile",
+			"file": "http://dl.free.fr/sZMf7MLOP",
+			"output": "/3ds/Mario 64.3dsx",
+			"message": "Téléchargement de votre .3dsx en cours..."
 		}
 	]
 }
