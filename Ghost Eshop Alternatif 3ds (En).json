@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - En",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion of the eshop: v0.9.2\nNumber of files: 106\nCurrent language: En",
-		"description": "On this script you will find:\n-Movies and series in .cia format:  3/Homebrew:  2\n-Games and updates 3ds in .cia format:  _\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  35\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format:  38\n\nCreator: Ghost0159                                          Version: v0.9.2",
+		"shortDesc": "\nVersion of the eshop: v1.0\nNumber of files: 106\nCurrent language: En",
+		"description": "On this script you will find:\n-Movies and series in .cia format:  3/Homebrew:  2\n-Games and updates 3ds in .cia format:  _\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  __\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format: __\n\nCreator: Ghost0159                                          Version: v1.0",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -997,7 +997,7 @@
 			"message": "Nettoyage(2/2)..."
 		}
 	],
-	"Adventure Island (GB;EUR)": [
+	"Adventure Island (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/ADVENTURE%20ISLAND%20EUR%20%28000400000004ff00%29.cia",
@@ -1015,7 +1015,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Alleyway™ (GB;EUR)": [
+	"Alleyway™ (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Alleyway%E2%84%A2%20EUR%20%280004000000041000%29.cia",
@@ -1033,7 +1033,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Bionic Commando™ (GB;EUR)": [
+	"Bionic Commando™ (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/BIONIC%20COMMANDO%E2%84%A2%20EUR%20%280004000000058500%29.cia",
@@ -1051,7 +1051,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Balloon Kid™ (GB;EUR)": [
+	"Balloon Kid™ (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Balloon%20Kid%E2%84%A2%20EUR%20%280004000000067300%29.cia",
@@ -1069,7 +1069,7 @@
 			"message": "Nettoyage..."
 	    }
 	],
-	"Baseball (GB;EUR)": [
+	"Baseball (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Baseball%20EUR%20%280004000000040d00%29.cia",
@@ -1087,10 +1087,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Burger Time DELUXE (GB;EUR)": [
+	"Burger Time DELUXE (GB/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Burger%20Time%20DELUXE%20EUR%20%280004000000050b00%29.cia",
+			"file": "https://www.dropbox.com/s/0cgr9vp7ojldt65/Burger%20Time%20DELUXE%20EUR%20%280004000000050b00%29.cia?dl=1",
 			"output": "/Burger Time DELUXE (GB)(EUR.cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1105,10 +1105,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Catrap (GB;EUR)": [
+	"Catrap (GB/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/CATRAP%20EUR%20%28000400000004f900%29.cia",
+			"file": "https://www.dropbox.com/s/sw6ouug7kt9v7t8/CATRAP%20EUR%20%28000400000004f900%29.cia?dl=1",
 			"output": "/Catrap (GB)(EUR.cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1123,10 +1123,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Castlevania The Adventure (GB;EUR)": [
+	"Castlevania The Adventure (GB/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Castlevania%20The%20Adventure%20EUR%20%28000400000007df00%29.cia",
+			"file": "https://www.dropbox.com/s/pa9tkke4dnv1s8b/Castlevania%20The%20Adventure%20EUR%20%28000400000007df00%29.cia?dl=1",
 			"output": "/Castlevania The Adventure (GB)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1141,7 +1141,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong Land™ 2 (GB;EUR)": [
+	"Donkey Kong Land™ 2 (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%202%20EUR%20%28000400000011a400%29.cia",
@@ -1159,7 +1159,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong Land™ III (GB;EUR)": [
+	"Donkey Kong Land™ III (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%20III%20EUR%20%28000400000011a700%29.cia",
@@ -1177,7 +1177,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong™ (GB;EUR)": [
+	"Donkey Kong™ (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20EUR%20%280004000000041f00%29.cia",
@@ -1195,7 +1195,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong™ Land (GB;EUR)": [
+	"Donkey Kong™ Land (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20Land%20EUR%20%280004000000050200%29.cia",
@@ -1213,7 +1213,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Double Dragon (GB;EUR)": [
+	"Double Dragon (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Double%20Dragon%20EUR%20%280004000000049d00%29.cia",
@@ -1231,7 +1231,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Dr. Mario™ (GB;EUR)": [
+	"Dr. Mario™ (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Dr.%20Mario%E2%84%A2%20EUR%20%280004000000050800%29.cia",
@@ -1249,7 +1249,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Fortified Zone (GB;EUR)": [
+	"Fortified Zone (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Fortified%20Zone%20EUR%20%280004000000046d00%29.cia",
@@ -1267,7 +1267,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Gargoyle's Quest (GB;EUR)": [
+	"Gargoyle's Quest (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/GARGOYLE%27S%20QUEST%20EUR%20%28000400000004f500%29.cia",
@@ -1285,7 +1285,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Game &; Watch™ Gallery (GB;EUR)": [
+	"Game &; Watch™ Gallery (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Game%20%26amp%3B%20Watch%E2%84%A2%20Gallery%20EUR%20%280004000000042500%29.cia",
@@ -1303,7 +1303,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Golf (GB;EUR)": [
+	"Golf (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Golf%20EUR%20%280004000000042d00%29.cia",
@@ -1321,7 +1321,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kid Icarus™ Of Myths And Monsters (GB;EUR)": [
+	"Kid Icarus™ Of Myths And Monsters (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kid%20Icarus%E2%84%A2%20Of%20Myths%20And%20Monsters%20EUR%20%280004000000069500%29.cia",
@@ -1339,7 +1339,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Block Ball™ (GB;EUR)": [
+	"Kirby's Block Ball™ (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Block%20Ball%E2%84%A2%20EUR%20%280004000000069200%29.cia",
@@ -1357,7 +1357,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Dream Land™ 2 (GB;EUR)": [
+	"Kirby's Dream Land™ 2 (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%202%20EUR%20%28000400000007dc00%29.cia",
@@ -1375,7 +1375,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Dream Land™ (GB;EUR)": [
+	"Kirby's Dream Land™ (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%20EUR%20%280004000000041900%29.cia",
@@ -1393,7 +1393,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Pinball Land (GB;EUR)": [
+	"Kirby's Pinball Land (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Pinball%20Land%20EUR%20%28000400000008b100%29.cia",
@@ -1411,7 +1411,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Kirby's Star Stacker (GB;EUR)": [
+	"Kirby's Star Stacker (GB/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Star%20Stacker%20EUR%20%28000400000008ad00%29.cia",
@@ -1429,7 +1429,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Adventure Island II (NES;EUR)": [
+	"Adventure Island II (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Adventure%20Island%20II%20EUR%20%2800040000000cfa00%29.cia",
@@ -1447,7 +1447,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Adventures of Lolo™ (NES;EUR)": [
+	"Adventures of Lolo™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Adventures%20of%20Lolo%E2%84%A2%20EUR%20%28000400000010fb00%29.cia",
@@ -1465,7 +1465,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Balloon Fight™ (NES;EUR)": [
+	"Balloon Fight™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Balloon%20Fight%E2%84%A2%20EUR%20%280004000000070400%29.cia",
@@ -1483,10 +1483,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Blaster Master™ (NES;EUR)": [
+	"Blaster Master™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/BLASTER%20MASTER%E2%84%A2%20EUR%20%280004000000099300%29.cia",
+			"file": "https://www.dropbox.com/s/jgtoqfhy7e08txz/BLASTER%20MASTER%E2%84%A2%20EUR%20%280004000000099300%29.cia?dl=1",
 			"output": "/Blaster Master (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1501,10 +1501,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Castlevania Ⅱ Simon's Quest (NES;EUR)": [
+	"Castlevania Ⅱ Simon's Quest (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/Castlevania%20%E2%85%A1%20Simon%27s%20Quest%20EUR%20%2800040000000bdc00%29.cia",
+			"file": "https://www.dropbox.com/s/aabbvur3f2aavty/Castlevania%20%E2%85%A1%20Simon%27s%20Quest%20EUR%20%2800040000000bdc00%29.cia?dl=1",
 			"output": "/Castlevania Ⅱ Simon's Quest (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1519,10 +1519,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Castlevania III Dracula's Curse (NES;EUR)": [
+	"Castlevania III Dracula's Curse (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/Castlevania%20III%20Dracula%27s%20Curse%20EUR%20%2800040000000b2b00%29.cia",
+			"file": "https://www.dropbox.com/s/fkq88zs9fdw85cr/Castlevania%20III%20Dracula%27s%20Curse%20EUR%20%2800040000000b2b00%29.cia?dl=1",
 			"output": "/Castlevania III Dracula's Curse (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1537,10 +1537,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Castlevania™ (NES;EUR)": [
+	"Castlevania™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/Castlevania%E2%84%A2%20EUR%20%28000400000009dc00%29.cia",
+			"file": "https://www.dropbox.com/s/0wjno91d9xu7qvj/Castlevania%E2%84%A2%20EUR%20%28000400000009dc00%29.cia?dl=1",
 			"output": "/Castlevania (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1555,10 +1555,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"City Connection™ (NES;EUR)": [
+	"City Connection™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/City%20Connection%E2%84%A2%20EUR%20%2800040000000b2f00%29.cia",
+			"file": "https://www.dropbox.com/s/r4m42mnb4mkottd/City%20Connection%E2%84%A2%20EUR%20%2800040000000b2f00%29.cia?dl=1",
 			"output": "/City Connection (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1573,10 +1573,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Clu Clu Land (NES;EUR)": [
+	"Clu Clu Land (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/Clu%20Clu%20Land%20EUR%20%2800040000000cdc00%29.cia",
+			"file": "https://www.dropbox.com/s/g1lt94mjhvrm0ff/Clu%20Clu%20Land%20EUR%20%2800040000000cdc00%29.cia?dl=1",
 			"output": "/Clu Clu Land (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1591,10 +1591,10 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Crash'n the Boys Street Challenge (NES;EUR)": [
+	"Crash'n the Boys Street Challenge (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/Crash%27n%20the%20Boys%20Street%20Challenge%20EUR%20%2800040000000b7200%29.cia",
+			"file": "https://www.dropbox.com/s/1bckarif0emy5ra/Crash%27n%20the%20Boys%20Street%20Challenge%20EUR%20%2800040000000b7200%29.cia?dl=1",
 			"output": "/Crash'n the Boys Street Challenge (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1609,7 +1609,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Devil World (NES;EUR)": [
+	"Devil World (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Devil%20World%20EUR%20%2800040000000ca400%29.cia",
@@ -1627,7 +1627,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Dig Dug (NES;EUR)": [
+	"Dig Dug (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Dig%20Dug%20EUR%20%28000400000009df00%29.cia",
@@ -1645,7 +1645,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong Jr.™ (NES;EUR)": [
+	"Donkey Kong Jr.™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Donkey%20Kong%20Jr.%E2%84%A2%20EUR%20%280004000000070100%29.cia",
@@ -1663,7 +1663,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong™ 3 (NES;EUR)": [
+	"Donkey Kong™ 3 (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%203%20EUR%20%2800040000000b6000%29.cia",
@@ -1681,7 +1681,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong™ (NES;EUR)": [
+	"Donkey Kong™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%20EUR%20%2800040000000a4700%29.cia",
@@ -1699,7 +1699,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Donkey Kong™ Original Edition (NES;EUR)": [
+	"Donkey Kong™ Original Edition (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%20Original%20Edition%20EUR%20%28000400000006f500%29.cia",
@@ -1717,7 +1717,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Double Dragon (NES;EUR)": [
+	"Double Dragon (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Double%20Dragon%20EUR%20%2800040000000b5800%29.cia",
@@ -1735,7 +1735,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Double Dragon II - The Revenge (NES;EUR)": [
+	"Double Dragon II - The Revenge (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Double%20Dragon%20II%20The%20Revenge%20EUR%20%2800040000000d3700%29.cia",
@@ -1753,7 +1753,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Galaga™ (NES;EUR)": [
+	"Galaga™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Galaga%E2%84%A2%20EUR%20%2800040000000ce100%29.cia",
@@ -1771,7 +1771,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Gargoyle's Quest II The Demon Darkness (NES;EUR)": [
+	"Gargoyle's Quest II The Demon Darkness (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Gargoyle%27s%20Quest%20II%20The%20Demon%20Darkness%20EUR%20%2800040000000f8a00%29.cia",
@@ -1789,7 +1789,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Ghost'n Goblins™ (NES;EUR)": [
+	"Ghost'n Goblins™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/GHOSTS%27N%20GOBLINS%E2%84%A2%20EUR%20%280004000000099600%29.cia",
@@ -1807,7 +1807,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Gradius (NES;EUR)": [
+	"Gradius (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/GRADIUS%20EUR%20%280004000000094b00%29.cia",
@@ -1825,7 +1825,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Ice Climber™ (NES;EUR)": [
+	"Ice Climber™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Ice%20Climber%E2%84%A2%20EUR%20%280004000000070700%29.cia",
@@ -1843,7 +1843,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Life Force (NES;EUR)": [
+	"Life Force (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Life%20Force%20EUR%20%2800040000000b5b00%29.cia",
@@ -1861,7 +1861,7 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Mario & Yoshi™ EUR": [
+	"Mario & Yoshi™ (NES/EUR)": [
 		{
 			"type": "downloadFile",
 			"file": "https://archive.org/download/nesencia/Mario%20%26amp%3B%20Yoshi%E2%84%A2%20EUR%20%280004000000071300%29.cia",
@@ -1902,6 +1902,852 @@
 		{
 			"type": "deleteFile",
 			"file": "/50 Classic Games 3D (USA).cia",
+			"message": "Nettoyage..."
+					}
+	],
+	"Ace Combat Assault Horizon Legacy+ - Update (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/31txyld4mvmd976/Ace%20Combat%20Assault%20Horizon%20Legacy%2B%20-%20Update%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Ace Combat Assault Horizon Legacy - Update (USA).cia",
+			"message": "Téléchargement de votre mise à jour en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ace Combat Assault Horizon Legacy - Update (USA).cia",
+			"message": "Installation de votre mise à jour en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ace Combat Assault Horizon Legacy - Update (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Ace Combat Assault Horizon Legacy+ (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/qoehxmaxuy8xqln/Ace%20Combat%20Assault%20Horizon%20Legacy%2B%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Ace Combat Assault Horizon Legacy (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ace Combat Assault Horizon Legacy (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ace Combat Assault Horizon Legacy (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/vc01ark5y99xnfi/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20-%20Update%201.1%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
+			"message": "Téléchargement de votre mise à jour en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
+			"message": "Installation de votre mise à jour en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Adventure Time - Explore the Dungeon Because I Don't Know (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/jyvtab6ky2h0ntx/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Adventure Time - Explore the Dungeon Because I Don't Know (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Explore the Dungeon Because I Don't Know (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Explore the Dungeon Because I Don't Know (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Adventure Time - Finn & Jake Investigations (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/v0ojcjf5qba1pye/Adventure%20Time%20-%20Finn%20%26%20Jake%20Investigations%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Adventure Time - Finn & Jake Investigations (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Finn & Jake Investigations (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Finn & Jake Investigations (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Adventure Time - Hey Ice King Whyd You Steal Our Garbage (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/7yq0hqv58mz23nv/Adventure%20Time%20-%20Hey%20Ice%20King%20Whyd%20You%20Steal%20Our%20Garbage%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Adventure Time - Hey Ice King Whyd You Steal Our Garbage (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - Hey Ice King Whyd You Steal Our Garbage (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - Hey Ice King Whyd You Steal Our Garbage (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Adventure Time - The Secret of the Nameless Kingdom (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/mwx4m3hi5xm8eu1/Adventure%20Time%20-%20The%20Secret%20of%20the%20Nameless%20Kingdom%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Adventure Time - The Secret of the Nameless Kingdom (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Adventure Time - The Secret of the Nameless Kingdom (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Adventure Time - The Secret of the Nameless Kingdom (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Alien Chaos 3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/smp23r6u18mbt0w/Alien%20Chaos%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Alien Chaos 3D (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Alien Chaos 3D (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Alien Chaos 3D (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"American Mensa Academy (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/6f7egj8k0p0tav0/American%20Mensa%20Academy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/American Mensa Academy (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/American Mensa Academy (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/American Mensa Academy (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Anglers Club - Ultimate Bass Fishing 3D (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/974raoodiwg2806/Anglers%20Club%20-%20Ultimate%20Bass%20Fishing%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Anglers Club - Ultimate Bass Fishing 3D (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Anglers Club - Ultimate Bass Fishing 3D (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Anglers Club - Ultimate Bass Fishing 3D (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Angry Birds Star Wars (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/2zewzqzaypsjso6/Angry%20Birds%20Star%20Wars%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Angry Birds Star Wars (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Angry Birds Star Wars (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Angry Birds Star Wars (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Angry Birds Trilogy (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/960sqv9z5arqqbj/Angry%20Birds%20Trilogy%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Angry Birds Trilogy (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Angry Birds Trilogy (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Angry Birds Trilogy (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Animal Crossing - Happy Home Designer - Update 2.0 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/52wh07k96ue9dwf/Animal%20Crossing%20-%20Happy%20Home%20Designer%20-%20Update%202.0%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Animal Crossing - Happy Home Designer - Update 2.0 (USA).cia",
+			"message": "Téléchargement de votre mise à jour en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Animal Crossing - Happy Home Designer - Update 2.0 (USA).cia",
+			"message": "Installation de votre mise à jour en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Animal Crossing - Happy Home Designer - Update 2.0 (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Animal Crossing - Happy Home Designer (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/zuncelv0keb7pxi/Animal%20Crossing%20-%20Happy%20Home%20Designer%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Animal Crossing - Happy Home Designer (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Animal Crossing - Happy Home Designer (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Animal Crossing - Happy Home Designer (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Animal Crossing - New Leaf - Welcome Amiibo (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/1qsmd9tv73vvcj9/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Arcade Classics 3D (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/97aljijhl4g8pwq/Arcade%20Classics%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Arcade Classics 3D (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Arcade Classics 3D (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Arcade Classics 3D (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Are You Smarter Than a 5th Grader (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/yb6c5y9kj2gwuc0/Are%20You%20Smarter%20Than%20a%205th%20Grader%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Are You Smarter Than a 5th Grader (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Are You Smarter Than a 5th Grader (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Are You Smarter Than a 5th Grader (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Art Academy Lessons For Everyone - DLC (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/9hm3jck0el541si/Art%20Academy%20Lessons%20For%20Everyone%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Art Academy Lessons For Everyone - DLC (USA).cia",
+			"message": "Téléchargement de votre DLC en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Art Academy Lessons For Everyone - DLC (USA).cia",
+			"message": "Installation de votre DLC en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Art Academy Lessons For Everyone - DLC (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Art Academy Lessons For Everyone (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/nsjrjznj0nokgiw/Art%20Academy%20Lessons%20For%20Everyone%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Art Academy Lessons For Everyone (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Art Academy Lessons For Everyone (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Art Academy Lessons For Everyone (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Asphalt 3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/3vo3f43e802o8o1/Asphalt%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Asphalt 3D (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Asphalt 3D (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Asphalt 3D (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Asterix The Mansions Of The Gods (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/29h2mxqii0vqw7j/Asterix%20The%20Mansions%20Of%20The%20Gods%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Asterix The Mansions Of The Gods (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Asterix The Mansions Of The Gods (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Asterix The Mansions Of The Gods (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Atlantic Quest (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/4pd8o15t8ch7tb7/Atlantic%20Quest%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Atlantic Quest (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Atlantic Quest (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Atlantic Quest (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Attack on Titan Humanity in Chains (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/1zvf6pjcjtjpmra/Attack%20on%20Titan%20Humanity%20in%20Chains%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Attack on Titan Humanity in Chains (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Attack on Titan Humanity in Chains (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Attack on Titan Humanity in Chains (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Azada (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/h9ct90xh2xpy0y9/Azada%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Azada (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Azada (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Azada (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Breath of Fire II™ (SNES/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/3wq90xzt4x178h7/Breath%20of%20Fire%20II%E2%84%A2%20ALL%20%28000400000f705600%29.cia?dl=1",
+			"output": "/Breath of Fire II (SNES/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Breath of Fire II (SNES/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Breath of Fire II (SNES/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Breath of Fire™ (SNES/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/9wo53t2tdaxn83p/Breath%20of%20Fire%E2%84%A2%20ALL%20%28000400000f705400%29.cia?dl=1",
+			"output": "/Breath of Fire (SNES/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Breath of Fire (SNES/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Breath of Fire (SNES/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Batman - Arkham Origins Blackgate (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/00owdy74gj4epad/Batman%20-%20Arkham%20Origins%20Blackgate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Batman - Arkham Origins Blackgate (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Batman - Arkham Origins Blackgate (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Batman - Arkham Origins Blackgate (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Battleship+ (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/vzw0sgju4qu72kp/Battleship%2B%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Battleship+ (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Battleship+ (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Battleship+ (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Ben 10 - Galactic Racing (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/vn4ci0ewu78b5cs/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Ben 10 - Galactic Racing (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ben 10 - Galactic Racing (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ben 10 - Galactic Racing (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Ben 10 - Omniverse (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/k45m5sqd20jh8ma/Ben%2010%20-%20Omniverse%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Ben 10 - Omniverse (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ben 10 - Omniverse (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ben 10 - Omniverse (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Ben 10 - Omniverse 2 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/0m5zd941gopqhhd/Ben%2010%20-%20Omniverse%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Ben 10 - Omniverse 2 (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Ben 10 - Omniverse 2 (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Ben 10 - Omniverse 2 (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Best of Arcade Games (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/551p10z9juhpjzg/Best%20of%20Arcade%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Best of Arcade Games (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Best of Arcade Games (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Best of Arcade Games (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Best of Board Games (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/iujl50r1xg2y9zr/Best%20of%20Board%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Best of Board Games (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Best of Board Games (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Best of Board Games (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Best of Casual Games (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/khkv7foci22h397/Best%20of%20Casual%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Best of Casual Games (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Best of Casual Games (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Best of Casual Games (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Beyblade Evolution (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/f562p6odbo9ay8x/Beyblade%20Evolution%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Beyblade Evolution (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Beyblade Evolution (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Beyblade Evolution (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Big Hero 6 - Battle in the Bay (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ovoowieojux0raf/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Big Hero 6 - Battle in the Bay (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Big Hero 6 - Battle in the Bay (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Big Hero 6 - Battle in the Bay (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Bit Trip Saga (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ipqfr24c65enf9h/Bit%20Trip%20Saga%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Bit Trip Saga (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Bit Trip Saga (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Bit Trip Saga (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"BlazBlue - Continuum Shift II (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/wxp0mf9bsdalmes/BlazBlue%20-%20Continuum%20Shift%20II%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/BlazBlue - Continuum Shift II (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/BlazBlue - Continuum Shift II (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/BlazBlue - Continuum Shift II (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Boku no Hero Academia Battle For All (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/d71cnpnhdo9jpeo/Boku%20no%20Hero%20Academia%20Battle%20For%20All%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Boku no Hero Academia Battle For All (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Boku no Hero Academia Battle For All (JPN).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Boku no Hero Academia Battle For All (JPN).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Boulder Dash-XL 3D (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/m16vtusao9mvvfb/Boulder%20Dash-XL%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Boulder Dash-XL 3D (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Boulder Dash-XL 3D (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Boulder Dash-XL 3D (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Bowling Bonanza 3D (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ovcql8ol844p1uq/Bowling%20Bonanza%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Bowling Bonanza 3D (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Bowling Bonanza 3D (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Bowling Bonanza 3D (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Brain Age Concentration Training (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/6xe2arq52imukq1/Brain%20Age%20Concentration%20Training%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Brain Age Concentration Training (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Brain Age Concentration Training (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Brain Age Concentration Training (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Brain Training 3D (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/hz15o2dhmeyp1lq/Brain%20Training%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=0",
+			"output": "/Brain Training 3D (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Brain Training 3D (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Brain Training 3D (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Columns™ (Game Gear/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/vydva9m388tel1q/Columns%E2%84%A2%20%20EUR%20%280004000000088400%29.cia?dl=1",
+			"output": "/Columns (Game Gear/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Columns (Game Gear/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Columns (Game Gear/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Contra III The Alien Wars (SNES/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/nyi8mr53iho1ill/Contra%20III%20The%20Alien%20Wars%20ALL%20%28000400000f702c00%29.cia?dl=1",
+			"output": "/Contra III The Alien Wars (SNES/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Contra III The Alien Wars (SNES/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Contra III The Alien Wars (SNES/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Crystal Warriors (Game Gear/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/hegjdfoulggmjx7/Crystal%20Warriors%20EUR%20%28000400000009b600%29.cia?dl=1",
+			"output": "/Crystal Warriors (Game Gear/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crystal Warriors (Game Gear/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crystal Warriors (Game Gear/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Defenders of Oasis™ (Game Gear/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/z7eavjn7ic2zxe1/Defenders%20of%20Oasis%E2%84%A2%20EUR%20%28000400000009b700%29.cia?dl=1",
+			"output": "/Defenders of Oasis™ (Game Gear/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Defenders of Oasis™ (Game Gear/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Defenders of Oasis™ (Game Gear/EUR).cia",
 			"message": "Nettoyage..."
 		}
 	]
