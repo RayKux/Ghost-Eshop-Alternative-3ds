@@ -84,4 +84,4 @@ ________________________________________________________________________________
 
 **Crédits: [Ghost0159](https://github.com/Ghost0159).**
 
-**Special Thanks: [Anonykou](https://github.com/Anonyku)**
+           [Anonykou](https://github.com/Anonyku)**
