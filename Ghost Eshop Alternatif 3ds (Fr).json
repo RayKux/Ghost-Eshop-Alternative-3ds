@@ -2,7 +2,7 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: v2.0\nNombre de Fichiers: 175\nLangue actuel: Fr",
+		"shortDesc": "\nVersion de l'eshop: v2.0\nNombre de Fichiers: 181\nLangue actuel: Fr",
 		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  3\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  __\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  __\n\nCreateur: Ghost0159                                         Version: v2.0",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
@@ -3162,6 +3162,114 @@
 		{
 			"type": "deleteFile",
 			"file": "/Donkey Kong Country 2 Diddy's Kong Quest (SNES/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Bloody Vampire (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/1wdqm9c83yj2884/Bloody%20Vampire%20%28Europe%29%20%28eShop%29.cia?dl=1",
+			"output": "/Bloody Vampire (Europe).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Bloody Vampire (Europe).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Bloody Vampire (Europe).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"3D OutRun (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ut547y2jxsj6pkg/3D%20OutRun%20%28Europe%29%20%28eShop%29.cia?dl=1",
+			"output": "/3D OutRun (Europe).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/3D OutRun (Europe).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/3D OutRun (Europe).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Cubit - The Hardcore Platformer Robot (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/2biffli9kipm5tc/Cubit%20-%20The%20Hardcore%20Platformer%20Robot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+			"output": "/Cubit - The Hardcore Platformer Robot (Europe) (En,Fr,De,Es,It) (eShop).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Cubit - The Hardcore Platformer Robot (Europe) (En,Fr,De,Es,It) (eShop).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Cubit - The Hardcore Platformer Robot (Europe) (En,Fr,De,Es,It) (eShop).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Cube Tactics (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/clhnrguj7bg3qgr/Cube%20Tactics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+			"output": "/Cube Tactics (Europe).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Cube Tactics (Europe).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Cube Tactics (Europe).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Fairune (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/gcaiyaqaoio8ko0/Fairune%20%28Europe%29%20%28eShop%29.cia?dl=1",
+			"output": "/Fairune (Europe) (eShop).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Fairune (Europe) (eShop).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Fairune (Europe) (eShop).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Mighty Gunvolt (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/po3avz2ibmi5l12/Mighty%20Gunvolt%20%28Europe%29%20%28eShop%29.cia?dl=1",
+			"output": "/Mighty Gunvolt (Europe) (eShop).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Mighty Gunvolt (Europe) (eShop).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Mighty Gunvolt (Europe) (eShop).cia",
 			"message": "Nettoyage..."
 		}
 	]
