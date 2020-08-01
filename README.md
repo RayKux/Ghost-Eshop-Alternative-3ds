@@ -23,7 +23,7 @@ ________________________________________________________________________________
  
  *This script will become a homebrew that will absolutely not depend on Universal-Team or using one of their tools, when the homebrew of its script comes out, we will adapt its script so that it does not work with Universal-Updater.*
  
- We currently have: **175** files in . cia format
+ We currently have: **181** files in . cia format
 
 *Test:*
 
@@ -51,7 +51,7 @@ ________________________________________________________________________________
  
  *Ce script deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se script sortira, nous adapterons se script de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
  
- Nous avons actuellement: **175** fichier au format .cia
+ Nous avons actuellement: **181** fichier au format .cia
 
 *Test:*
 
