@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - En",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion of the eshop: v1.0\nNumber of files: 152\nCurrent language: En",
-		"description": "On this script you will find:\n-Movies and series in .cia format:  3/Homebrew:  2\n-Games and updates 3ds in .cia format:  _\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  __\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format: __\n\nCreator: Ghost0159                                          Version: v1.0",
+		"shortDesc": "\nVersion of the eshop: v2.0\nNumber of files: 106\nCurrent language: En",
+		"description": "On this script you will find:\n-Movies and series in .cia format:  3/Homebrew:  2\n-Games and updates 3ds in .cia format:  _\n-Games DSiWare in .cia format:  4\n-Games Nes and SNES in .cia format:  __\n-Games Genesis/MD in .cia format:  1\n-Games Gba, Gbc and Gb in .cia format: __\n\nCreator: Ghost0159                                          Version: v2.0",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -1612,7 +1612,7 @@
 	"Devil World (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/Devil%20World%20EUR%20%2800040000000ca400%29.cia",
+			"file": "https://www.dropbox.com/s/jkipnf70a7x0esg/Devil%20World%20EUR%20%2800040000000ca400%29.cia?dl=1",
 			"output": "/Devil World (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -1630,7 +1630,7 @@
 	"Dig Dug (NES/EUR)": [
 		{
 			"type": "downloadFile",
-			"file": "https://archive.org/download/nesencia/Dig%20Dug%20EUR%20%28000400000009df00%29.cia",
+			"file": "https://www.dropbox.com/s/rbp6redz1sm1nmk/Dig%20Dug%20EUR%20%28000400000009df00%29.cia?dl=1",
 			"output": "/Dig Dug (NES)(EUR).cia",
 			"message": "Téléchargement de votre jeux en cours..."
 		},
@@ -2748,6 +2748,420 @@
 		{
 			"type": "deleteFile",
 			"file": "/Defenders of Oasis™ (Game Gear/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Bravely Default (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/o2sc2qpe52iofbd/Bravely%20Default%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Bravely Default (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Bravely Default (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Bravely Default (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Bravely Second - End Layer - DLC (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/upfw70cem55rqus/Bravely%20Second%20-%20End%20Layer%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Bravely Second - End Layer - DLC (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Bravely Second - End Layer - DLC (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Bravely Second - End Layer - DLC (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Bravely Second - End Layer (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ndisgsur3vg7hdo/Bravely%20Second%20-%20End%20Layer%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Bravely Second - End Layer (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Bravely Second - End Layer (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Bravely Second - End Layer (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Brunswick Pro Bowling (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/4hq78vy62h63psj/Brunswick%20Pro%20Bowling%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Brunswick Pro Bowling (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Brunswick Pro Bowling (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Brunswick Pro Bowling (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Bust-A-Move Universe (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/h1yo2osf02mvkyq/Bust-A-Move%20Universe%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Bust-A-Move Universe (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Bust-A-Move Universe (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Bust-A-Move Universe (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Candy Match 3 (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/yiyyuzdm81ymbex/Candy%20Match%203%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Candy Match 3 (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Candy Match 3 (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Candy Match 3 (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Captain America - Super Soldier (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/pqddgfaod57rm7b/Captain%20America%20-%20Super%20Soldier%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Captain America - Super Soldier (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Captain America - Super Soldier (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Captain America - Super Soldier (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Carnival Games Wild West 3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/okhcdroqa14o9kh/Carnival%20Games%20Wild%20West%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Carnival Games Wild West 3D (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Carnival Games Wild West 3D (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Carnival Games Wild West 3D (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Cars 2 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/az073c6ui0ybyz5/Cars%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Cars 2 (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Cars 2 (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Cars 2 (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Cartoon Network - Battle Crashers (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/lx6vy0feyfbuoqu/Cartoon%20Network%20-%20Battle%20Crashers%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Cartoon Network - Battle Crashers (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Cartoon Network - Battle Crashers (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Cartoon Network - Battle Crashers (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Cartoon Network - Punch Time Explosion (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/l223fxnd6zf34q1/Cartoon%20Network%20-%20Punch%20Time%20Explosion%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Cartoon Network - Punch Time Explosion (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Cartoon Network - Punch Time Explosion (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Cartoon Network - Punch Time Explosion (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Crash Time 3D (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/3u8wjypxuvbx57t/Crash%20Time%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Crash Time 3D (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crash Time 3D (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crash Time 3D (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Crazy Construction (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/2z24j2qw0gnv307/Crazy%20Construction%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Crazy Construction (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crazy Construction (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crazy Construction (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Crosswords Plus (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/zruyiua4el4clxf/Crosswords%20Plus%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Crosswords Plus (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crosswords Plus (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crosswords Plus (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Crush3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/n9ipghvzjg44rd8/Crush3D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Crush3D (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Crush3D (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Crush3D (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Cubic Ninja (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/bq1vxjiljmf6tn3/Cubic%20Ninja%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Cubic Ninja (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Cubic Ninja (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Cubic Ninja (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Culdcept Revolt (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/x51gycrbuvadq65/Culdcept%2BRevolt%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Culdcept Revolt (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Culdcept Revolt (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Culdcept Revolt (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Cut the RopeTriple Treat (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/nenmouk8f6oiup9/Cut%20the%20RopeTriple%20Treat%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Cut the RopeTriple Treat (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Cut the RopeTriple Treat (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Cut the RopeTriple Treat (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Dai Gyakuten Saiban - Patch Ingles (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/wedb3k4txr6cmbi/Dai%20Gyakuten%20Saiban%20-%20Patch%20Ingles%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Dai Gyakuten Saiban - Patch Ingles (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Dai Gyakuten Saiban - Patch Ingles (JPN).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Dai Gyakuten Saiban - Patch Ingles (JPN).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Dai Gyakuten Saiban (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/uv0w76k6fqyvrkg/Dai%20Gyakuten%20Saiban%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Dai Gyakuten Saiban (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Dai Gyakuten Saiban (JPN).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Dai Gyakuten Saiban (JPN).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Deer Drive Legends (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ojy25uc02sr2048/Deer%2BDrive%2BLegends%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Deer Drive Legends (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Deer Drive Legends (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Deer Drive Legends (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Donkey Kong Country 3 Dixie Kong's Double Trouble™ (SNES/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/pmccvzf83pgrb6h/Donkey%20Kong%20Country%203%20Dixie%20Kong%27s%20Double%20Trouble%E2%84%A2%20ALL%20%28000400000f702f00%29.cia?dl=1",
+			"output": "/Donkey Kong Country 3 Dixie Kong's Double Trouble (SNES/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Donkey Kong Country 3 Dixie Kong's Double Trouble (SNES/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Donkey Kong Country 3 Dixie Kong's Double Trouble (SNES/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Donkey Kong Country™ 2 Diddy's Kong Quest™ (SNES/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/5dhid0hyothlydx/Donkey%20Kong%20Country%E2%84%A2%202%20Diddy%27s%20Kong%20Quest%E2%84%A2%20ALL%20%28000400000f702000%29.cia?dl=1",
+			"output": "/Donkey Kong Country 2 Diddy's Kong Quest (SNES/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Donkey Kong Country 2 Diddy's Kong Quest (SNES/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Donkey Kong Country 2 Diddy's Kong Quest (SNES/EUR).cia",
 			"message": "Nettoyage..."
 		}
 	]
