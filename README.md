@@ -70,6 +70,11 @@ ________________________________________________________________________________
 ## Links:
 
 **Facebook: [Groupe Ghost Eshop Aternative](https://www.facebook.com/groups/293898438606830).**
+
+**Youtube: [Anonyku](https://www.youtube.com/AnonyCub5).**
+
+**Twitter: [Anonyku](https://twitter.com/AnonyCub5).**
+
 _____________________________________________________________________________________________________________________
 
 
