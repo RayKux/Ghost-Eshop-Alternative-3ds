@@ -58,6 +58,34 @@ ________________________________________________________________________________
  -Pour les jeux de plus de 200Mib, il est conseillé d'avoir une connexion stable (*ADSL + Réseau privé*)
 
  -Pour les jeux de plus de 950Mib, il est conseillé d'avoir la fibre (*Fibre + Réseau privé*)
+ 
+ _____________________________________________________________________________________________________________________
+
+## Spanish:
+
+ Este es un eshop 3ds alternativo en la forma de un script Universal-Updater.
+
+ Coloque los archivos . json en/3ds/Universal-Updater/scripts/
+
+ Hecho por Ghost0159. Discuta con él en Gmail y no dude en pedirle que se agreguen más juegos!
+
+ Mail: contact.ghost01@gmail.com
+
+ Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v2.0).
+
+ La última versión válida es la "v2.0"! Probado allí!
+
+ **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería. **
+ 
+ *Este script se convertirá en un Homebrew que no dependerá en absoluto de Universal-Team o de cualquiera de sus herramientas, cuando el Homebrew de script salga, adaptaremos el script para que no funcione con Universal-Updater.*
+
+ Actualmente tenemos: **181** archivo en formato . cia
+
+ *Prueba:*
+
+ - Para juegos de más de 200Mib, es recomendable tener una conexión estable (*ADSL + Red privada*)
+
+ -Para los juegos de más de 950Mib, se recomienda tener fibra (*Fibra + Red privada*)
 
 _____________________________________________________________________________________________________________________
 
