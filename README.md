@@ -17,13 +17,13 @@ ________________________________________________________________________________
 
  Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v2.0).
 
- The latest version available is "v2.0"! Check its output!
+ The latest version available is "v3.0"! Check its output!
 
  **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
  
  *This script will become a homebrew that will absolutely not depend on Universal-Team or using one of their tools, when the homebrew of its script comes out, we will adapt its script so that it does not work with Universal-Updater.*
  
- We currently have: **181** files in . cia format
+ We currently have: **223** files in . cia format
 
 *Test:*
 
@@ -45,13 +45,13 @@ ________________________________________________________________________________
 
  Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v2.0).
 
- La derniére version valide est la "v2.0"! Testé là!
+ La derniére version valide est la "v3.0"! Testé là!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
  *Ce script deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se script sortira, nous adapterons se script de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
  
- Nous avons actuellement: **181** fichier au format .cia
+ Nous avons actuellement: **223** fichier au format .cia
 
 *Test:*
 
@@ -73,13 +73,13 @@ ________________________________________________________________________________
 
  Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v2.0).
 
- La última versión válida es la "v2.0"! Probado allí!
+ La última versión válida es la "v3.0"! Probado allí!
 
  **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería. **
  
  *Este script se convertirá en un Homebrew que no dependerá en absoluto de Universal-Team o de cualquiera de sus herramientas, cuando el Homebrew de script salga, adaptaremos el script para que no funcione con Universal-Updater.*
 
- Actualmente tenemos: **181** archivo en formato . cia
+ Actualmente tenemos: **223** archivo en formato . cia
 
  *Prueba:*
 
