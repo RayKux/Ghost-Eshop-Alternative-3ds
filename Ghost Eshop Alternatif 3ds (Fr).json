@@ -2,8 +2,8 @@
 	"info": {
 		"title": "Ghost Eshop Alternative - Fr",
 		"author": "Ghost0159",
-		"shortDesc": "\nVersion de l'eshop: v2.0\nNombre de Fichiers: 181\nLangue actuel: Fr",
-		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  3\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  __\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  __\n\nCreateur: Ghost0159                                         Version: v2.0",
+		"shortDesc": "\nVersion de l'eshop: v3.0\nNombre de Fichiers: 223\nLangue actuel: Fr",
+		"description": "Sur ce script vous trouverez:\n-Films et series au format .cia:  2/Homebrew:  3\n-Jeux et updates 3ds au format .cia:  _\n-Jeux DSiWare au format .cia:  4\n-Jeux Nes et SNES au format .cia:  __\n-Jeux Genesis/MD au format .cia:  1\n-Jeux Gba, Gbc et Gb au format .cia:  __\n\nCreateur: Ghost0159                                         Version: v3.0",
 		"barColor": "#9e9a99",
 		"bgBottomColor": "#373737",
 		"bgTopColor": "#373737",
@@ -1879,14 +1879,6 @@
 			"message": "Nettoyage..."
 		}
 	],
-	"Mario 64 (Portage 3DS)(.3dsx)": [
-		{
-			"type": "downloadFile",
-			"file": "http://dl.free.fr/sZMf7MLOP",
-			"output": "/3ds/Mario 64.3dsx",
-			"message": "Téléchargement de votre .3dsx en cours..."
-		}
-	],
 	"50 Classic Games 3D (USA)": [
 		{
 			"type": "downloadFile",
@@ -3270,6 +3262,780 @@
 		{
 			"type": "deleteFile",
 			"file": "/Mighty Gunvolt (Europe) (eShop).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Super Mario 64 (Portage 3DS/USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/se9rotc8xsea0fv/Super%20Mario%2064%203DS%20%28CTR-P-PWDR%29%20%28W%29.cia?dl=1",
+			"output": "/Super Mario 64 (Portage 3DS/USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario 64 (Portage 3DS/USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Mario 64 (Portage 3DS/USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Demon King Box (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/pb893008n3czrws/Demon%20King%20Box%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Demon King Box (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Demon King Box (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Demon King Box (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Detective Pikachu (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/vuz4m7ceo8509le/Detective%20Pikachu%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Detective Pikachu (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Detective Pikachu (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Detective Pikachu (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Dillons Dead Heat Breakers (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/f6vx6d2dctz9xko/Dillons%20Dead%20Heat%20Breakers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Dillons Dead Heat Breakers (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Dillons Dead Heat Breakers (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Dillons Dead Heat Breakers (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney 2 - Pack - Frozen - Olafs Quests/Big Hero 6 - Battle in the Bay (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/n9yzl8pf28ffyeo/Disney%202%20-%20Pack%20-%20Frozen%20-%20Olafs%20Quest%20%20%20Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney Art Academy (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/krou78sfm2clqzw/Disney%20Art%20Academy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney Art Academy (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney Art Academy (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney Art Academy (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney Epic Mickey Power of Illusion (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/b9xuqdc59kedhhu/Disney%20Epic%20Mickey%20Power%20of%20Illusion%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney Epic Mickey Power of Illusion (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney Epic Mickey Power of Illusion (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney Epic Mickey Power of Illusion (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney Frozen - Olafs Quest (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/5cakjwb656213av/Disney%20Frozen%20-%20Olafs%20Quest%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney Frozen - Olafs Quest (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney Frozen - Olafs Quest (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney Frozen - Olafs Quest (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney Infinity - Toy Box Challenge (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/dcd1vly33vryeuj/Disney%20Infinity%20-%20Toy%20Box%20Challenge%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney Infinity - Toy Box Challenge (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney Infinity - Toy Box Challenge (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney Infinity - Toy Box Challenge (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney Magical World - DLC (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ghihl4bfcz7rddc/Disney%20Magical%20World%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney Magical World - DLC (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney Magical World - DLC (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney Magical World - DLC (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney Magical World - Update 1.1 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/2ui76kcsme27iwb/Disney%20Magical%20World%20-%20Update%201.1%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney Magical World - Update 1.1 (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney Magical World - Update 1.1 (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney Magical World - Update 1.1 (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney Magical World 2 - DLC (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/kgqd7lb7rz0snnz/Disney%20Magical%20World%202%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney Magical World 2 - DLC (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney Magical World 2 - DLC (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney Magical World 2 - DLC (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Duck Dynasty (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/vkxbt1nj3cciqxq/Duck%20Dynasty%20%28USA%29.cia?dl=1",
+			"output": "/Duck Dynasty (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Duck Dynasty (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Duck Dynasty (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Gem Smashers (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/53r07cahs1ogr5t/Gem%20Smashers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Gem Smashers (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Gem Smashers (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Gem Smashers (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Generator Rex - Agent of Providence (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/261dfjx74h2qtds/Generator%20Rex%20-%20Agent%20of%20Providence%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Generator Rex - Agent of Providence (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Generator Rex - Agent of Providence (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Generator Rex - Agent of Providence (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Girls Fashion Shoot (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/jzg555boifxjcki/Girls%20Fashion%20Shoot%20%28USA%29.cia?dl=1",
+			"output": "/Girls Fashion Shoot (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Girls Fashion Shoot (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Girls Fashion Shoot (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Goosebumps - The Game - Update 1.01 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/k2117xpfzz9aja9/Goosebumps%20-%20The%20Game%20-%20Update%201.01%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Goosebumps - The Game - Update 1.01 (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Goosebumps - The Game - Update 1.01 (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Goosebumps - The Game - Update 1.01 (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Goosebumps - The Game (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/74emxuxu3aehqwv/Goosebumps%20-%20The%20Game%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Goosebumps - The Game (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Goosebumps - The Game (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Goosebumps - The Game (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Gravity Falls - Legend of the Gnome Gemulets (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/zu21ijjy2bk42lt/Gravity%2BFalls%2B-%2BLegend%2Bof%2Bthe%2BGnome%2BGemulets%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Gravity Falls - Legend of the Gnome Gemulets (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Gravity Falls - Legend of the Gnome Gemulets (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Gravity Falls - Legend of the Gnome Gemulets (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Green Lantern - Rise of the Manhunters (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/h2f8bguxpdmz8au/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Green Lantern - Rise of the Manhunters (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Green Lantern - Rise of the Manhunters (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Green Lantern - Rise of the Manhunters (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Gummy Bears Magical Medallion (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/5to7cr87hukq1aj/Gummy%20Bears%20Magical%20Medallion%20%28EUR%29.cia?dl=1",
+			"output": "/Gummy Bears Magical Medallion (EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Gummy Bears Magical Medallion (EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Gummy Bears Magical Medallion (EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Minecraft - DLC (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/1k0d717vb1u6yhv/Minecraft%20-%20DLC%28KTR-M-BD3E-00%29%20%28UNK%29.cia?dl=1",
+			"output": "/Minecraft - DLC (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Minecraft - DLC (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Minecraft - DLC (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Pokemon GS Chronicles (Pokémon Fire Red hack)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/apqj2z43q7nbk6t/Pokemon%20GS%20Chronicles%20Beta%202%20Build%202911192_1.cia?dl=1",
+			"output": "/Pokemon GS Chronicles (Pokémon Fire Red hack).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pokemon GS Chronicles (Pokémon Fire Red hack).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pokemon GS Chronicles (Pokémon Fire Red hack).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Pokemon Orange Islands (Pokémon Fire Red hack)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/t6fkjojyheyqjpy/Pokemon%20Orange%20Islands%205.0.cia?dl=1",
+			"output": "/Pokemon Orange Islands (Pokémon Fire Red hack).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pokemon Orange Islands (Pokémon Fire Red hack).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pokemon Orange Islands (Pokémon Fire Red hack).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Pokemon Red Chapter (Pokémon Fire Red hack)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/nmtionpuehyxcpd/Pokemon%20Red%20Chapter%20Beta%2015.4.cia?dl=1",
+			"output": "/Pokemon Red Chapter (Pokémon Fire Red hack).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Pokemon Red Chapter (Pokémon Fire Red hack).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Pokemon Red Chapter (Pokémon Fire Red hack).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"EarthBound™ (SNES/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/f8ylert5z9ktwf4/EarthBound%E2%84%A2%20EUR%20%28000400000f701600%29.cia?dl=1",
+			"output": "/EarthBound (SNES/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/EarthBound (SNES/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/EarthBound (SNES/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Lufia® The Legend Returns (GBC/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/9hr5keiiguib99v/Lufia%C2%AE%20The%20Legend%20Returns%20EUR%20%28000400000011ab00%29.cia?dl=1",
+			"output": "/Lufia The Legend Returns (GBC/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Lufia The Legend Returns (GBC/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Lufia The Legend Returns (GBC/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/yazbv0o0wacd843/Taiko%20no%20Tatsujin%20Chibi%20Dragon%20to%20Fushigi%20na%20Orb%20%28JPN%29%20RF.cia?dl=1",
+			"output": "/Taiko no Tatsujin Chibi Dragon to Fushigi na Orb (JPN).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Taiko no Tatsujin Chibi Dragon to Fushigi na Orb (JPN).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Taiko no Tatsujin Chibi Dragon to Fushigi na Orb (JPN).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Disney Planes - Fire and Rescue (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/a1989nyzabfq1an/Disney%20Planes%20-%20Fire%20and%20Rescue%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+			"output": "/Disney Planes - Fire and Rescue (USA).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Disney Planes - Fire and Rescue (USA).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Disney Planes - Fire and Rescue (USA).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Kunio-kun Nekketsu Complete - Famicom-Hen (JPN)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ekxp474hreyft1f/Kunio-kun%20Nekketsu%20Complete%20-%20Famicom-Hen%20%28Japan%29.cia?dl=1",
+			"output": "/Kunio-kun Nekketsu Complete - Famicom-Hen (Japan).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Kunio-kun Nekketsu Complete - Famicom-Hen (Japan).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Kunio-kun Nekketsu Complete - Famicom-Hen (Japan).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"EscapeVektor (EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/7a8pxlkjigqr2w1/EscapeVektor%20%28Europe%29%20%28eShop%29.cia?dl=1",
+			"output": "/EscapeVektor (Europe).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/EscapeVektor (Europe).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/EscapeVektor (Europe).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Xtreme Sports (GBC/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/t1j9jzz6w2h1poy/Xtreme%20Sports%20EUR%20%2800040000000f0300%29.cia?dl=1",
+			"output": "/Xtreme Sports (GBC/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Xtreme Sports (GBC/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Xtreme Sports (GBC/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Wrecking Crew (NES/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/d6w6wpy12djc8g8/Wrecking%20Crew%20EUR%20%28000400000006f800%29.cia?dl=1",
+			"output": "/Wrecking Crew (NES/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Wrecking Crew (NES/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Wrecking Crew (NES/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"WarioWare, Inc™ Minigame Mania (GBA/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/1erjyycesp9s0oa/WarioWare%2C%20Inc%E2%84%A2%20Minigame%20Mania%20EUR%20%280004000000075a00%29.cia?dl=1",
+			"output": "/WarioWare, Inc Minigame Mania (GBA/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/WarioWare, Inc Minigame Mania (GBA/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/WarioWare, Inc Minigame Mania (GBA/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Wario's Woods (SNES/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/olr7vussogb4s0a/Wario%27s%20Woods%20EUR%20%280004000000071600%29.cia?dl=1",
+			"output": "/Wario's Woods (SNES/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Wario's Woods (SNES/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Wario's Woods (SNES/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Wario Land™ 4 (GBA/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/36jmaaakmd6ke5f/Wario%20Land%E2%84%A2%204%20EUR%20%280004000000075000%29.cia?dl=1",
+			"output": "/Wario Land 4 (GBA/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Wario Land 4 (GBA/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Wario Land 4 (GBA/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Wario Land™ 3 (GBC/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/kbj5oqskasu9evr/Wario%20Land%E2%84%A2%203%20EUR%20%28000400000008af00%29.cia?dl=1",
+			"output": "/Wario Land 3 (GBC/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Wario Land 3 (GBC/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Wario Land 3 (GBC/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Wario Land: Super Mario Land 3 (GB/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/1awa5bvj9y51tr8/Wario%20Land%20Super%20Mario%20Land%203%20EUR%20%280004000000057d00%29.cia?dl=1",
+			"output": "/Wario Land Super Mario Land 3 (GB/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Wario Land Super Mario Land 3 (GB/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Wario Land Super Mario Land 3 (GB/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Vampire Master of Darkness (Game Gear/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/pgm2cvsaluul6rm/Vampire%20Master%20of%20Darkness%20EUR%20%28000400000009ba00%29.cia?dl=1",
+			"output": "/Vampire Master of Darkness (Game Gear/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Vampire Master of Darkness (Game Gear/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Vampire Master of Darkness (Game Gear/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Tumble Pop (GB/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/sgn9lry9lpb6fcn/Tumble%20Pop%20EUR%20%280004000000082f00%29.cia?dl=1",
+			"output": "/Tumble Pop (GB/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Tumble Pop (GB/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Tumble Pop (GB/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Trip World™ (GB/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/4dlk8u01tltnre7/Trip%20World%E2%84%A2%20EUR%20%280004000000058200%29.cia?dl=1",
+			"output": "/Trip World (GB/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Trip World (GB/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Trip World (GB/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"Toki Tori (GBC/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/d9265loa5ymq6dt/Toki%20Tori%20EUR%20%280004000000094d00%29.cia?dl=1",
+			"output": "/Toki Tori (GBC/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Toki Tori (GBC/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Toki Tori (GBC/EUR).cia",
+			"message": "Nettoyage..."
+		}
+	],
+	"The Sword of Hope II (GB/EUR)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/vij3ccmbocn3rb3/The%20Sword%20of%20Hope%20II%20EUR%20%280004000000083200%29.cia?dl=1",
+			"output": "/The Sword of Hope II (GB/EUR).cia",
+			"message": "Téléchargement de votre jeux en cours..."
+		},
+		{
+			"type": "installCia",
+			"file": "/The Sword of Hope II (GB/EUR).cia",
+			"message": "Installation de votre jeux en cours..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/The Sword of Hope II (GB/EUR).cia",
 			"message": "Nettoyage..."
 		}
 	]
