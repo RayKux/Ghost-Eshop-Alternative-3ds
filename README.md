@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
  Mail: contact.ghost01@gmail.com
 
- Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v2.0).
+ Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v3.0).
 
  The latest version available is "v3.0"! Check its output!
 
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
  Mail: contact.ghost01@gmail.com
 
- Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v2.0).
+ Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v3.0).
 
  La derniére version valide est la "v3.0"! Testé là!
 
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
  Mail: contact.ghost01@gmail.com
 
- Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v2.0).
+ Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v3.0).
 
  La última versión válida es la "v3.0"! Probado allí!
 
