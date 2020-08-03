@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
  Mail: contact.ghost01@gmail.com
  
- Pour faire un don paypal en cliquant [ici](https://www.paypal.com/paypalme/WTCub).
+ Pour faire un don paypal en cliquer [ici](https://www.paypal.com/paypalme/WTCub).
 
  Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v3.0).
 
