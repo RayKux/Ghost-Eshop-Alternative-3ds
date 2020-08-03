@@ -42,6 +42,8 @@ ________________________________________________________________________________
  Fait par Ghost0159. Discutez avec lui sur Gmail et n'hésitez pas à lui demander que plus de jeux soient ajoutés!
 
  Mail: contact.ghost01@gmail.com
+ 
+ Pour faire un don paypal en cliquant [ici](https://www.paypal.com/paypalme/WTCub).
 
  Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v3.0).
 
