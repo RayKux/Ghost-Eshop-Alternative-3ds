@@ -95,11 +95,11 @@ ________________________________________________________________________________
 
 **Facebook: [Groupe Ghost Eshop Aternative](https://www.facebook.com/groups/293898438606830).**
 
+**Discord: [Ghost Eshop Alternative](https://discord.gg/FPDUSaA)**
+
 **Youtube: [Anonyku](https://www.youtube.com/AnonyCub5).**
 
 **Twitter: [Anonyku](https://twitter.com/AnonyCub5).**
-
-**Discord: [Ghost Eshop Alternative](https://discord.gg/FPDUSaA)**
 
 _____________________________________________________________________________________________________________________
 
