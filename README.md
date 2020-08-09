@@ -9,15 +9,15 @@ ________________________________________________________________________________
 
  This is an alternative 3ds eshop in the form of a Universal-Updater script.
 
- Put the .json files in /3ds/Universal-Updater/scripts/
+ Put the .unistore files in /3ds/Universal-Updater/stores/
 
  Made by Ghost0159. Chat with him on Gmail and don't hesitate to ask for more games to be added to him!
 
  Mail: contact.ghost01@gmail.com
 
- Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v3.0).
+ Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
 
- The latest version available is "v3.0"! Check its output!
+ The latest version available is "v4.0"! Check its output!
 
  **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
  
@@ -35,9 +35,10 @@ ________________________________________________________________________________
 
 ## Français:
 
- Ceci est un eshop 3ds alternatif sous la forme d'un script Universal-Updater.
+ Ceci est un eshop 3ds alternatif sous la forme d'un Unistore Universal-Updater.
 
- Placez les fichiers .json dans /3ds/Universal-Updater/scripts/
+ Placez le fichier .unistore dans /3ds/Universal-Updater/stores/
+ (En ayant au préalable installé et démarré Universal-Updater)
 
  Fait par Ghost0159. Discutez avec lui sur Gmail et n'hésitez pas à lui demander que plus de jeux soient ajoutés!
 
@@ -45,9 +46,9 @@ ________________________________________________________________________________
  
  Pour faire un don paypal en cliquer [ici](https://www.paypal.com/paypalme/WTCub).
 
- Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v3.0).
+ Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
 
- La derniére version valide est la "v3.0"! Testé là!
+ La derniére version valide est la "v4.0"! Testé là!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
@@ -67,15 +68,15 @@ ________________________________________________________________________________
 
  Este es un eshop 3ds alternativo en la forma de un script Universal-Updater.
 
- Coloque los archivos . json en/3ds/Universal-Updater/scripts/
+ Coloque los archivos .unistore en /3ds/Universal-Updater/stores/
 
  Hecho por Ghost0159. Discuta con él en Gmail y no dude en pedirle que se agreguen más juegos!
 
  Mail: contact.ghost01@gmail.com
 
- Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v3.0).
+ Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
 
- La última versión válida es la "v3.0"! Probado allí!
+ La última versión válida es la "v4.0"! Probado allí!
 
  **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería. **
  
@@ -111,10 +112,7 @@ ________________________________________________________________________________
 
 ## News:
 
-**Nouveaux hébergeur de fichiers:**
-
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Nouvelle%20h%C3%A9bergeur.PNG)
-
+**Création d'un .unistore pour les téléchargements et création d'un .t3x pour les images:**
 
 _____________________________________________________________________________________________________________________
 
