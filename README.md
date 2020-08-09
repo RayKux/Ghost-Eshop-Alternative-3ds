@@ -10,7 +10,7 @@ ________________________________________________________________________________
 This is an alternative eshop 3ds in the form of a Unistore Universal-Updater.
 
 Place the . unistore file in /3ds/Universal-Updater/stores/
-(Having previously installed and started Universal-Updater)
+*(Having previously installed and started Universal-Updater)*
 
 Made by Ghost0159. Chat with him on Gmail and feel free to ask him for more games to be added!
 
@@ -41,7 +41,7 @@ ________________________________________________________________________________
  Ceci est un eshop 3ds alternatif sous la forme d'un Unistore Universal-Updater.
 
  Placez le fichier .unistore dans /3ds/Universal-Updater/stores/
- (En ayant au préalable installé et démarré Universal-Updater)
+ *(En ayant au préalable installé et démarré Universal-Updater)*
 
  Fait par Ghost0159. Discutez avec lui sur Gmail et n'hésitez pas à lui demander que plus de jeux soient ajoutés!
 
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
  Coloca el archivo . unistore en/3ds/Universal-Updater/stores/
- (Habiendo instalado y arrancado previamente Universal-Updater)
+ *(Habiendo instalado y arrancado previamente Universal-Updater)*
 
  Hecho por Ghost0159. ¡Discuta con él en Gmail y no dude en pedirle que se añadan más juegos!
 
