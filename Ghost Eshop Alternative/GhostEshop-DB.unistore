@@ -8,8 +8,8 @@
 "sheet": "sdmc:/3ds/Universal-Updater/stores/GhostEshop-DB.t3x",
 "sheetURL": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.t3x",
 "description": "Un eshop 3ds alternatif et gratuit.",
-"categories": ["utility", "Jeux", "DSiWares"],
-"authors": ["Sonic Powered", "Nintendo"],
+"categories": ["Jeux", "DSiWares"],
+"authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi"],
 "consoles": ["3DS", "DSi"],
 "barLight": "#ffffff",
 "barDark": "#ffffff",
@@ -28,11 +28,11 @@
 		            "title": "Anonymous notes chapter 1",
 		            "version": "USA",
 		            "author": "Sonic Powered",
-		            "category": "juego",
-		            "console": "GBA",
+		            "category": ["Jeux", "DSiWares"],
+		            "console": "DSi",
 		            "icon_index": 0,
-		            "description": "Juego de plataformas",
-		            "last_updated": "2020-07-02 at 14:03 (UTC)"
+		            "description": "Jeux de rôles dans des donjons.",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
 "Anonymous notes chapter 1": [
 {
@@ -49,6 +49,35 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Anonymous notes chapter 1.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bloons TD4",
+		            "version": "USA",
+		            "author": "Ninja Kiwi",
+		            "category": ["Jeux", "DSiWares"],
+		            "console": "DSi",
+		            "icon_index": 0,
+		            "description": "Jeux de towerdefense.",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Bloons TD4": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/u5i2pne5dzc9u5g/?dl=1",
+				   "output": "sdmc:/Bloons TD4.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bloons TD4.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bloons TD4.cia",
 				   "message": "Nettoyage..."
 }]}]} 
 
