@@ -1,0 +1,58 @@
+{
+"storeInfo": 
+ {
+"title": "Ghost Eshop Alternative",
+"author": "Ghost0159 & DH",
+"file": "sdmc:/3ds/Universal-Updater/stores/GhostEshop-DB.unistore",
+"url": "",
+"sheet": "sdmc:/3ds/Universal-Updater/stores/GhostEshop-DB.t3x",
+"sheetURL": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.t3x",
+"description": "Un eshop 3ds alternatif et gratuit.",
+"categories": ["utility", "Jeux", "DSiWares],
+"authors": ["Sonic Powered", "Nintendo"],
+"consoles": ["3DS", "DSi"],
+"barLight": "#ffffff",
+"barDark": "#ffffff",
+"bgDark": "#000000",
+"bgLight": "#60a8c0",
+"textDark": "#ffffff",
+"textLight": "#000000",
+"boxDark": "#044c44",
+"boxLight": "#f7f7f7",
+"outlineDark": "#f00000",
+"outlineLight": "#f00000",
+"version": 2,
+"revision": 28},
+"storeContent": [
+{"info": {
+		            "title": "Anonymous notes chapter 1",
+		            "version": "USA",
+		            "author": "Sonic Powered",
+		            "category": "juego",
+		            "console": "GBA",
+		            "icon_index": 0,
+		            "description": "Juego de plataformas",
+		            "last_updated": "2020-07-02 at 14:03 (UTC)"
+},
+"Anonymous notes chapter 1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/k3ac29648jdqyqg/?dl=1",
+				   "output": "sdmc:/Anonymous notes chapter 1.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Anonymous notes chapter 1.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Anonymous notes chapter 1.cia",
+				   "message": "Nettoyage..."
+}]}]} 
+
+
+
+
+
