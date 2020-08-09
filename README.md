@@ -7,29 +7,32 @@ ________________________________________________________________________________
 
 ## English:
 
- This is an alternative 3ds eshop in the form of a Universal-Updater script.
+This is an alternative eshop 3ds in the form of a Unistore Universal-Updater.
 
- Put the .unistore files in /3ds/Universal-Updater/stores/
+Place the . unistore file in /3ds/Universal-Updater/stores/
+(Having previously installed and started Universal-Updater)
 
- Made by Ghost0159. Chat with him on Gmail and don't hesitate to ask for more games to be added to him!
+Made by Ghost0159. Chat with him on Gmail and feel free to ask him for more games to be added!
 
- Mail: contact.ghost01@gmail.com
+Mail: contact.ghost01@gmail.com
 
- Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
+To make a paypal donation click [here](https://www.paypal.com/paypalme/WTCub).
 
- The latest version available is "v4.0"! Check its output!
+Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
 
- **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
- 
- *This script will become a homebrew that will absolutely not depend on Universal-Team or using one of their tools, when the homebrew of its script comes out, we will adapt its script so that it does not work with Universal-Updater.*
- 
- We currently have: **223** files in . cia format
+The last valid version is the "v4.0"! Tested there!
+
+**Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
+
+*This unistore will become a homebrew that will not depend on Universal-Team or using any of their tools, when the homebrew of its unistore comes out, we will adapt this unistore so that it does not work with Universal-Updater.*
+
+We currently have: **223** file in . cia format
 
 *Test:*
 
- -For games over 200Mib, it is advisable to have a stable connection (*ADSL + Private network*)
+-For games over 200Mib, it is advisable to have a stable connection (*ADSL + Private network*)
 
- -For games over 950Mib, it is advisable to have fiber (*Fiber + Private network*)
+-For games over 950Mib, it is advisable to have fiber (*Fiber + Private network*)
 
 _____________________________________________________________________________________________________________________
 
@@ -44,7 +47,7 @@ ________________________________________________________________________________
 
  Mail: contact.ghost01@gmail.com
  
- Pour faire un don paypal en cliquer [ici](https://www.paypal.com/paypalme/WTCub).
+ Pour faire un don paypal cliquer [ici](https://www.paypal.com/paypalme/WTCub).
 
  Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
 
@@ -52,7 +55,7 @@ ________________________________________________________________________________
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
- *Ce script deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se script sortira, nous adapterons se script de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
+ *Cet unistore deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se unistore sortira, nous adapterons cet unistore de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
  
  Nous avons actuellement: **223** fichier au format .cia
 
@@ -66,29 +69,32 @@ ________________________________________________________________________________
 
 ## Spanish:
 
- Este es un eshop 3ds alternativo en la forma de un script Universal-Updater.
+Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
- Coloque los archivos .unistore en /3ds/Universal-Updater/stores/
+ Coloca el archivo . unistore en/3ds/Universal-Updater/stores/
+ (Habiendo instalado y arrancado previamente Universal-Updater)
 
- Hecho por Ghost0159. Discuta con él en Gmail y no dude en pedirle que se agreguen más juegos!
+ Hecho por Ghost0159. ¡Discuta con él en Gmail y no dude en pedirle que se añadan más juegos!
 
  Mail: contact.ghost01@gmail.com
+ 
+ Para hacer una donación paypal clicar [aquí](https://www.paypal.com/paypalme/WTCub).
 
  Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
 
  La última versión válida es la "v4.0"! Probado allí!
 
- **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería. **
+ **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería.**
  
- *Este script se convertirá en un Homebrew que no dependerá en absoluto de Universal-Team o de cualquiera de sus herramientas, cuando el Homebrew de script salga, adaptaremos el script para que no funcione con Universal-Updater.*
-
+ *Este unistore se convertirá en un Homebrew que no dependerá en absoluto de Universal-Team o utilizando una de sus herramientas, cuando el Homebrew de unistore salga, adaptaremos este unistore de manera que no funcione con Universal-Updater.*
+ 
  Actualmente tenemos: **223** archivo en formato . cia
 
- *Prueba:*
+*Prueba:*
 
- - Para juegos de más de 200Mib, es recomendable tener una conexión estable (*ADSL + Red privada*)
+ -Para juegos de más de 200Mib, es recomendable tener una conexión estable (*ADSL + Red privada*)
 
- -Para los juegos de más de 950Mib, se recomienda tener fibra (*Fibra + Red privada*)
+ -Para los juegos de más de 950Mib, es recomendable tener fibra (*Fibra + Red privada*)
 
 _____________________________________________________________________________________________________________________
 
