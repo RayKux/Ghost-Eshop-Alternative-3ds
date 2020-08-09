@@ -8,7 +8,7 @@
 "sheet": "sdmc:/3ds/Universal-Updater/stores/GhostEshop-DB.t3x",
 "sheetURL": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.t3x",
 "description": "Un eshop 3ds alternatif et gratuit.",
-"categories": ["utility", "Jeux", "DSiWares],
+"categories": ["utility", "Jeux", "DSiWares"],
 "authors": ["Sonic Powered", "Nintendo"],
 "consoles": ["3DS", "DSi"],
 "barLight": "#ffffff",
