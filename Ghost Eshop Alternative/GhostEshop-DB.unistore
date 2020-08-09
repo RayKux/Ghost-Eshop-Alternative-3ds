@@ -11,13 +11,13 @@
 "categories": ["Jeux", "DSiWares"],
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi"],
 "consoles": ["3DS", "DSi"],
-"barLight": "#ffffff",
-"barDark": "#ffffff",
-"bgDark": "#000000",
+"barLight": "#395472",
+"barDark": "#395472",
+"bgDark": "#262c4d",
 "bgLight": "#60a8c0",
 "textDark": "#ffffff",
 "textLight": "#000000",
-"boxDark": "#044c44",
+"boxDark": "#313131",
 "boxLight": "#f7f7f7",
 "outlineDark": "#f00000",
 "outlineLight": "#f00000",
@@ -78,6 +78,296 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bloons TD4.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 999,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://",
+				   "output": "sdmc:/.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/.cia",
 				   "message": "Nettoyage..."
 }]}]} 
 
