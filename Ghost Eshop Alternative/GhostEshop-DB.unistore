@@ -2,15 +2,15 @@
 "storeInfo": 
  {
 "title": "Ghost Eshop Alternative",
-"author": "Ghost0159 & DH",
+"author": "Ghost0159",
 "file": "sdmc:/3ds/Universal-Updater/stores/GhostEshop-DB.unistore",
 "url": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.unistore",
 "sheet": "sdmc:/3ds/Universal-Updater/stores/GhostEshop-DB.t3x",
 "sheetURL": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.t3x",
 "description": "Un eshop 3ds alternatif et gratuit.",
-"categories": ["Jeux", "DSiWares", "Virtual Consoles"],
-"authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sonic Team"],
-"consoles": ["3DS", "DSi", "NES"],
+"categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "Séries"],
+"authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pokémon.co"],
+"consoles": ["3DS", "DSi", "NES", "SNES", "GBA"],
 "barLight": "#395472",
 "barDark": "#395472",
 "bgDark": "#262c4d",
@@ -86,7 +86,7 @@
 		            "title": "Captain Toad: Treasure Tracker",
 		            "version": "EUR",
 		            "author": "Nintendo",
-		            "category": "Jeux",
+		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 2,
 		            "description": "Jeux vidéo de plates-formes et de puzzle.",
@@ -113,10 +113,10 @@
 },
 {"info": {
 		            "title": "The Legend of Zelda",
-		            "version": "",
+		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Virtual Consoles",
-		            "console": "Nes",
+		            "console": "NES",
 		            "icon_index": 3,
 		            "description": "Jeux d'action-aventure.",
 		            "last_updated": "2020-08-09 at 16:03 (UTC)"
@@ -143,8 +143,8 @@
 {"info": {
 		            "title": "3D Sonic the Hedgehog",
 		            "version": "USA",
-		            "author": "Sonic Team",
-		            "category": "Jeux",
+		            "author": "Sega",
+		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 4,
 		            "description": "Jeux vidéo de plates-formes;",
@@ -165,6 +165,1188 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/3D Sonic the Hedgehog.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Poké Transfert",
+		            "version": "",
+		            "author": "Pokémon.co",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 5,
+		            "description": "Le Poké Transfert permet de transférer des Pokémon des jeux de la cinquième génération ainsi que ceux de la première génération et de la deuxième génération.",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Poké Transfert": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nintendo-3ds-eshop-complete-collection/0003%20-%20Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia.7z/0003%20-%20Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
+				   "output": "sdmc:/Poké Transfert.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Poké Transfert.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Poké Transfert.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "3D Sonic the Hedgehog 2",
+		            "version": "USA",
+		            "author": "Sega",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 6,
+		            "description": "Jeux vidéo de plates-formes.",
+		            "last_updated": "2020-08-10 at 14:03 (UTC)"
+},
+"3D Sonic the Hedgehog 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/4vgvu7c69r84dv6/?dl=1",
+				   "output": "sdmc:/3D Sonic the Hedgehog 2.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Sonic the Hedgehog 2.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Sonic the Hedgehog 2.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mother 3",
+		            "version": "English",
+		            "author": "Nintendo",
+		            "category": "Vitual Consoles",
+		            "console": "GBA",
+		            "icon_index": 7,
+		            "description": "Jeux vidéo de rôles (RPG)",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Mother 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/5zea3iqe92pu0qd/Mother%203%20%28Eng.%20Translation%201.1%29.cia?dl=1",
+				   "output": "sdmc:/Mother 3.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mother 3.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mother 3.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pokémon Bank",
+		            "version": "EUR",
+		            "author": "Pokémon.co",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 8,
+		            "description": "Bank Pokémon.",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Pokémon Bank": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nintendo-3ds-eshop-complete-collection/0004%20-%20Pokemon%20Bank%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia.7z/0004%20-%20Pokemon%20Bank%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
+				   "output": "sdmc:/Pokemon Bank.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Bank.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Bank.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "WarioWare Touched!",
+		            "version": "USA",
+		            "author": "Nintendo",
+		            "category": "DSiWares",
+		            "console": "DSi",
+		            "icon_index": 9,
+		            "description": "Jeux de mini-jeux.",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"WarioWare Touched!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/l2bczwrsbnm03a6/WarioWareTM%20%20Touched%21%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/WarioWare Touched!.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/WarioWare Touched!.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/WarioWare Touched!.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Zelda II: The Adventure of Link",
+		            "version": "",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 10,
+		            "description": "Jeux vidéo de type action-RPG.",
+		            "last_updated": "2020-08-10 at 14:03 (UTC)"
+},
+"Zelda II: The Adventure of Link": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/xfpdis8f43b5nkz/Zelda%20II%20The%20Adventure%20of%20Link.cia?dl=1",
+				   "output": "sdmc:/Zelda II The Adventure of Link.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Zelda II The Adventure of Link.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Zelda II The Adventure of Link.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Dr. Mario: Miracle Cure",
+		            "version": "",
+		            "author": "Nintendo",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 11,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Dr. Mario: Miracle Cure": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-eshop/0517%20-%20Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.rar/0517%20-%20Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
+				   "output": "sdmc:/Dr. Mario Miracle Cure.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dr. Mario Miracle Cure.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dr. Mario Miracle Cure.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cut the Rope",
+		            "version": "",
+		            "author": "",
+		            "category": "DSiWares",
+		            "console": "DSi",
+		            "icon_index": 12,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Cut the Rope": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/CutTheRope%20-%20DSi.cia",
+				   "output": "sdmc:/Cut the Rope.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cut the Rope.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cut the Rope.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cut the Rope for Nintendo 3DS",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 13,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Cut the Rope for Nintendo 3DS": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/qeamgzfz4x0uj3s/%5B3DS%20CIA%20SHOP%5D%20Cut%20the%20Rope%20%28eShop%20Exclusive%29.cia?dl=1The Legend of Zelda: A Link to the Past",
+				   "output": "sdmc:/Cut the Rope for Nintendo 3DS.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cut the Rope for Nintendo 3DS.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cut the Rope for Nintendo 3DS.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda: A Link to the Past",
+		            "version": "",
+		            "author": "",
+		            "category": "Vitual Consoles",
+		            "console": "SNES/GBA",
+		            "icon_index": 14,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"The Legend of Zelda: A Link to the Past (SNES)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/zhi72wpp15j0g1s/The%20Legend%20of%20Zelda%20-%20A%20Link%20to%20the%20Past%20%28SNES%29.cia?dl=1",
+				   "output": "sdmc:/The Legend of Zelda A Link to the Past - SNES.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda A Link to the Past - SNES.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda A Link to the Past - SNES.cia",
+				   "message": "Nettoyage..."}
+],
+"The Legend of Zelda: A Link to the Past (GBA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/j07npemerqbgwvw/The%20Legend%20of%20Zelda%20-%20A%20Link%20to%20the%20Past.cia?dl=1",
+				   "output": "sdmc:/The Legend of Zelda A Link to the Past - GBA.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda A Link to the Past - GBA.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda A Link to the Past - GBA.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "3D Movie Viewer",
+		            "version": "",
+		            "author": "",
+		            "category": "Homebrew",
+		            "console": "3DS",
+		            "icon_index": 15,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"3D Movie Viewer": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/%5B3DS%20CIA%20SHOP%5D%203D%20MOVIE%20VIEWER.cia",
+				   "output": "sdmc:/3D Movie Viewer.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Movie Viewer.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Movie Viewer.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic X",
+		            "version": "English",
+		            "author": "",
+		            "category": "Séries",
+		            "console": "GBA",
+		            "icon_index": 16,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Sonic X - épisodes 1 & 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/%5BTV%20SHOW%5D%20Sonic%20X%20-%20Episode%201%2B2.cia",
+				   "output": "sdmc:/Sonic X.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic X.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic X.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Classic NES Series: Donkey Kong",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 17,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Classic NES Series: Donkey Kong": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/e2wmhlns353ssf4/Donkey%20Kong%20-%20Original%20Edition%20%28NES%29.cia?dl=1",
+				   "output": "sdmc:/Classic NES Series Donkey Kong.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Classic NES Series Donkey Kong.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Classic NES Series Donkey Kong.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby: Nightmare in Dream Land",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 18,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Kirby: Nightmare in Dream Land": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/hc44nabb2qrsowc/Kirby%20Nightmare%20in%20Dream%20Land.cia?dl=1",
+				   "output": "sdmc:/Kirby Nightmare in Dream Land.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirby Nightmare in Dream Land.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirby Nightmare in Dream Land.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Advance 3 - Yoshi's Island",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 19,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario Advance 3 - Yoshi's Island": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/qn9wcfhr3swbdks/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island.cia?dl=1",
+				   "output": "sdmc:/Super Mario Advance 3 - Yoshi's Island.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Advance 3 - Yoshi's Island.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Advance 3 - Yoshi's Island.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Flipnote Studio",
+		            "version": "USA/EUR/JPN",
+		            "author": "",
+		            "category": "DSiWares",
+		            "console": "DSi",
+		            "icon_index": 20,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Flipnote Studio (USA/EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/vpz4rb0aas172qn/FlipnoteDSi.cia?dl=1",
+				   "output": "sdmc:/Flipnote Studio - USA EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Flipnote Studio - USA EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Flipnote Studio - USA EUR.cia",
+				   "message": "Nettoyage..."}
+],
+"Flipnote Studio (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/hwfafzfxaec9ueb/Flipnote_JPN-3ds-cia-shop.cia?dl=1",
+				   "output": "sdmc:/Flipnote Studio - JPN.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Flipnote Studio - JPN.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Flipnote Studio - JPN.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pac-Man",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 21,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Pac-Man": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/kdh3bx626fifl2t/Pac-Man%20%28NES%29.cia?dl=1",
+				   "output": "sdmc:/Pac-Man.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pac-Man.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pac-Man.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Advance 2 - Super Mario World",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "icon_index": 22,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario Advance 2 - Super Mario World": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/z9unlup7jb4e26f/Super%20Mario%20Advance%202%20Super%20Mario%20World.cia?dl=1",
+				   "output": "sdmc:/Super Mario Advance 2 - Super Mario World.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Advance 2 - Super Mario World.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Advance 2 - Super Mario World.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pac-Man Collection",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 23,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Pac-Man Collection": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/i6bemfck3cb48bc/Pac-Man%20Collection%20%28GBA%29.cia?dl=1",
+				   "output": "sdmc:/Pac-Man Collection.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pac-Man Collection.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pac-Man Collection.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Sega 3D Classics Collection",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 24,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Sega 3D Classics Collection": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/lyqtd8xhcm7t2vz/Sega%203D%20Classics%20Collection%20%28USA%29.cia?dl=1Super Mario Bros",
+				   "output": "sdmc:/Sega 3D Classics Collection.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sega 3D Classics Collection.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sega 3D Classics Collection.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Bros.",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 25,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario Bros.": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/mevcgcib1qnyyzu/Super%20Mario%20Bros%20%28NES%29.cia?dl=1Luigi's Mansion 2: Dark Moon",
+				   "output": "sdmc:/Super Mario Bros.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Bros.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Bros.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Luigi's Mansion 2: Dark Moon",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 26,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Luigi's Mansion 2: Dark Moon": [
+{
+		           "type": "downloadFile",
+				   "file": "https://qrgo.page.link/rS5xn",
+				   "output": "sdmc:/Luigi's Mansion 2 Dark Moon.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Luigi's Mansion 2 Dark Moon.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Luigi's Mansion 2 Dark Moon.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario 3D Land",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 27,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario 3D Land": [
+{
+		           "type": "downloadFile",
+				   "file": "https:/qrgo.page.link/yZr5y",
+				   "output": "sdmc:/Super Mario 3D Land.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 3D Land.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 3D Land.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby: Triple Deluxe",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 28,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Kirby: Triple Deluxe": [
+{
+		           "type": "downloadFile",
+				   "file": "https://qrgo.page.link/ZkMLB",
+				   "output": "sdmc:/Kirby: Triple Deluxe.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirby: Triple Deluxe.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirby: Triple Deluxe.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda: Ocarina of Time 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 29,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"The Legend of Zelda: Ocarina of Time 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/sh/7yejob260oorc2e/AABrqoobbdq4Tazg5z7EMKPta/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/The Legend of Zelda Ocarina of Time 3D.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda Ocarina of Time 3D.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Ocarina of Time 3D.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Petit Computer",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 30,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Petit Computer": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/axyozjq8u3cv9m1/Petit_Computer_USA.cia?dl=1",
+				   "output": "sdmc:/Petit Computer.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Petit Computer.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Petit Computer.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon Crystal Version",
+		            "version": "USA/EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "icon_index": 31,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Pokemon Crystal Version (USA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/rq35pd3aqk4z114/Pokemon%20Crystal%20USA.cia?dl=1",
+				   "output": "sdmc:/Pokemon Crystal Version - USA.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Crystal Version - USA.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Crystal Version - USA.cia",
+				   "message": "Nettoyage..."}
+],
+"Pokemon Crystal Version (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/0ytfry8484gvwvq/Pokemon%20Crystal%20EUR.cia?dl=1",
+				   "output": "sdmc:/Pokemon Crystal Version - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Crystal Version - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Crystal Version - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crash Bandicoot 2: N-Tranced",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 32,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Crash Bandicoot 2: N-Tranced": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Crash%20Bandicoot%202%20N-Tranced.cia",
+				   "output": "sdmc:/Crash Bandicoot 2 N-Tranced.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crash Bandicoot 2 N-Tranced.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crash Bandicoot 2 N-Tranced.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crash Bandicoot: The Huge Adventure",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 33,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Crash Bandicoot: The Huge Adventure": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Crash%20Bandicoot%20The%20Huge%20Adventure.cia",
+				   "output": "sdmc:/Crash Bandicoot The Huge Adventure.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crash Bandicoot The Huge Adventure.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crash Bandicoot The Huge Adventure.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crash Nitro Kart",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 34,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Crash Nitro Kart": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Crash%20Nitro%20Kart.cia",
+				   "output": "sdmc:/Crash Nitro Kart.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crash Nitro Kart.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crash Nitro Kart.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon Prism",
+		            "version": "Free",
+		            "author": "",
+		            "category": "Homebrew",
+		            "console": "",
+		            "icon_index": 35,
+		            "description": "Hack for Pokemon Crystal.",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Pokemon Prism": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ok0dsk2m774xtu6/?dl=1",
+				   "output": "sdmc:/Pokemon Prism.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Prism.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Prism.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda: Majora's Mask 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 36,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"The Legend of Zelda: Majora's Mask 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/sh/7yejob260oorc2e/AADe_jpgozZNeePvXIufOMiHa/The%20Legend%20Of%20Zelda%20Majoras%20Mask%203D%20%28%20Usa%29.cia?dl=1",
+				   "output": "sdmc:/The Legend of Zelda Majora's Mask 3D.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda Majora's Mask 3D.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Majora's Mask 3D.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Advance 4 - Super Mario Bros. 3",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "icon_index": 37,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario Advance 4 - Super Mario Bros. 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1w36zt9gi6eq6co/Super%20Mario%20Advance%204.cia?dl=1",
+				   "output": "sdmc:/Super Mario Advance 4 - Super Mario Bros. 3.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Advance 4 - Super Mario Bros. 3.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Advance 4 - Super Mario Bros. 3.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Wrecking Crew",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 38,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Wrecking Crew": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Wrecking%20Crew%20%28NES%29.cia",
+				   "output": "sdmc:/Wrecking Crew.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Wrecking Crew.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Wrecking Crew.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Kart: Super Circuit",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 39,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Mario Kart: Super Circuit": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20Kart%20-%20Super%20Circuit.cia",
+				   "output": "sdmc:/Mario Kart: Super Circuit.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Kart: Super Circuit.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Kart: Super Circuit.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Bros. 2",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 40,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario Bros. 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/puec2vtqeqcqpy5/Super%20Mario%20USA.cia?dl=1Super Mario Advance - Super Mario Bros. 2",
+				   "output": "sdmc:/Super Mario Bros. 2.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Bros. 2.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Bros. 2.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Advance - Super Mario Bros. 2",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 41,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario Advance - Super Mario Bros. 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/39jadzwimzmenbd/Super%20Mario%20Advance.cia?dl=1",
+				   "output": "sdmc:/Super Mario Advance - Super Mario Bros 2.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Advance - Super Mario Bros 2.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Advance - Super Mario Bros 2.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Bros. 3",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 42,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario Bros. 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/0ic9pqgaplk39bp/Super%20Mario%20Bros%20III.cia?dl=1",
+				   "output": "sdmc:/Super Mario Bros 3.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Bros 3.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Bros 3.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Bros.: The Lost Levels",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 43,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario Bros.: The Lost Levels": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Super%20Mario%20Bros%20-%20The%20Lost%20Levels.cia",
+				   "output": "sdmc:/Super Mario Bros The Lost Levels.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Bros The Lost Levels.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Bros The Lost Levels.cia",
 				   "message": "Nettoyage..."
 }]}]} 
 
