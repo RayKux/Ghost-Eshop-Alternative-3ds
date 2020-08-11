@@ -9,8 +9,8 @@
 "sheetURL": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.t3x",
 "description": "Un eshop 3ds alternatif et gratuit.\nVersion of the eshop: 5.0\n\nAuthor: Ghost0159\nSpécial thanks: Anonyku",
 "categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "Séries"],
-"authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pokémon.co"],
-"consoles": ["3DS", "DSi", "NES", "SNES", "GBA"],
+"authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pokémon.co", "Netflix.inc"],
+"consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB"],
 "barLight": "#395472",
 "barDark": "#395472",
 "bgDark": "#262c4d",
@@ -1347,6 +1347,1154 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Bros The Lost Levels.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario vs Donkey Kong: Minis March Again!",
+		            "version": "",
+		            "author": "",
+		            "category": "DSiWares",
+		            "console": "DSi",
+		            "icon_index": 44,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Mario vs Donkey Kong: Minis March Again!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20VS%20Donkey%20Kong%20-%20Minis%20March%20Again.cia",
+				   "output": "sdmc:/Mario vs Donkey Kong Minis March Again.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario vs Donkey Kong Minis March Again.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario vs Donkey Kong Minis March Again.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Kart 7",
+		            "version": "EUR/USA/1.1",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 45,
+		            "description": "Jeux de courses de kart\navec tous les personnages de mario.",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Mario Kart 7 - Update 1.1 (USA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/MK7Update%20-%20USA.cia",
+				   "output": "sdmc:/Mario kart 7 - Updates - USA.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario kart 7 - Updates - USA.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario kart 7 - Updates - USA.cia",
+				   "message": "Nettoyage..."}
+],
+"Mario Kart 7 - Update 1.1 (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20Kart%207%20-%201.1%20Update%20%28EUR%29.cia",
+				   "output": "sdmc:/Mario kart 7 - Updates - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario kart 7 - Updates - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario kart 7 - Updates - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Netflix",
+		            "version": "USA",
+		            "author": "Netflix.inc",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 46,
+		            "description": "Applications légal permmettant\nde regarder des films et séries\nen souscrivant à une offre payante.",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Netflix": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Netflix%20%28USA%29.cia",
+				   "output": "sdmc:/Netflix.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Netflix.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Netflix.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Bros. Deluxe",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "icon_index": 47,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Super Mario Bros. Deluxe": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/%5B3DS%20CIA%20SHOP%5D%20SMB%20Deluxe%20%28Europe%2C%20GBC%29.cia",
+				   "output": "sdmc:/Super Mario Bros. Deluxe.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Bros. Deluxe.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Bros. Deluxe.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic 3 Complete",
+		            "version": "",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "Genesis/MD",
+		            "icon_index": 48,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Sonic 3 Complete": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/3ds-cia-shop-archive/Sega%20Genesis%20CIAs/Sonic%203%20Complete%20-%20Sonic%203%20Sprites.cia",
+				   "output": "sdmc:/Sonic 3 Complete.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic 3 Complete.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic 3 Complete.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Adventure Island",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 49,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Adventure Island": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/ADVENTURE%20ISLAND%20EUR%20%28000400000004ff00%29.cia",
+				   "output": "sdmc:/Adventure Island.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventure Island.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventure Island.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Alleyway™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Vitual Consoles",
+		            "console": "GB",
+		            "icon_index": 50,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Alleyway™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Alleyway%E2%84%A2%20EUR%20%280004000000041000%29.cia",
+				   "output": "sdmc:/Alleyway.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Alleyway.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Alleyway.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bionic Commando™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 51,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Bionic Commando™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/BIONIC%20COMMANDO%E2%84%A2%20EUR%20%280004000000058500%29.cia",
+				   "output": "sdmc:/Bionic Commando.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bionic Commando.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bionic Commando.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Balloon Kid™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 52,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Balloon Kid™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Balloon%20Kid%E2%84%A2%20EUR%20%280004000000067300%29.cia",
+				   "output": "sdmc:/Balloon Kid.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Balloon Kid.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Balloon Kid.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Baseball",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 53,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Baseball": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Baseball%20EUR%20%280004000000040d00%29.cia",
+				   "output": "sdmc:/Baseball.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Baseball.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Baseball.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Burger Time DELUXE",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 54,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Burger Time DELUXE": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/0cgr9vp7ojldt65/Burger%20Time%20DELUXE%20EUR%20%280004000000050b00%29.cia?dl=1",
+				   "output": "sdmc:/Burger Time DELUXE.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Burger Time DELUXE.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Burger Time DELUXE.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Catrap",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 55,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Catrap": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/sw6ouug7kt9v7t8/CATRAP%20EUR%20%28000400000004f900%29.cia?dl=1",
+				   "output": "sdmc:/Catrap.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Catrap.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Catrap.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Castlevania The Adventure",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 56,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Castlevania The Adventure": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pa9tkke4dnv1s8b/Castlevania%20The%20Adventure%20EUR%20%28000400000007df00%29.cia?dl=1",
+				   "output": "sdmc:/Castlevania The Adventure.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Castlevania The Adventure.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Castlevania The Adventure.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong Land™ 2",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 57,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Donkey Kong Land™ 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%202%20EUR%20%28000400000011a400%29.cia",
+				   "output": "sdmc:/Donkey Kong Land 2.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong Land 2.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong Land 2.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong Land™ III",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 58,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Donkey Kong Land™ III": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%20III%20EUR%20%28000400000011a700%29.cia",
+				   "output": "sdmc:/Donkey Kong Land III.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong Land III.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong Land III.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 59,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Donkey Kong™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20EUR%20%280004000000041f00%29.cia",
+				   "output": "sdmc:/Donkey Kong.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong™ Land",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 60,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Donkey Kong™ Land": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20Land%20EUR%20%280004000000050200%29.cia",
+				   "output": "sdmc:/Donkey Kong Land.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong Land.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong Land.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Double Dragon",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 61,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Double Dragon": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Double%20Dragon%20EUR%20%280004000000049d00%29.cia",
+				   "output": "sdmc:/Double Dragon.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Double Dragon.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Double Dragon.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Dr. Mario™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 62,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Dr. Mario™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Dr.%20Mario%E2%84%A2%20EUR%20%280004000000050800%29.cia",
+				   "output": "sdmc:/Dr Mario.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dr Mario.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dr Mario.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Fortified Zone",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 63,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Fortified Zone": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Fortified%20Zone%20EUR%20%280004000000046d00%29.cia",
+				   "output": "sdmc:/Fortified Zone.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Fortified Zone.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Fortified Zone.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Gargoyle's Quest",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 64,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Gargoyle's Quest": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/GARGOYLE%27S%20QUEST%20EUR%20%28000400000004f500%29.cia",
+				   "output": "sdmc:/Gargoyles Quest.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gargoyles Quest.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gargoyles Quest.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Game &; Watch™ Gallery",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 65,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Game &; Watch™ Gallery": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Game%20%26amp%3B%20Watch%E2%84%A2%20Gallery%20EUR%20%280004000000042500%29.cia",
+				   "output": "sdmc:/Game and Watch Gallery.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Game and Watch Gallery.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Game and Watch Gallery.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Golf",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 66,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Golf": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Golf%20EUR%20%280004000000042d00%29.cia",
+				   "output": "sdmc:/Golf.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Golf.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Golf.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kid Icarus™ Of Myths And Monsters",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 67,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Kid Icarus™ Of Myths And Monsters": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kid%20Icarus%E2%84%A2%20Of%20Myths%20And%20Monsters%20EUR%20%280004000000069500%29.cia",
+				   "output": "sdmc:/Kid Icarus Of Myths And Monsters.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kid Icarus Of Myths And Monsters.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kid Icarus Of Myths And Monsters.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby's Block Ball™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 68,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Kirby's Block Ball™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Block%20Ball%E2%84%A2%20EUR%20%280004000000069200%29.cia",
+				   "output": "sdmc:/Kirbys Block Ball.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirbys Block Ball.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirbys Block Ball.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby's Dream Land™ 2",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 69,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Kirby's Dream Land™ 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%202%20EUR%20%28000400000007dc00%29.cia",
+				   "output": "sdmc:/Kirbys Dream Land 2.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirbys Dream Land 2.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirbys Dream Land 2.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby's Dream Land™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 70,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Kirby's Dream Land™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%20EUR%20%280004000000041900%29.cia",
+				   "output": "sdmc:/Kirbys Dream Land.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirbys Dream Land.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirbys Dream Land.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby's Pinball Land",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 71,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Kirby's Pinball Land": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Pinball%20Land%20EUR%20%28000400000008b100%29.cia",
+				   "output": "sdmc:/Kirbys Pinball Land.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirbys Pinball Land.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirbys Pinball Land.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby's Star Stacker",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 72,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Kirby's Star Stacker": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Star%20Stacker%20EUR%20%28000400000008ad00%29.cia",
+				   "output": "sdmc:/Kirby's Star Stacker.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirby's Star Stacker.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirby's Star Stacker.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Adventure Island II",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 73,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Adventure Island II": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Adventure%20Island%20II%20EUR%20%2800040000000cfa00%29.cia",
+				   "output": "sdmc:/Adventure Island II.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventure Island II.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventure Island II.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Adventures of Lolo™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 74,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Adventures of Lolo™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Adventures%20of%20Lolo%E2%84%A2%20EUR%20%28000400000010fb00%29.cia",
+				   "output": "sdmc:/Adventures of Lolo.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventures of Lolo.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventures of Lolo.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Balloon Fight™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 75,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Balloon Fight™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Balloon%20Fight%E2%84%A2%20EUR%20%280004000000070400%29.cia",
+				   "output": "sdmc:/Balloon Fight.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Balloon Fight.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Balloon Fight.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Blaster Master™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 76,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Blaster Master™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/jgtoqfhy7e08txz/BLASTER%20MASTER%E2%84%A2%20EUR%20%280004000000099300%29.cia?dl=1",
+				   "output": "sdmc:/Blaster Master.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Blaster Master.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Blaster Master.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Castlevania Ⅱ Simon's Quest",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 77,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Castlevania Ⅱ Simon's Quest": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/aabbvur3f2aavty/Castlevania%20%E2%85%A1%20Simon%27s%20Quest%20EUR%20%2800040000000bdc00%29.cia?dl=1",
+				   "output": "sdmc:/Castlevania Ⅱ Simon's Quest.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Castlevania Ⅱ Simon's Quest.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Castlevania Ⅱ Simon's Quest.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Castlevania III Dracula's Curse",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 78,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Castlevania III Dracula's Curse": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/fkq88zs9fdw85cr/Castlevania%20III%20Dracula%27s%20Curse%20EUR%20%2800040000000b2b00%29.cia?dl=1",
+				   "output": "sdmc:/Castlevania III Dracula's Curse.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Castlevania III Dracula's Curse.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Castlevania III Dracula's Curse.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Castlevania™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 79,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Castlevania™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/0wjno91d9xu7qvj/Castlevania%E2%84%A2%20EUR%20%28000400000009dc00%29.cia?dl=1",
+				   "output": "sdmc:/Castlevania.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Castlevania.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Castlevania.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "City Connection™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 80,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"City Connection™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/r4m42mnb4mkottd/City%20Connection%E2%84%A2%20EUR%20%2800040000000b2f00%29.cia?dl=1",
+				   "output": "sdmc:/City Connection.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/City Connection.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/City Connection.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Clu Clu Land",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 81,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Clu Clu Land": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/g1lt94mjhvrm0ff/Clu%20Clu%20Land%20EUR%20%2800040000000cdc00%29.cia?dl=1",
+				   "output": "sdmc:/Clu Clu Land.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Clu Clu Land.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Clu Clu Land.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crash'n the Boys Street Challenge",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 82,
+		            "description": "",
+		            "last_updated": "2020-08-11 at 14:03 (UTC)"
+},
+"Crash'n the Boys Street Challenge": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1bckarif0emy5ra/Crash%27n%20the%20Boys%20Street%20Challenge%20EUR%20%2800040000000b7200%29.cia?dl=1",
+				   "output": "sdmc:/Crash'n the Boys Street Challenge.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crash'n the Boys Street Challenge.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crash'n the Boys Street Challenge.cia",
 				   "message": "Nettoyage..."
 }]}]} 
 
