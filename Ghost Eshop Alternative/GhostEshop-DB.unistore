@@ -7,7 +7,7 @@
 "url": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.unistore",
 "sheet": "sdmc:/3ds/Universal-Updater/stores/GhostEshop-DB.t3x",
 "sheetURL": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.t3x",
-"description": "Un eshop 3ds alternatif et gratuit.",
+"description": "Un eshop 3ds alternatif et gratuit.\nVersion of the eshop: 5.0\n\nAuthor: Ghost0159\nSpécial thanks: Anonyku",
 "categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "Séries"],
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pokémon.co"],
 "consoles": ["3DS", "DSi", "NES", "SNES", "GBA"],
@@ -96,17 +96,17 @@
 {
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/8zuo5y0f0nipp6x/Captain%10Toad%20-%20Treasure%20Tracker-Revo3DS.cia?dl=1",
-				   "output": "sdmc:/Captain Toad: Treasure Tracker.cia",
+				   "output": "sdmc:/Captain Toad Treasure Tracker.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Captain Toad: Treasure Tracker.cia",
+				   "file": "/Captain Toad Treasure Tracker.cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Captain Toad: Treasure Tracker.cia",
+				   "file": "sdmc:/Captain Toad Treasure Tracker.cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -170,30 +170,30 @@
 ]
 },
 {"info": {
-		            "title": "Poké Transfert",
+		            "title": "Poke Transfert",
 		            "version": "",
 		            "author": "Pokémon.co",
 		            "category": "Eshop",
 		            "console": "3DS",
 		            "icon_index": 5,
-		            "description": "Le Poké Transfert permet de transférer des Pokémon des jeux de la cinquième génération ainsi que ceux de la première génération et de la deuxième génération.",
+		            "description": "Le Poké Transfert permet de transférer des Pokémon\ndes jeux de la cinquième génération ainsi que ceux de la première génération\net de la deuxième génération.",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
 "Poké Transfert": [
 {
 		           "type": "downloadFile",
 				   "file": "https://archive.org/download/nintendo-3ds-eshop-complete-collection/0003%20-%20Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia.7z/0003%20-%20Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Poké Transfert.cia",
+				   "output": "sdmc:/Poke Transfert.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Poké Transfert.cia",
+				   "file": "/Poke Transfert.cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Poké Transfert.cia",
+				   "file": "sdmc:/Poke Transfert.cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -257,7 +257,7 @@
 ]
 },
 {"info": {
-		            "title": "Pokémon Bank",
+		            "title": "Pokemon Bank",
 		            "version": "EUR",
 		            "author": "Pokémon.co",
 		            "category": "Eshop",
@@ -299,17 +299,17 @@
 {
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/l2bczwrsbnm03a6/WarioWareTM%20%20Touched%21%20%28USA%29.cia?dl=1",
-				   "output": "sdmc:/WarioWare Touched!.cia",
+				   "output": "sdmc:/WarioWare Touched.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/WarioWare Touched!.cia",
+				   "file": "/WarioWare Touched.cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/WarioWare Touched!.cia",
+				   "file": "sdmc:/WarioWare Touched.cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -357,17 +357,17 @@
 {
 		           "type": "downloadFile",
 				   "file": "https://archive.org/download/3ds-cia-eshop/0517%20-%20Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.rar/0517%20-%20Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Dr. Mario Miracle Cure.cia",
+				   "output": "sdmc:/Dr Mario Miracle Cure.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Dr. Mario Miracle Cure.cia",
+				   "file": "/Dr Mario Miracle Cure.cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Dr. Mario Miracle Cure.cia",
+				   "file": "sdmc:/Dr Mario Miracle Cure.cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -483,7 +483,7 @@
 		            "category": "Homebrew",
 		            "console": "3DS",
 		            "icon_index": 15,
-		            "description": "",
+		            "description": "Un visioneur de film en 3D.",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
 "3D Movie Viewer": [
@@ -606,17 +606,17 @@
 {
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/qn9wcfhr3swbdks/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island.cia?dl=1",
-				   "output": "sdmc:/Super Mario Advance 3 - Yoshi's Island.cia",
+				   "output": "sdmc:/Super Mario Advance 3 - Yoshis Island.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Super Mario Advance 3 - Yoshi's Island.cia",
+				   "file": "/Super Mario Advance 3 - Yoshis Island.cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Super Mario Advance 3 - Yoshi's Island.cia",
+				   "file": "sdmc:/Super Mario Advance 3 - Yoshis Island.cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -884,17 +884,17 @@
 {
 		           "type": "downloadFile",
 				   "file": "https://qrgo.page.link/ZkMLB",
-				   "output": "sdmc:/Kirby: Triple Deluxe.cia",
+				   "output": "sdmc:/Kirby Triple Deluxe.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Kirby: Triple Deluxe.cia",
+				   "file": "/Kirby Triple Deluxe.cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Kirby: Triple Deluxe.cia",
+				   "file": "sdmc:/Kirby Triple Deluxe.cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -967,7 +967,7 @@
 		            "description": "",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pokemon Crystal Version (USA)": [
+"Pokémon Crystal Version (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/rq35pd3aqk4z114/Pokemon%20Crystal%20USA.cia?dl=1",
@@ -984,7 +984,7 @@
 				   "file": "sdmc:/Pokemon Crystal Version - USA.cia",
 				   "message": "Nettoyage..."}
 ],
-"Pokemon Crystal Version (EUR)": [
+"Pokémon Crystal Version (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/0ytfry8484gvwvq/Pokemon%20Crystal%20EUR.cia?dl=1",
@@ -1100,7 +1100,7 @@
 		            "description": "Hack for Pokemon Crystal.",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pokemon Prism": [
+"Pokémon Prism": [
 {
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/ok0dsk2m774xtu6/?dl=1",
@@ -1133,17 +1133,17 @@
 {
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/sh/7yejob260oorc2e/AADe_jpgozZNeePvXIufOMiHa/The%20Legend%20Of%20Zelda%20Majoras%20Mask%203D%20%28%20Usa%29.cia?dl=1",
-				   "output": "sdmc:/The Legend of Zelda Majora's Mask 3D.cia",
+				   "output": "sdmc:/The Legend of Zelda Majoras Mask 3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/The Legend of Zelda Majora's Mask 3D.cia",
+				   "file": "/The Legend of Zelda Majoras Mask 3D.cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/The Legend of Zelda Majora's Mask 3D.cia",
+				   "file": "sdmc:/The Legend of Zelda Majoras Mask 3D.cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -1220,12 +1220,12 @@
 {
 		           "type": "downloadFile",
 				   "file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20Kart%20-%20Super%20Circuit.cia",
-				   "output": "sdmc:/Mario Kart: Super Circuit.cia",
+				   "output": "sdmc:/Mario Kart Super Circuit.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Mario Kart: Super Circuit.cia",
+				   "file": "/Mario Kart Super Circuit.cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
