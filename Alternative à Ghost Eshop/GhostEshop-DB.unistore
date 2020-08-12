@@ -432,7 +432,7 @@
 },
 {"info": {
 		            "title": "The Legend of Zelda: A Link to the Past",
-		            "version": "",
+		            "version": "EUR",
 		            "author": "",
 		            "category": "Vitual Consoles",
 		            "console": "SNES/GBA",
@@ -1382,7 +1382,7 @@
 },
 {"info": {
 		            "title": "Mario Kart 7",
-		            "version": "EUR/USA/1.1",
+		            "version": "EUR/USA",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -2495,6 +2495,1297 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crash'n the Boys Street Challenge.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Devil World",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 83,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Devil World": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/jkipnf70a7x0esg/Devil%20World%20EUR%20%2800040000000ca400%29.cia?dl=1",
+				   "output": "sdmc:/Devil World.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Devil World.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Devil World.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Dig Dug",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 84,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Dig Dug": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/rbp6redz1sm1nmk/Dig%20Dug%20EUR%20%28000400000009df00%29.cia?dl=1",
+				   "output": "sdmc:/Dig Dug.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dig Dug.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dig Dug.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong™ 3",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 85,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Donkey Kong™ 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%203%20EUR%20%2800040000000b6000%29.cia",
+				   "output": "sdmc:/Donkey Kong 3.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong 3.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong 3.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 86,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Donkey Kong™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%20EUR%20%2800040000000a4700%29.cia",
+				   "output": "sdmc:/Donkey Kong.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong™ Original Edition",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 87,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Donkey Kong™ Original Edition": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Donkey%20Kong%E2%84%A2%20Original%20Edition%20EUR%20%28000400000006f500%29.cia",
+				   "output": "sdmc:/Donkey Kong Original Edition.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong Original Edition.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong Original Edition.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Double Dragon - NES",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 88,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Double Dragon - NES": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Double%20Dragon%20EUR%20%2800040000000b5800%29.cia",
+				   "output": "sdmc:/Double Dragon - NES.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Double Dragon - NES.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Double Dragon - NES.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Double Dragon II - The Revenge",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 89,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Double Dragon II - The Revenge": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Double%20Dragon%20II%20The%20Revenge%20EUR%20%2800040000000d3700%29.cia",
+				   "output": "sdmc:/Double Dragon II - The Revenge - NES/EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Double Dragon II - The Revenge - NES/EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Double Dragon II - The Revenge - NES/EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Galaga™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 90,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Galaga™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Galaga%E2%84%A2%20EUR%20%2800040000000ce100%29.cia",
+				   "output": "sdmc:/Galaga - NES - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Galaga - NES - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Galaga - NES - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Gargoyle's Quest II The Demon Darkness",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 91,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Gargoyle's Quest II The Demon Darkness": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Gargoyle%27s%20Quest%20II%20The%20Demon%20Darkness%20EUR%20%2800040000000f8a00%29.cia",
+				   "output": "sdmc:/Gargoyle's Quest II The Demon Darkness - NES - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gargoyle's Quest II The Demon Darkness - NES - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gargoyle's Quest II The Demon Darkness - NES - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ghost'n Goblins™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 92,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Ghost'n Goblins™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/GHOSTS%27N%20GOBLINS%E2%84%A2%20EUR%20%280004000000099600%29.cia",
+				   "output": "sdmc:/Ghost'n Goblins - NES - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ghost'n Goblins - NES - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ghost'n Goblins - NES - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Gradius",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 93,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Gradius": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/GRADIUS%20EUR%20%280004000000094b00%29.cia",
+				   "output": "sdmc:/Gradius - NES - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gradius - NES - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gradius - NES - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ice Climber™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 94,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Ice Climber™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Ice%20Climber%E2%84%A2%20EUR%20%280004000000070700%29.cia",
+				   "output": "sdmc:/Ice Climber - NES - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ice Climber - NES - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ice Climber - NES - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Life Force",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 95,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Life Force": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Life%20Force%20EUR%20%2800040000000b5b00%29.cia",
+				   "output": "sdmc:/Life Force - NES - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Life Force - NES - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Life Force - NES - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario & Yoshi™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 96,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Mario & Yoshi™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://archive.org/download/nesencia/Mario%20%26amp%3B%20Yoshi%E2%84%A2%20EUR%20%280004000000071300%29.cia",
+				   "output": "sdmc:/Mario and Yoshi-NES-EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario and Yoshi-NES-EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario and Yoshi-NES-EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "50 Classic Games 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 97,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"50 Classic Games 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/gs7z6sq970tljld/50%20Classic%20Games%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/50 Classic Games 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/50 Classic Games 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/50 Classic Games 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ace Combat Assault Horizon Legacy+",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 98,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Ace Combat Assault Horizon Legacy+ - Update": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/31txyld4mvmd976/Ace%20Combat%20Assault%20Horizon%20Legacy%2B%20-%20Update%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Ace Combat Assault Horizon Legacy - Update (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ace Combat Assault Horizon Legacy - Update (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ace Combat Assault Horizon Legacy - Update (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Ace Combat Assault Horizon Legacy+": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/qoehxmaxuy8xqln/Ace%20Combat%20Assault%20Horizon%20Legacy%2B%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Ace Combat Assault Horizon Legacy (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ace Combat Assault Horizon Legacy (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ace Combat Assault Horizon Legacy (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Adventure Time - Explore the Dungeon Because I Don't Know",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 99,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Adventure Time - Explore the Dungeon... - Update 1.1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/vc01ark5y99xnfi/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20-%20Update%201.1%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Adventure Time - Explore the Dungeon Because I Don't Know": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/jyvtab6ky2h0ntx/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventure Time - Explore the Dungeon Because I Don't Know (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Adventure Time - Finn & Jake Investigations",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 100,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Adventure Time - Finn & Jake Investigations": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/v0ojcjf5qba1pye/Adventure%20Time%20-%20Finn%20%26%20Jake%20Investigations%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Adventure Time - Finn & Jake Investigations (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventure Time - Finn & Jake Investigations (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventure Time - Finn & Jake Investigations (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Adventure Time - Hey Ice King Why'd You Steal Our Garbage",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 101,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Adventure Time - Hey Ice King Why'd You Steal Our Garbage": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/7yq0hqv58mz23nv/Adventure%20Time%20-%20Hey%20Ice%20King%20Whyd%20You%20Steal%20Our%20Garbage%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Adventure Time - Hey Ice King Whyd You Steal Our Garbage (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventure Time - Hey Ice King Whyd You Steal Our Garbage (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventure Time - Hey Ice King Whyd You Steal Our Garbage (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Adventure Time - The Secret of the Nameless Kingdom",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 102,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Adventure Time - The Secret of the Nameless Kingdom": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/mwx4m3hi5xm8eu1/Adventure%20Time%20-%20The%20Secret%20of%20the%20Nameless%20Kingdom%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Adventure Time - The Secret of the Nameless Kingdom (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventure Time - The Secret of the Nameless Kingdom (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventure Time - The Secret of the Nameless Kingdom (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Alien Chaos 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 103,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Alien Chaos 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/smp23r6u18mbt0w/Alien%20Chaos%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Alien Chaos 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Alien Chaos 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Alien Chaos 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "American Mensa Academy",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 104,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"American Mensa Academy": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/6f7egj8k0p0tav0/American%20Mensa%20Academy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/American Mensa Academy (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/American Mensa Academy (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/American Mensa Academy (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Anglers Club - Ultimate Bass Fishing 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 105,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Anglers Club - Ultimate Bass Fishing 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/974raoodiwg2806/Anglers%20Club%20-%20Ultimate%20Bass%20Fishing%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Anglers Club - Ultimate Bass Fishing 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Anglers Club - Ultimate Bass Fishing 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Anglers Club - Ultimate Bass Fishing 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Angry Birds Star Wars",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 106,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Angry Birds Star Wars": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/2zewzqzaypsjso6/Angry%20Birds%20Star%20Wars%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Angry Birds Star Wars (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Angry Birds Star Wars (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Angry Birds Star Wars (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Angry Birds Trilogy",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 107,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Angry Birds Trilogy": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/960sqv9z5arqqbj/Angry%20Birds%20Trilogy%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Angry Birds Trilogy (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Angry Birds Trilogy (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Angry Birds Trilogy (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Animal Crossing - Happy Home Designer",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 108,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Animal Crossing - Happy Home Designer - Update 2.0": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/52wh07k96ue9dwf/Animal%20Crossing%20-%20Happy%20Home%20Designer%20-%20Update%202.0%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Animal Crossing - Happy Home Designer - Update 2.0 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Animal Crossing - Happy Home Designer - Update 2.0 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Animal Crossing - Happy Home Designer - Update 2.0 (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Animal Crossing - Happy Home Designer": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/zuncelv0keb7pxi/Animal%20Crossing%20-%20Happy%20Home%20Designer%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Animal Crossing - Happy Home Designer (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Animal Crossing - Happy Home Designer (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Animal Crossing - Happy Home Designer (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Animal Crossing - New Leaf - Welcome Amiibo",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 109,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Animal Crossing - New Leaf - Welcome Amiibo": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1qsmd9tv73vvcj9/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Arcade Classics 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 110,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Arcade Classics 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/97aljijhl4g8pwq/Arcade%20Classics%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Arcade Classics 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Arcade Classics 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Arcade Classics 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Are You Smarter Than a 5th Grader",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 111,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Are You Smarter Than a 5th Grader": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/yb6c5y9kj2gwuc0/Are%20You%20Smarter%20Than%20a%205th%20Grader%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Are You Smarter Than a 5th Grader (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Are You Smarter Than a 5th Grader (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Are You Smarter Than a 5th Grader (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Art Academy Lessons For Everyone",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 112,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Art Academy Lessons For Everyone - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/9hm3jck0el541si/Art%20Academy%20Lessons%20For%20Everyone%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Art Academy Lessons For Everyone - DLC (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Academy Lessons For Everyone - DLC (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Academy Lessons For Everyone - DLC (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Art Academy Lessons For Everyone": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/nsjrjznj0nokgiw/Art%20Academy%20Lessons%20For%20Everyone%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Art Academy Lessons For Everyone (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Academy Lessons For Everyone (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Academy Lessons For Everyone (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Asphalt 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 113,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Asphalt 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/3vo3f43e802o8o1/Asphalt%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Asphalt 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Asphalt 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Asphalt 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Asterix The Mansions Of The Gods",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 114,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Asterix The Mansions Of The Gods": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/29h2mxqii0vqw7j/Asterix%20The%20Mansions%20Of%20The%20Gods%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Asterix The Mansions Of The Gods (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Asterix The Mansions Of The Gods (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Asterix The Mansions Of The Gods (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Atlantic Quest",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 115,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Atlantic Quest": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/4pd8o15t8ch7tb7/Atlantic%20Quest%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1Attack on Titan Humanity in Chains",
+				   "output": "sdmc:/Atlantic Quest (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Atlantic Quest (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Atlantic Quest (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Attack on Titan Humanity in Chains",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 116,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Attack on Titan Humanity in Chains": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1zvf6pjcjtjpmra/Attack%20on%20Titan%20Humanity%20in%20Chains%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Attack on Titan Humanity in Chains (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Attack on Titan Humanity in Chains (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Attack on Titan Humanity in Chains (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Azada",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 117,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Azada": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/h9ct90xh2xpy0y9/Azada%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Azada (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Azada (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Azada (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Breath of Fire II™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "icon_index": 118,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Breath of Fire II™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/3wq90xzt4x178h7/Breath%20of%20Fire%20II%E2%84%A2%20ALL%20%28000400000f705600%29.cia?dl=1",
+				   "output": "sdmc:/Breath of Fire II (SNES/EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Breath of Fire II (SNES/EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Breath of Fire II (SNES/EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Breath of Fire™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "icon_index": 119,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Breath of Fire™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/9wo53t2tdaxn83p/Breath%20of%20Fire%E2%84%A2%20ALL%20%28000400000f705400%29.cia?dl=1",
+				   "output": "sdmc:/Breath of Fire (SNES/EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Breath of Fire (SNES/EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Breath of Fire (SNES/EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Batman - Arkham Origins Blackgate",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 120,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Batman - Arkham Origins Blackgate": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/00owdy74gj4epad/Batman%20-%20Arkham%20Origins%20Blackgate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Batman - Arkham Origins Blackgate (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Batman - Arkham Origins Blackgate (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Batman - Arkham Origins Blackgate (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Battleship+",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 121,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Battleship+": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/vzw0sgju4qu72kp/Battleship%2B%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Battleship+ (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Battleship+ (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Battleship+ (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ben 10 - Galactic Racing",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 122,
+		            "description": "",
+		            "last_updated": "2020-08-12 at 14:03 (UTC)"
+},
+"Ben 10 - Galactic Racing": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/vn4ci0ewu78b5cs/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Ben 10 - Galactic Racing (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ben 10 - Galactic Racing (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ben 10 - Galactic Racing (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken",
+		            "version": "JPN",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 123,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/jhokmrpf198h7pe/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia?dl=0",
+				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
+				   "message": "Nettoyage..."}
+],
+"Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/veb5k1uqdhasxur/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia?dl=0",
+				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update (JPN).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update (JPN).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update (JPN).cia",
+				   "message": "Nettoyage..."}
+],
+"Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ab31zn06cpt844c/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia?dl=0",
+				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
 				   "message": "Nettoyage..."
 }]}]} 
 
