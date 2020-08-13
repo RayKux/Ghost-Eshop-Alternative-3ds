@@ -3740,7 +3740,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jhokmrpf198h7pe/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia?dl=0",
+				   "file": "https://www.dropbox.com/s/jhokmrpf198h7pe/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3757,7 +3757,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/veb5k1uqdhasxur/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia?dl=0",
+				   "file": "https://www.dropbox.com/s/veb5k1uqdhasxur/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3774,7 +3774,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ab31zn06cpt844c/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia?dl=0",
+				   "file": "https://www.dropbox.com/s/ab31zn06cpt844c/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
