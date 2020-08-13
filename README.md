@@ -18,9 +18,9 @@ Mail: contact.ghost01@gmail.com
 
 To make a paypal donation click [here](https://www.paypal.com/paypalme/WTCub).
 
-Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
+Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v5.0).
 
-The last valid version is the "v4.0"! Tested there!
+The last valid version is the "v5.0"! Tested there!
 
 **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
 
@@ -49,9 +49,9 @@ ________________________________________________________________________________
  
  Pour faire un don paypal cliquer [ici](https://www.paypal.com/paypalme/WTCub).
 
- Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
+ Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v5.0).
 
- La derniére version valide est la "v4.0"! Testé là!
+ La derniére version valide est la "v5.0"! Testé là!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
@@ -80,9 +80,9 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  
  Para hacer una donación paypal clicar [aquí](https://www.paypal.com/paypalme/WTCub).
 
- Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v4.0).
+ Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v5.0).
 
- La última versión válida es la "v4.0"! Probado allí!
+ La última versión válida es la "v5.0"! Probado allí!
 
  **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería.**
  
