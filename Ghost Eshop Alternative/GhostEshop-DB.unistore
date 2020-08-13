@@ -10,7 +10,7 @@
 "description": "Un eshop 3ds alternatif et gratuit.\nVersion of the eshop: 5.0\n\nAuthor: Ghost0159\nSpécial thanks: Anonyku",
 "categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "Séries"],
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pokémon.co", "Netflix.inc"],
-"consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB"],
+"consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB", "Game Gear"],
 "barLight": "#395472",
 "barDark": "#395472",
 "bgDark": "#262c4d",
@@ -3740,7 +3740,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jhokmrpf198h7pe/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia?dl=0",
+				   "file": "https://www.dropbox.com/s/jhokmrpf198h7pe/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3754,10 +3754,10 @@
 				   "file": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
 				   "message": "Nettoyage..."}
 ],
-"Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update": [
+"Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update 1.1": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/veb5k1uqdhasxur/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia?dl=0",
+				   "file": "https://www.dropbox.com/s/veb5k1uqdhasxur/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3774,7 +3774,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ab31zn06cpt844c/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia?dl=0",
+				   "file": "https://www.dropbox.com/s/ab31zn06cpt844c/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3786,6 +3786,1287 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ben 10 - Omniverse",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 124,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Ben 10 - Omniverse": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/k45m5sqd20jh8ma/Ben%2010%20-%20Omniverse%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Ben 10 - Omniverse (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ben 10 - Omniverse (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ben 10 - Omniverse (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ben 10 - Omniverse 2",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 125,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Ben 10 - Omniverse 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/0m5zd941gopqhhd/Ben%2010%20-%20Omniverse%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Ben 10 - Omniverse 2 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ben 10 - Omniverse 2 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ben 10 - Omniverse 2 (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Best of Arcade Games",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 126,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Best of Arcade Games": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/551p10z9juhpjzg/Best%20of%20Arcade%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Best of Arcade Games (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Best of Arcade Games (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Best of Arcade Games (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Best of Board Games",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 127,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Best of Board Games": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/iujl50r1xg2y9zr/Best%20of%20Board%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Best of Board Games (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Best of Board Games (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Best of Board Games (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Best of Casual Games",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 128,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Best of Casual Games": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/khkv7foci22h397/Best%20of%20Casual%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Best of Casual Games (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Best of Casual Games (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Best of Casual Games (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Beyblade Evolution",
+		            "version": "",
+		            "author": "",
+		            "category": "",
+		            "console": "",
+		            "icon_index": 129,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Beyblade Evolution": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/f562p6odbo9ay8x/Beyblade%20Evolution%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Beyblade Evolution (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Beyblade Evolution (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Beyblade Evolution (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Big Hero 6 - Battle in the Bay",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 130,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Big Hero 6 - Battle in the Bay": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ovoowieojux0raf/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Big Hero 6 - Battle in the Bay (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Big Hero 6 - Battle in the Bay (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Big Hero 6 - Battle in the Bay (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bit Trip Saga",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 131,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Bit Trip Saga": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ipqfr24c65enf9h/Bit%20Trip%20Saga%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Bit Trip Saga (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bit Trip Saga (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bit Trip Saga (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "BlazBlue - Continuum Shift II",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 132,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"BlazBlue - Continuum Shift II": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/wxp0mf9bsdalmes/BlazBlue%20-%20Continuum%20Shift%20II%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/BlazBlue - Continuum Shift II (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/BlazBlue - Continuum Shift II (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/BlazBlue - Continuum Shift II (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Boku no Hero Academia Battle For All",
+		            "version": "JPN",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 133,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Boku no Hero Academia Battle For All": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/d71cnpnhdo9jpeo/Boku%20no%20Hero%20Academia%20Battle%20For%20All%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Boku no Hero Academia Battle For All (JPN).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Boku no Hero Academia Battle For All (JPN).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Boku no Hero Academia Battle For All (JPN).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Boulder Dash-XL 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 134,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Boulder Dash-XL 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/m16vtusao9mvvfb/Boulder%20Dash-XL%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Boulder Dash-XL 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Boulder Dash-XL 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Boulder Dash-XL 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bowling Bonanza 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 135,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Bowling Bonanza 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ovcql8ol844p1uq/Bowling%20Bonanza%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Bowling Bonanza 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bowling Bonanza 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bowling Bonanza 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Brain Age Concentration Training",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 136,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Brain Age Concentration Training": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/6xe2arq52imukq1/Brain%20Age%20Concentration%20Training%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Brain Age Concentration Training (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Brain Age Concentration Training (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Brain Age Concentration Training (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Brain Training 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 137,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Brain Training 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/hz15o2dhmeyp1lq/Brain%20Training%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Brain Training 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Brain Training 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Brain Training 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Columns™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "icon_index": 138,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Columns™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/vydva9m388tel1q/Columns%E2%84%A2%20%20EUR%20%280004000000088400%29.cia?dl=1",
+				   "output": "sdmc:/Columns - EUR - Game Gear.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Columns - EUR - Game Gear.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Columns - EUR - Game Gear.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Contra III The Alien Wars",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "icon_index": 139,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Contra III The Alien Wars": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/nyi8mr53iho1ill/Contra%20III%20The%20Alien%20Wars%20ALL%20%28000400000f702c00%29.cia?dl=1",
+				   "output": "sdmc:/Contra III The Alien Wars - EUR - SNES.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Contra III The Alien Wars - EUR - SNES.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Contra III The Alien Wars - EUR - SNES.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crystal Warriors",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "icon_index": 140,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Crystal Warriors": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/hegjdfoulggmjx7/Crystal%20Warriors%20EUR%20%28000400000009b600%29.cia?dl=1",
+				   "output": "sdmc:/Crystal Warriors - EUR - Game Gear.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crystal Warriors - EUR - Game Gear.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crystal Warriors - EUR - Game Gear.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Defenders of Oasis™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "icon_index": 141,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Defenders of Oasis™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/z7eavjn7ic2zxe1/Defenders%20of%20Oasis%E2%84%A2%20EUR%20%28000400000009b700%29.cia?dl=1",
+				   "output": "sdmc:/Defenders of Oasis - EUR - Game Gear.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Defenders of Oasis - EUR - Game Gear.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Defenders of Oasis - EUR - Game Gear.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bravely Default",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 142,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Bravely Default": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/o2sc2qpe52iofbd/Bravely%20Default%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Bravely Default - USA.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bravely Default - USA.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bravely Default - USA.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bravely Second - End Layer",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 143,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Bravely Second - End Layer": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ndisgsur3vg7hdo/Bravely%20Second%20-%20End%20Layer%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Bravely Second - End Layer (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bravely Second - End Layer (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bravely Second - End Layer (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Bravely Second - End Layer - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/upfw70cem55rqus/Bravely%20Second%20-%20End%20Layer%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Bravely Second - End Layer - DLC (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bravely Second - End Layer - DLC (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bravely Second - End Layer - DLC (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Brunswick Pro Bowling",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 144,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Brunswick Pro Bowling": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/4hq78vy62h63psj/Brunswick%20Pro%20Bowling%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Brunswick Pro Bowling - USA.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Brunswick Pro Bowling - USA.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Brunswick Pro Bowling - USA.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bust-A-Move Universe",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 145,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Bust-A-Move Universe": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/h1yo2osf02mvkyq/Bust-A-Move%20Universe%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Bust-A-Move Universe (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bust-A-Move Universe (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bust-A-Move Universe (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Candy Match 3",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 146,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Candy Match 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/yiyyuzdm81ymbex/Candy%20Match%203%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Candy Match 3 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Candy Match 3 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Candy Match 3 (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Captain America - Super Soldier",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 147,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Captain America - Super Soldier": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pqddgfaod57rm7b/Captain%20America%20-%20Super%20Soldier%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Captain America - Super Soldier (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Captain America - Super Soldier (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Captain America - Super Soldier (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Carnival Games Wild West 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 148,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Carnival Games Wild West 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/okhcdroqa14o9kh/Carnival%20Games%20Wild%20West%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Carnival Games Wild West 3D - USA.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Carnival Games Wild West 3D - USA.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Carnival Games Wild West 3D - USA.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cars 2",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "",
+		            "icon_index": 149,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Cars 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/az073c6ui0ybyz5/Cars%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Cars 2.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cars 2.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cars 2.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cartoon Network - Battle Crashers",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 150,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Cartoon Network - Battle Crashers": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/lx6vy0feyfbuoqu/Cartoon%20Network%20-%20Battle%20Crashers%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Cartoon Network - Battle Crashers.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cartoon Network - Battle Crashers.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cartoon Network - Battle Crashers.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cartoon Network - Punch Time Explosion",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 151,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Cartoon Network - Punch Time Explosion": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/l223fxnd6zf34q1/Cartoon%20Network%20-%20Punch%20Time%20Explosion%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Cartoon Network - Punch Time Explosion.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cartoon Network - Punch Time Explosion.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cartoon Network - Punch Time Explosion.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crash Time 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 152,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Crash Time 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/3u8wjypxuvbx57t/Crash%20Time%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Crash Time 3D.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crash Time 3D.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crash Time 3D.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crazy Construction",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 153,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Crazy Construction": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/2z24j2qw0gnv307/Crazy%20Construction%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Crazy Construction.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crazy Construction.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crazy Construction.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crosswords Plus",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 154,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Crosswords Plus": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/zruyiua4el4clxf/Crosswords%20Plus%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Crosswords Plus.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crosswords Plus.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crosswords Plus.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crush3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 155,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Crush3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/n9ipghvzjg44rd8/Crush3D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Crush3D.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crush3D.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crush3D.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cubic Ninja",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 156,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Cubic Ninja": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/bq1vxjiljmf6tn3/Cubic%20Ninja%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Cubic Ninja.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cubic Ninja.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cubic Ninja.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Culdcept Revolt",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 157,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Culdcept Revolt": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/x51gycrbuvadq65/Culdcept%2BRevolt%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Culdcept Revolt.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Culdcept Revolt.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Culdcept Revolt.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Dai Gyakuten Saiban",
+		            "version": "JPN",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 158,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Dai Gyakuten Saiban": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/uv0w76k6fqyvrkg/Dai%20Gyakuten%20Saiban%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Dai Gyakuten Saiban.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dai Gyakuten Saiban.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dai Gyakuten Saiban.cia",
+				   "message": "Nettoyage..."}
+],
+"Dai Gyakuten Saiban - Patch English": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/wedb3k4txr6cmbi/Dai%20Gyakuten%20Saiban%20-%20Patch%20Ingles%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Dai Gyakuten Saiban - Patch English.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dai Gyakuten Saiban - Patch English.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dai Gyakuten Saiban - Patch English.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Deer Drive Legends",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 159,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Deer Drive Legends": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ojy25uc02sr2048/Deer%2BDrive%2BLegends%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Deer Drive Legends.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Deer Drive Legends.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Deer Drive Legends.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong Country 3 Dixie Kong's Double Trouble™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "icon_index": 160,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Donkey Kong Country 3 Dixie Kong's Double Trouble™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pmccvzf83pgrb6h/Donkey%20Kong%20Country%203%20Dixie%20Kong%27s%20Double%20Trouble%E2%84%A2%20ALL%20%28000400000f702f00%29.cia?dl=1",
+				   "output": "sdmc:/Donkey Kong Country 3 Dixie Kong's Double Trouble.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong Country 3 Dixie Kong's Double Trouble.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong Country 3 Dixie Kong's Double Trouble.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong Country™ 2 Diddy's Kong Quest™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "icon_index": 161,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Donkey Kong Country™ 2 Diddy's Kong Quest™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/5dhid0hyothlydx/Donkey%20Kong%20Country%E2%84%A2%202%20Diddy%27s%20Kong%20Quest%E2%84%A2%20ALL%20%28000400000f702000%29.cia?dl=1",
+				   "output": "sdmc:/Donkey Kong Country 2 Diddy's Kong Quest.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong Country 2 Diddy's Kong Quest.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong Country 2 Diddy's Kong Quest.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb",
+		            "version": "JPN",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 162,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/yazbv0o0wacd843/Taiko%20no%20Tatsujin%20Chibi%20Dragon%20to%20Fushigi%20na%20Orb%20%28JPN%29%20RF.cia?dl=1",
+				   "output": "sdmc:/Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bloody Vampire",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 163,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Bloody Vampire": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1wdqm9c83yj2884/Bloody%20Vampire%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Bloody Vampire (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bloody Vampire (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bloody Vampire (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "3D OutRun",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 164,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"3D OutRun": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ut547y2jxsj6pkg/3D%20OutRun%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/3D OutRun (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D OutRun (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D OutRun (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cubit - The Hardcore Platformer Robot",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 165,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Cubit - The Hardcore Platformer Robot": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/2biffli9kipm5tc/Cubit%20-%20The%20Hardcore%20Platformer%20Robot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Cubit - The Hardcore Platformer Robot (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cubit - The Hardcore Platformer Robot (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cubit - The Hardcore Platformer Robot (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cube Tactics",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 166,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Cube Tactics": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/clhnrguj7bg3qgr/Cube%20Tactics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Cube Tactics (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cube Tactics (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cube Tactics (EUR).cia",
 				   "message": "Nettoyage..."
 }]}]} 
 
