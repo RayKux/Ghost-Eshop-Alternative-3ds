@@ -2,13 +2,16 @@
 	<a href="https://github.com/Ghost0159"><img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop.png"></a><br>
 	<b>An alternative 3ds eshop in the form of a Universal-Updater Unistore.</b><br>
 	<a href="https://discord.gg/FPDUSaA" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Discord-Server-blue.svg" height="20">
+		<img src="https://img.shields.io/badge/Discord-Server-black.svg" height="20">
 	</a>
 	<a href="https://www.youtube.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/YouTube-Chainne-red.svg" height="20">
 	</a>
 	<a href="https://www.facebook.com/groups/293898438606830" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/FaceBook-Groupe-blue.svg" height="20">
+	</a>
+	<a href="https://twitter.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
+		<img src="https://img.shields.io/badge/Twitter-Anonyku-blue.svg" height="20">
 	</a>
 </p>
 
@@ -106,18 +109,6 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  -Para juegos de más de 200Mib, es recomendable tener una conexión estable (*ADSL + Red privada*)
 
  -Para los juegos de más de 950Mib, es recomendable tener fibra (*Fibra + Red privada*)
-
-_____________________________________________________________________________________________________________________
-
-## Links:
-
-**Facebook: [Groupe Ghost Eshop Aternative](https://www.facebook.com/groups/293898438606830).**
-
-**Discord: [Ghost Eshop Alternative](https://discord.gg/FPDUSaA)**
-
-**Youtube: [Anonyku](https://www.youtube.com/AnonyCub5).**
-
-**Twitter: [Anonyku](https://twitter.com/AnonyCub5).**
 
 _____________________________________________________________________________________________________________________
 
