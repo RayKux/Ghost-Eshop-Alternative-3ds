@@ -13,6 +13,9 @@
 	<a href="https://twitter.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Twitter-Anonyku-green.svg" height="20">
 	</a>
+	<a href="https://somsubhra.com/github-release-stats/?username=Ghost0159&repository=Ghost-Eshop-Alternative-3ds" style="padding-left: 5px; padding-right: 5px;">
+		<img src="https://img.shields.io/badge/Downloads:-726-yellow.svg" height="20">
+	</a>
 </p>
 
 ## Languages:
