@@ -13,6 +13,7 @@
 	<a title="Crowdin" target="_blank" href="https://crowdin.com/project/universal-updater"><img src="https://badges.crowdin.net/universal-updater/localized.svg" alt="Translation status on Crowdin"></a>
 </p>
 _____________________________________________________________________________________________________________________
+
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english); [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais); [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
 _____________________________________________________________________________________________________________________
