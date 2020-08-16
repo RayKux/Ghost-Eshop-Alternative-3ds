@@ -15,7 +15,7 @@
 _____________________________________________________________________________________________________________________
 
 ## Languages:
-**-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english); [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais); [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
+**-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english), [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais) & [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
 _____________________________________________________________________________________________________________________
 
 ## English:
