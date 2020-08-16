@@ -1,7 +1,8 @@
 <p align="center">
 	<a href="https://raw.githubusercontent.com/Ghost0159/Ghost-Eshop-Alternative-3ds/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop.png"></a><br>
 	<b>An alternative 3ds eshop in the form of a Universal-Updater Unistore.</b><br>
-		<img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Downloads.PNG" height="20">
+<p align="center">
+	<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Downloads.PNG"></a><br>
 _____________________________________________________________________________________________________________________
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english); [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais); [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
