@@ -10,7 +10,6 @@
 	<a href="https://dev.azure.com/universal-team/Builds/_build?definitionId=13" style="padding-right: 5px;">
 		<img src="https://dev.azure.com/Universal-Team/Builds/_apis/build/status/Universal-Team.Universal-Updater%20(1)?branchName=master" height="20">
 	</a>
-	<a title="Crowdin" target="_blank" href="https://crowdin.com/project/universal-updater"><img src="https://badges.crowdin.net/universal-updater/localized.svg" alt="Translation status on Crowdin"></a>
 </p>
 _____________________________________________________________________________________________________________________
 
