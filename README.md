@@ -4,14 +4,14 @@
 	<a href="https://discord.gg/FPDUSaA" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Discord-Server-black.svg" height="20">
 	</a>
-	<a href="https://www.youtube.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/YouTube-Chainne-red.svg" height="20">
-	</a>
 	<a href="https://www.facebook.com/groups/293898438606830" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/FaceBook-Groupe-blue.svg" height="20">
 	</a>
+	<a href="https://www.youtube.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
+		<img src="https://img.shields.io/badge/YouTube-Anonyku-red.svg" height="20">
+	</a>
 	<a href="https://twitter.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Twitter-Anonyku-blue.svg" height="20">
+		<img src="https://img.shields.io/badge/Twitter-Anonyku-green.svg" height="20">
 	</a>
 </p>
 
