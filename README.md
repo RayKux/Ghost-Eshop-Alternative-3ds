@@ -1,7 +1,17 @@
 <p align="center">
-	<a href="https://raw.githubusercontent.com/Ghost0159/Ghost-Eshop-Alternative-3ds/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop.png"></a><br>
-	<b>An alternative 3ds eshop in the form of a Universal-Updater Unistore.</b><br>
-	<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Downloads.PNG"></a><br>
+	<a href="https://universal-team.net/projects/universal-updater.html"><img src="https://github.com/Universal-Team/Universal-Updater/blob/master/app/banner.png"></a><br>
+	<b>A multiapp, JSON script-based updater for Nintendo 3DS</b><br>
+	<a href="https://discord.gg/KDJCfGF" style="padding-left: 5px; padding-right: 5px;">
+		<img src="https://img.shields.io/badge/Discord-Server-blue.svg" height="20">
+	</a>
+	<a href="https://gbatemp.net/threads/release-universal-updater-a-universally-good-updater.551824/" style="padding-left: 5px;">
+		<img src="https://img.shields.io/badge/GBAtemp-thread-blue.svg" height="20">
+	</a>
+	<a href="https://dev.azure.com/universal-team/Builds/_build?definitionId=13" style="padding-right: 5px;">
+		<img src="https://dev.azure.com/Universal-Team/Builds/_apis/build/status/Universal-Team.Universal-Updater%20(1)?branchName=master" height="20">
+	</a>
+	<a title="Crowdin" target="_blank" href="https://crowdin.com/project/universal-updater"><img src="https://badges.crowdin.net/universal-updater/localized.svg" alt="Translation status on Crowdin"></a>
+</p>
 _____________________________________________________________________________________________________________________
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english); [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais); [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
