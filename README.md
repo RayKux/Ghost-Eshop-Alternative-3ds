@@ -108,7 +108,7 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
  -Para los juegos de más de 950Mib, es recomendable tener fibra (*Fibra + Red privada*)
  
-## Screenshots
+## Screenshots:
 
 ![](https://universal-team.github.io/images/universal-updater/script-browse-3.png)![](https://universal-team.github.io/images/universal-updater/script-browse-7.png)![](https://universal-team.github.io/images/universal-updater/scriptlist-selection.png)![](https://universal-team.github.io/images/universal-updater/mainMenu.png)
 
