@@ -4,11 +4,11 @@
 	<a href="https://discord.gg/FPDUSaA" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Discord-Server-blue.svg" height="20">
 	</a>
-	<a href="https://gbatemp.net/threads/release-universal-updater-a-universally-good-updater.551824/" style="padding-left: 5px;">
-		<img src="https://img.shields.io/badge/GBAtemp-thread-blue.svg" height="20">
-	</a>
 	<a href="https://www.youtube.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/YouTube-Chainne-red.svg" height="20">
+	</a>
+	<a href="https://www.facebook.com/groups/293898438606830" style="padding-left: 5px; padding-right: 5px;">
+		<img src="https://img.shields.io/badge/FaceBook-Groupe-blue.svg" height="20">
 	</a>
 </p>
 
