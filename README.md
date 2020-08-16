@@ -8,7 +8,6 @@
 		<img src="https://img.shields.io/badge/GBAtemp-thread-blue.svg" height="20">
 	</a>
 </p>
-_____________________________________________________________________________________________________________________
 
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english), [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais) & [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
