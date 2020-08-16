@@ -17,7 +17,6 @@
 
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english), [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais) & [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
-_____________________________________________________________________________________________________________________
 
 ## English:
 
@@ -48,8 +47,6 @@ We currently have: **219** file in . cia format
 
 -For games over 950Mib, it is advisable to have fiber (*Fiber + Private network*)
 
-_____________________________________________________________________________________________________________________
-
 ## Français:
 
  Ceci est un eshop 3ds alternatif sous la forme d'un Unistore Universal-Updater.
@@ -79,8 +76,6 @@ ________________________________________________________________________________
 
  -Pour les jeux de plus de 950Mib, il est conseillé d'avoir la fibre (*Fibre + Réseau privé*)
  
- _____________________________________________________________________________________________________________________
-
 ## Spanish:
 
 Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
@@ -109,13 +104,13 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  -Para juegos de más de 200Mib, es recomendable tener una conexión estable (*ADSL + Red privada*)
 
  -Para los juegos de más de 950Mib, es recomendable tener fibra (*Fibra + Red privada*)
+ 
+## Screenshots
 
-_____________________________________________________________________________________________________________________
+![](https://universal-team.github.io/images/universal-updater/script-browse-3.png)![](https://universal-team.github.io/images/universal-updater/script-browse-7.png)![](https://universal-team.github.io/images/universal-updater/scriptlist-selection.png)![](https://universal-team.github.io/images/universal-updater/mainMenu.png)
 
 ## Visitors:
 
 ![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Capture.PNG)
-
-_____________________________________________________________________________________________________________________
 
 **Crédits: [Ghost0159](https://github.com/Ghost0159), [Anonyku](https://github.com/Anonyku) & DH**
