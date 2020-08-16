@@ -1,6 +1,6 @@
 <p align="center">
-	<a href="https://universal-team.net/projects/universal-updater.html"><img src="https://github.com/Universal-Team/Universal-Updater/blob/master/app/banner.png"></a><br>
-	<b>A multiapp, JSON script-based updater for Nintendo 3DS</b><br>
+	<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop.png"></a><br>
+	<b>An eshop alternatif</b><br>
 	<a href="https://discord.gg/KDJCfGF" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Downloads.PNG" height="20">
 _____________________________________________________________________________________________________________________
