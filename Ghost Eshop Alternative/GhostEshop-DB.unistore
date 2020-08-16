@@ -414,7 +414,7 @@
 "Cut the Rope for Nintendo 3DS": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/qeamgzfz4x0uj3s/%5B3DS%20CIA%20SHOP%5D%20Cut%20the%20Rope%20%28eShop%20Exclusive%29.cia?dl=1The Legend of Zelda: A Link to the Past",
+				   "file": "https://www.dropbox.com/s/qeamgzfz4x0uj3s/%5B3DS%20CIA%20SHOP%5D%20Cut%20the%20Rope%20%28eShop%20Exclusive%29.cia?dl=1",
 				   "output": "sdmc:/Cut the Rope for Nintendo 3DS.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -767,7 +767,7 @@
 "Sega 3D Classics Collection": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/lyqtd8xhcm7t2vz/Sega%203D%20Classics%20Collection%20%28USA%29.cia?dl=1Super Mario Bros",
+				   "file": "https://www.dropbox.com/s/lyqtd8xhcm7t2vz/Sega%203D%20Classics%20Collection%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Sega 3D Classics Collection.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -796,7 +796,7 @@
 "Super Mario Bros.": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/mevcgcib1qnyyzu/Super%20Mario%20Bros%20%28NES%29.cia?dl=1Luigi's Mansion 2: Dark Moon",
+				   "file": "https://www.dropbox.com/s/mevcgcib1qnyyzu/Super%20Mario%20Bros%20%28NES%29.cia?dl=1",
 				   "output": "sdmc:/Super Mario Bros.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1248,7 +1248,7 @@
 "Super Mario Bros. 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/puec2vtqeqcqpy5/Super%20Mario%20USA.cia?dl=1Super Mario Advance - Super Mario Bros. 2",
+				   "file": "https://www.dropbox.com/s/puec2vtqeqcqpy5/Super%20Mario%20USA.cia?dl=1",
 				   "output": "sdmc:/Super Mario Bros. 2.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3508,7 +3508,7 @@
 "Atlantic Quest": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4pd8o15t8ch7tb7/Atlantic%20Quest%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1Attack on Titan Humanity in Chains",
+				   "file": "https://www.dropbox.com/s/4pd8o15t8ch7tb7/Atlantic%20Quest%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Atlantic Quest (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5067,6 +5067,1582 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Cube Tactics (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Fairune",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 167,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Fairune": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/gcaiyaqaoio8ko0/Fairune%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Fairune (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Fairune (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Fairune (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mighty Gunvolt",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 168,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Mighty Gunvolt": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/po3avz2ibmi5l12/Mighty%20Gunvolt%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Mighty Gunvolt (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mighty Gunvolt (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mighty Gunvolt (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario 64",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "3DS",
+		            "icon_index": 169,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Super Mario 64": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/se9rotc8xsea0fv/Super%20Mario%2064%203DS%20%28CTR-P-PWDR%29%20%28W%29.cia?dl=1",
+				   "output": "sdmc:/Super Mario 64.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Demon King Box",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 170,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Demon King Box": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pb893008n3czrws/Demon%20King%20Box%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Demon King Box (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Demon King Box (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Demon King Box (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Detective Pikachu",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 171,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Detective Pikachu": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/vuz4m7ceo8509le/Detective%20Pikachu%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Detective Pikachu (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Detective Pikachu (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Detective Pikachu (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Dillon's Dead Heat Breakers",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 172,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Dillon's Dead Heat Breakers": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/f6vx6d2dctz9xko/Dillons%20Dead%20Heat%20Breakers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Dillons Dead Heat Breakers (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dillons Dead Heat Breakers (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dillons Dead Heat Breakers (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Disney 2",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 173,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Disney 2 - Pack - Frozen - Olafs Quests/Big Hero 6 - Battle in the Bay": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/n9yzl8pf28ffyeo/Disney%202%20-%20Pack%20-%20Frozen%20-%20Olafs%20Quest%20%20%20Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Disney Art Academy",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 174,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Disney Art Academy": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/krou78sfm2clqzw/Disney%20Art%20Academy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Art Academy (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Art Academy (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Art Academy (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Disney Epic Mickey Power of Illusion",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 175,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Disney Epic Mickey Power of Illusion": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/b9xuqdc59kedhhu/Disney%20Epic%20Mickey%20Power%20of%20Illusion%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Epic Mickey Power of Illusion.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Epic Mickey Power of Illusion.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Epic Mickey Power of Illusion.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Disney Frozen - Olafs Quest",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 176,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Disney Frozen - Olafs Quest": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/5cakjwb656213av/Disney%20Frozen%20-%20Olafs%20Quest%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Frozen - Olafs Quest.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Frozen - Olafs Quest.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Frozen - Olafs Quest.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Disney Infinity - Toy Box Challenge",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 177,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Disney Infinity - Toy Box Challenge": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/dcd1vly33vryeuj/Disney%20Infinity%20-%20Toy%20Box%20Challenge%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Infinity - Toy Box Challenge.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Infinity - Toy Box Challenge.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Infinity - Toy Box Challenge.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Disney Magical World",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 178,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Disney Magical World - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ghihl4bfcz7rddc/Disney%20Magical%20World%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Magical World - DLC.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Magical World - DLC.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Magical World - DLC.cia",
+				   "message": "Nettoyage..."}
+],
+"Disney Magical World - Update 1.1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/2ui76kcsme27iwb/Disney%20Magical%20World%20-%20Update%201.1%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Magical World - Update 1.1.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Magical World - Update 1.1.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Magical World - Update 1.1.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Disney Magical World 2",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 179,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Disney Magical World 2 - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/kgqd7lb7rz0snnz/Disney%20Magical%20World%202%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Magical World 2 - DLC.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Magical World 2 - DLC.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Magical World 2 - DLC.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Duck Dynasty",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 180,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Duck Dynasty": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/vkxbt1nj3cciqxq/Duck%20Dynasty%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Duck Dynasty.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Duck Dynasty.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Duck Dynasty.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Gem Smashers",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 181,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Gem Smashers": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/53r07cahs1ogr5t/Gem%20Smashers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Gem Smashers.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gem Smashers.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gem Smashers.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Generator Rex - Agent of Providence",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 182,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Generator Rex - Agent of Providence": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/261dfjx74h2qtds/Generator%20Rex%20-%20Agent%20of%20Providence%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Generator Rex - Agent of Providence.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Generator Rex - Agent of Providence.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Generator Rex - Agent of Providence.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Girls Fashion Shoot",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 183,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Girls Fashion Shoot": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/jzg555boifxjcki/Girls%20Fashion%20Shoot%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Girls Fashion Shoot.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Girls Fashion Shoot.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Girls Fashion Shoot.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Goosebumps - The Game",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 184,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Goosebumps - The Game": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/74emxuxu3aehqwv/Goosebumps%20-%20The%20Game%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Goosebumps - The Game.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Goosebumps - The Game.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Goosebumps - The Game.cia",
+				   "message": "Nettoyage..."}
+],
+"Goosebumps - The Game - Update 1.01": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/k2117xpfzz9aja9/Goosebumps%20-%20The%20Game%20-%20Update%201.01%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Goosebumps - The Game - Update 1.01.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Goosebumps - The Game - Update 1.01.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Goosebumps - The Game - Update 1.01.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Gravity Falls - Legend of the Gnome Gemulets",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 185,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Gravity Falls - Legend of the Gnome Gemulets": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/zu21ijjy2bk42lt/Gravity%2BFalls%2B-%2BLegend%2Bof%2Bthe%2BGnome%2BGemulets%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Gravity Falls - Legend of the Gnome Gemulets.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gravity Falls - Legend of the Gnome Gemulets.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gravity Falls - Legend of the Gnome Gemulets.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Green Lantern - Rise of the Manhunters",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 186,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Green Lantern - Rise of the Manhunters": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/h2f8bguxpdmz8au/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Green Lantern - Rise of the Manhunters.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Green Lantern - Rise of the Manhunters.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Green Lantern - Rise of the Manhunters.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Gummy Bears Magical Medallion",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 187,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Gummy Bears Magical Medallion": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/5to7cr87hukq1aj/Gummy%20Bears%20Magical%20Medallion%20%28EUR%29.cia?dl=1",
+				   "output": "sdmc:/Gummy Bears Magical Medallion.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gummy Bears Magical Medallion.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gummy Bears Magical Medallion.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Minecraft",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 188,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Minecraft - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1k0d717vb1u6yhv/Minecraft%20-%20DLC%28KTR-M-BD3E-00%29%20%28UNK%29.cia?dl=1",
+				   "output": "sdmc:/Minecraft - DLC.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Minecraft - DLC.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Minecraft - DLC.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon GS Chronicles",
+		            "version": "Free",
+		            "author": "",
+		            "category": "Homebrew",
+		            "console": "GBA",
+		            "icon_index": 189,
+		            "description": "Pokémon Fire Red hack.",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Pokemon GS Chronicles": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/apqj2z43q7nbk6t/Pokemon%20GS%20Chronicles%20Beta%202%20Build%202911192_1.cia?dl=1",
+				   "output": "sdmc:/Pokemon GS Chronicles.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon GS Chronicles.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon GS Chronicles.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon Orange Islands",
+		            "version": "Free",
+		            "author": "",
+		            "category": "Homebrew",
+		            "console": "GBA",
+		            "icon_index": 190,
+		            "description": "Pokémon Fire Red hack",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Pokemon Orange Islands": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/t6fkjojyheyqjpy/Pokemon%20Orange%20Islands%205.0.cia?dl=1",
+				   "output": "sdmc:/Pokemon Orange Islands.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Orange Islands.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Orange Islands.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon Red Chapter",
+		            "version": "Free",
+		            "author": "",
+		            "category": "Homebrew",
+		            "console": "GBA",
+		            "icon_index": 191,
+		            "description": "Pokémon Fire Red hack",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Pokemon Red Chapter": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/nmtionpuehyxcpd/Pokemon%20Red%20Chapter%20Beta%2015.4.cia?dl=1",
+				   "output": "sdmc:/Pokemon Red Chapter.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Red Chapter.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Red Chapter.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "EarthBound™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "icon_index": 192,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"EarthBound™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/f8ylert5z9ktwf4/EarthBound%E2%84%A2%20EUR%20%28000400000f701600%29.cia?dl=1",
+				   "output": "sdmc:/EarthBound - EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/EarthBound - EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/EarthBound - EUR.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Lufia® The Legend Returns",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "icon_index": 193,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Lufia® The Legend Returns": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/9hr5keiiguib99v/Lufia%C2%AE%20The%20Legend%20Returns%20EUR%20%28000400000011ab00%29.cia?dl=1",
+				   "output": "sdmc:/Lufia The Legend Returns.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Lufia The Legend Returns.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Lufia The Legend Returns.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Disney Planes - Fire and Rescue",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 194,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Disney Planes - Fire and Rescue": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/a1989nyzabfq1an/Disney%20Planes%20-%20Fire%20and%20Rescue%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Planes - Fire and Rescue.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Planes - Fire and Rescue.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Planes - Fire and Rescue.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kunio-kun Nekketsu Complete - Famicom-Hen",
+		            "version": "JPN",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 195,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Kunio-kun Nekketsu Complete - Famicom-Hen": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ekxp474hreyft1f/Kunio-kun%20Nekketsu%20Complete%20-%20Famicom-Hen%20%28Japan%29.cia?dl=1",
+				   "output": "sdmc:/Kunio-kun Nekketsu Complete - Famicom-Hen.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kunio-kun Nekketsu Complete - Famicom-Hen.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kunio-kun Nekketsu Complete - Famicom-Hen.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "EscapeVektor",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 196,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"EscapeVektor": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/7a8pxlkjigqr2w1/EscapeVektor%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/EscapeVektor.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/EscapeVektor.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/EscapeVektor.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Xtreme Sports",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "icon_index": 197,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Xtreme Sports": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/t1j9jzz6w2h1poy/Xtreme%20Sports%20EUR%20%2800040000000f0300%29.cia?dl=1",
+				   "output": "sdmc:/Xtreme Sports.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Xtreme Sports.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Xtreme Sports.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Wrecking Crew",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 198,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Wrecking Crew": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/d6w6wpy12djc8g8/Wrecking%20Crew%20EUR%20%28000400000006f800%29.cia?dl=1",
+				   "output": "sdmc:/Wrecking Crew.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Wrecking Crew.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Wrecking Crew.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "WarioWare, Inc™ Minigame Mania",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 199,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"WarioWare, Inc™ Minigame Mania": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1erjyycesp9s0oa/WarioWare%2C%20Inc%E2%84%A2%20Minigame%20Mania%20EUR%20%280004000000075a00%29.cia?dl=1",
+				   "output": "sdmc:/WarioWare, Inc Minigame Mania.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/WarioWare, Inc Minigame Mania.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/WarioWare, Inc Minigame Mania.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Wario's Woods",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "icon_index": 200,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Wario's Woods": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/olr7vussogb4s0a/Wario%27s%20Woods%20EUR%20%280004000000071600%29.cia?dl=1",
+				   "output": "sdmc:/Wario's Woods.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Wario's Woods.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Wario's Woods.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Wario Land™ 4",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 201,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Wario Land™ 4": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/36jmaaakmd6ke5f/Wario%20Land%E2%84%A2%204%20EUR%20%280004000000075000%29.cia?dl=1",
+				   "output": "sdmc:/Wario Land 4.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Wario Land 4.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Wario Land 4.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Wario Land™ 3",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "icon_index": 202,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Wario Land™ 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/kbj5oqskasu9evr/Wario%20Land%E2%84%A2%203%20EUR%20%28000400000008af00%29.cia?dl=1",
+				   "output": "sdmc:/Wario Land 3.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Wario Land 3.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Wario Land 3.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Wario Land: Super Mario Land 3",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 203,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Wario Land: Super Mario Land 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1awa5bvj9y51tr8/Wario%20Land%20Super%20Mario%20Land%203%20EUR%20%280004000000057d00%29.cia?dl=1",
+				   "output": "sdmc:/Wario Land Super Mario Land 3.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Wario Land Super Mario Land 3.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Wario Land Super Mario Land 3.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Vampire Master of Darkness",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "icon_index": 204,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Vampire Master of Darkness": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pgm2cvsaluul6rm/Vampire%20Master%20of%20Darkness%20EUR%20%28000400000009ba00%29.cia?dl=1",
+				   "output": "sdmc:/Vampire Master of Darkness.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Vampire Master of Darkness.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Vampire Master of Darkness.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Tumble Pop",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 205,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Tumble Pop": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/sgn9lry9lpb6fcn/Tumble%20Pop%20EUR%20%280004000000082f00%29.cia?dl=1",
+				   "output": "sdmc:/Tumble Pop.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tumble Pop.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tumble Pop.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Trip World™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 206,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Trip World™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/4dlk8u01tltnre7/Trip%20World%E2%84%A2%20EUR%20%280004000000058200%29.cia?dl=1",
+				   "output": "sdmc:/Trip World.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Trip World.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Trip World.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Toki Tori",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "icon_index": 207,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Toki Tori": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/d9265loa5ymq6dt/Toki%20Tori%20EUR%20%280004000000094d00%29.cia?dl=1",
+				   "output": "sdmc:/Toki Tori.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Toki Tori.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Toki Tori.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Sword of Hope II",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "icon_index": 208,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"The Sword of Hope II": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/vij3ccmbocn3rb3/The%20Sword%20of%20Hope%20II%20EUR%20%280004000000083200%29.cia?dl=1",
+				   "output": "sdmc:/The Sword of Hope II.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Sword of Hope II.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Sword of Hope II.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Yo-Kai Watch Blasters - Red Cat Corps",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 209,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Yo-Kai Watch Blasters - Red Cat Corps": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pqanl9hwo377n4w/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Yo-Kai Watch Blasters - Red Cat Corps.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Yo-Kai Watch Blasters - Red Cat Corps.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Yo-Kai Watch Blasters - Red Cat Corps.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Yo-Kai Watch Blasters - White Dog Squad",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 210,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Yo-Kai Watch Blasters - White Dog Squad": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/9a5hzgoqc32b6vl/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Yo-Kai Watch Blasters - White Dog Squad.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Yo-Kai Watch Blasters - White Dog Squad.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Yo-Kai Watch Blasters - White Dog Squad.cia",
+				   "message": "Nettoyage..."}
+],
+"Yo-Kai Watch Blasters - White Dog Squad - Update 2.4": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/7g35cwef4dlkn2t/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20-%20Update%202.4%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Yo-Kai Watch Blasters - White Dog Squad - Update 2.4.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Yo-Kai Watch Blasters - White Dog Squad - Update 2.4.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Yo-Kai Watch Blasters - White Dog Squad - Update 2.4.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Young Justice Legacy",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 211,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Young Justice Legacy": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pb0xdnj93n5bod5/Young%2BJustice%2BLegacy%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Young Justice Legacy.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Young Justice Legacy.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Young Justice Legacy.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Yu-Gi-Oh! Zexal - World Duel Carnival",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 212,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Yu-Gi-Oh! Zexal - World Duel Carnival": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/sm0s8p7xpag7tqa/Yu-Gi-Oh%21%20Zexal%20-%20World%20Duel%20Carnival%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Yu-Gi-Oh Zexal - World Duel Carnival.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Yu-Gi-Oh Zexal - World Duel Carnival.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Yu-Gi-Oh Zexal - World Duel Carnival.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Mysterious Murasame Castle",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "icon_index": 213,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"The Mysterious Murasame Castle": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/8dfujv3r3t7nr4e/The%20Mysterious%20Murasame%20Castle%20EUR%20%2800040000000d3300%29.cia?dl=1",
+				   "output": "sdmc:/The Mysterious Murasame Castle.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Mysterious Murasame Castle.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Mysterious Murasame Castle.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda™ The Minish Cap",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "icon_index": 214,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"The Legend of Zelda™ The Minish Cap": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/d4w1voq2mv0zxhj/The%20Legend%20of%20Zelda%E2%84%A2%20The%20Minish%20Cap%20EUR%20%280004000000076e00%29.cia?dl=1",
+				   "output": "sdmc:/The Legend of Zelda The Minish Cap.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda The Minish Cap.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda The Minish Cap.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Terraria",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 215,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Terraria": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/uk5ymzjc2savhf5/Terraria%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Terraria.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Terraria.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Terraria.cia",
+				   "message": "Nettoyage..."}
+],
+"Terraria - Update 1.0.5": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ni9e2yzuc15v6ox/Terraria%20-%20Update%201.0.5%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Terraria - Update 1.0.5.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Terraria - Update 1.0.5.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Terraria - Update 1.0.5.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Tetris Axis",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 216,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Tetris Axis": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/piph3qnxhflthav/Tetris%20Axis%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Tetris Axis.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tetris Axis.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tetris Axis.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Tetris Ultimate",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 217,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"Tetris Ultimate": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/aq1om3elts0hizm/Tetris%20Ultimate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Tetris Ultimate.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tetris Ultimate.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tetris Ultimate.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Alliance Alive",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 218,
+		            "description": "",
+		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+},
+"The Alliance Alive": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/i0jxyj1056eireb/The%20Alliance%20Alive%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/The Alliance Alive.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Alliance Alive.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Alliance Alive.cia",
 				   "message": "Nettoyage..."
 }]}]} 
 
