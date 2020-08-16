@@ -18,15 +18,15 @@ Mail: contact.ghost01@gmail.com
 
 To make a paypal donation click [here](https://www.paypal.com/paypalme/WTCub).
 
-Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v5.0).
+Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0).
 
-The last valid version is the "v5.0"! Tested there!
+The last valid version is the "v6.0"! Tested there!
 
 **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
 
 *This unistore will become a homebrew that will not depend on Universal-Team or using any of their tools, when the homebrew of its unistore comes out, we will adapt this unistore so that it does not work with Universal-Updater.*
 
-We currently have: **167** file in . cia format
+We currently have: **219** file in . cia format
 
 *Test:*
 
@@ -49,15 +49,15 @@ ________________________________________________________________________________
  
  Pour faire un don paypal cliquer [ici](https://www.paypal.com/paypalme/WTCub).
 
- Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v5.0).
+ Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0).
 
- La derniére version valide est la "v5.0"! Testé là!
+ La derniére version valide est la "v6.0"! Testé là!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
  *Cet unistore deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se unistore sortira, nous adapterons cet unistore de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
  
- Nous avons actuellement: **167** fichier au format .cia
+ Nous avons actuellement: **219** fichier au format .cia
 
 *Test:*
 
@@ -80,15 +80,15 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  
  Para hacer una donación paypal clicar [aquí](https://www.paypal.com/paypalme/WTCub).
 
- Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v5.0).
+ Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0).
 
- La última versión válida es la "v5.0"! Probado allí!
+ La última versión válida es la "v6.0"! Probado allí!
 
  **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería.**
  
  *Este unistore se convertirá en un Homebrew que no dependerá en absoluto de Universal-Team o utilizando una de sus herramientas, cuando el Homebrew de unistore salga, adaptaremos este unistore de manera que no funcione con Universal-Updater.*
  
- Actualmente tenemos: **167** archivo en formato . cia
+ Actualmente tenemos: **219** archivo en formato . cia
 
 *Prueba:*
 
