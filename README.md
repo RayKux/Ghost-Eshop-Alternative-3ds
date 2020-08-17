@@ -21,7 +21,7 @@
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english), [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais) & [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
 
-## English:
+### English:
 
 This is an alternative eshop 3ds in the form of a Unistore Universal-Updater.
 
@@ -50,7 +50,7 @@ We currently have: **219** file in . cia format
 
 -For games over 950Mib, it is advisable to have fiber (*Fiber + Private network*)
 
-## Français:
+### Français:
 
  Ceci est un eshop 3ds alternatif sous la forme d'un Unistore Universal-Updater.
 
@@ -79,7 +79,7 @@ We currently have: **219** file in . cia format
 
  -Pour les jeux de plus de 950Mib, il est conseillé d'avoir la fibre (*Fibre + Réseau privé*)
  
-## Spanish:
+### Spanish:
 
 Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
@@ -108,9 +108,9 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
  -Para los juegos de más de 950Mib, es recomendable tener fibra (*Fibra + Red privada*)
  
-## Screenshots:
+### Screenshots:
 
 ![](https://universal-team.github.io/images/universal-updater/script-browse-3.png)![](https://universal-team.github.io/images/universal-updater/script-browse-7.png)![](https://universal-team.github.io/images/universal-updater/scriptlist-selection.png)![](https://universal-team.github.io/images/universal-updater/mainMenu.png)
 
-### Crédits: 
+#### Crédits: 
 <a href="https://github.com/Ghost0159" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/Creator-Ghost0159-blue.svg" height="20"></a> <a href="https://github.com/Anonyku" style="padding-left: 5px; padding-right: 5px;"> <img src="https://img.shields.io/badge/Spécial_thanks-Anonyku-green.svg" height="20"></a>  
