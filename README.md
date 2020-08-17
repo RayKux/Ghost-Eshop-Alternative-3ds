@@ -112,9 +112,5 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
 ![](https://universal-team.github.io/images/universal-updater/script-browse-3.png)![](https://universal-team.github.io/images/universal-updater/script-browse-7.png)![](https://universal-team.github.io/images/universal-updater/scriptlist-selection.png)![](https://universal-team.github.io/images/universal-updater/mainMenu.png)
 
-## Visitors:
-
-![alt text](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/Capture.PNG)
-
 ### Crédits: 
 <a href="https://github.com/Ghost0159" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/Creator-Ghost0159-blue.svg" height="20"></a> <a href="https://github.com/Anonyku" style="padding-left: 5px; padding-right: 5px;"> <img src="https://img.shields.io/badge/Spécial_thanks-Anonyku-green.svg" height="20"></a>  
