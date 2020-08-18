@@ -42,7 +42,7 @@ The last valid version is the "v6.0"! Tested there!
 
 *This unistore will become a homebrew that will not depend on Universal-Team or using any of their tools, when the homebrew of its unistore comes out, we will adapt this unistore so that it does not work with Universal-Updater.*
 
-We currently have: **219** file in . cia format
+We currently have: **234** file in . cia format
 
 *Test:*
 
@@ -71,7 +71,7 @@ We currently have: **219** file in . cia format
  
  *Cet unistore deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se unistore sortira, nous adapterons cet unistore de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
  
- Nous avons actuellement: **219** fichier au format .cia
+ Nous avons actuellement: **234** fichier au format .cia
 
 *Test:*
 
@@ -100,7 +100,7 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  
  *Este unistore se convertirá en un Homebrew que no dependerá en absoluto de Universal-Team o utilizando una de sus herramientas, cuando el Homebrew de unistore salga, adaptaremos este unistore de manera que no funcione con Universal-Updater.*
  
- Actualmente tenemos: **219** archivo en formato . cia
+ Actualmente tenemos: **234** archivo en formato . cia
 
 *Prueba:*
 
