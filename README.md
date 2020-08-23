@@ -4,15 +4,6 @@
 	<a href="https://discord.gg/FPDUSaA" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Discord-Server-black.svg" height="20">
 	</a>
-	<a href="https://www.facebook.com/groups/293898438606830" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/FaceBook-Team-blue.svg" height="20">
-	</a>
-	<a href="https://www.youtube.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/YouTube-Anonyku-red.svg" height="20">
-	</a>
-	<a href="https://twitter.com/AnonyCub5" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Twitter-Anonyku-green.svg" height="20">
-	</a>
 	<a href="https://somsubhra.com/github-release-stats/?username=Ghost0159&repository=Ghost-Eshop-Alternative-3ds" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Total_Downloads-889-yellow.svg" height="20">
 	</a>
