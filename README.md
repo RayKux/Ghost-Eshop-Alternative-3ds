@@ -66,7 +66,7 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
  **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería.**
  
- *Este unistore se convertirá en un Homebrew que no dependerá en absoluto de Universal-Team o utilizando una de sus herramientas, cuando el Homebrew de unistore salga, adaptaremos este unistore de manera que no funcione con Universal-Updater.*
+ *Este Homebrew es un fork de Universal Updater, pero Universal-Team y contra la piratería, y en otras palabras contra este proyecto, he utilizado el código fuente sin ningún permiso de ellos, si eres desarrollador y quieres hacer un Homebrew de A a Z, Pongo el código fuente a disposición, puede contactarme en mi servidor Discord y por correo electrónico.*
  
  Actualmente tenemos: **234** archivo en formato . cia
  
