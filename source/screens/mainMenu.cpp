@@ -22,7 +22,7 @@ void MainMenu::Draw(void) const {
 	GFX::DrawBottom();
 	GFX::DrawArrow(0, 218, 0, 1);
 
-	GFX::DrawButton(mainButtons[0].x, mainButtons[0].y, "UniStore");
+	GFX::DrawButton(mainButtons[0].x, mainButtons[0].y, "Ghost Eshop");
 	GFX::DrawButton(mainButtons[1].x, mainButtons[1].y, Lang::get("SETTINGS"));
 	GFX::DrawButton(mainButtons[2].x, mainButtons[2].y, Lang::get("CREDITS"));
 	// Selector.
