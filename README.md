@@ -28,7 +28,7 @@ The last valid version is the "v6.0"! Tested there!
 
 **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
 
-*This unistore will become a homebrew that will not depend on Universal-Team or using any of their tools, when the homebrew of its unistore comes out, we will adapt this unistore so that it does not work with Universal-Updater.*
+*This homebrew is a Universal Updater fork, but Universal-Team and against piracy, and in other words against this project, I used the source code without any permission from them, if you are a developer and you want to make a homebrew from A to Z, I make the source code available, you can contact me on my discord server and by email.*
 
 We currently have: **234** file in . cia format
 
