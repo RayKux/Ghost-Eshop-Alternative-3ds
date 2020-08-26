@@ -16,16 +16,11 @@
 
 ### English:
 
-This is an alternative eshop 3ds in the form of a Unistore Universal-Updater.
-
-Place the . unistore file in /3ds/Universal-Updater/stores/
-*(Having previously installed and started Universal-Updater)*
+This is an alternative eshop 3ds for Nintendo 3DS.
 
 Made by Ghost0159. Chat with him on Gmail and feel free to ask him for more games to be added!
 
 Mail: contact.ghost01@gmail.com
-
-To make a paypal donation click [here](https://www.paypal.com/paypalme/WTCub).
 
 Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0).
 
@@ -37,54 +32,34 @@ The last valid version is the "v6.0"! Tested there!
 
 We currently have: **234** file in . cia format
 
-*Test:*
-
--For games over 200Mib, it is advisable to have a stable connection (*ADSL + Private network*)
-
--For games over 950Mib, it is advisable to have fiber (*Fiber + Private network*)
 
 ### Français:
 
- Ceci est un eshop 3ds alternatif sous la forme d'un Unistore Universal-Updater.
-
- Placez le fichier .unistore dans /3ds/Universal-Updater/stores/
- *(En ayant au préalable installé et démarré Universal-Updater)*
+ Ceci est un eshop 3ds alternatif pour Nintendo 3DS.
 
  Fait par Ghost0159. Discutez avec lui sur Gmail et n'hésitez pas à lui demander que plus de jeux soient ajoutés!
 
  Mail: contact.ghost01@gmail.com
  
- Pour faire un don paypal cliquer [ici](https://www.paypal.com/paypalme/WTCub).
-
  Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0).
 
  La derniére version valide est la "v6.0"! Testé là!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
- *Cet unistore deviendra un homebrew qui ne dépendra absolument pas de Universal-Team ou utilisant un de leur outils, lorsque l' homebrew de se unistore sortira, nous adapterons cet unistore de manière à ce que il ne fonctionnent pas avec Universal-Updater.*
+ *Cet homebrew est un fork de Universal-Updater, mais Universal-Team est contre le piratage, et en d'autres termes contre ce projet, j'ai utilisé le code source sans aucune permission de leur part, si vous êtes dévellopeur et que vous voullez faire un homebrew de A à Z, je met le code source à disposition, vous pouvez me contacter sur mon serveur discord et par email.*
  
  Nous avons actuellement: **234** fichier au format .cia
 
-*Test:*
-
- -Pour les jeux de plus de 200Mib, il est conseillé d'avoir une connexion stable (*ADSL + Réseau privé*)
-
- -Pour les jeux de plus de 950Mib, il est conseillé d'avoir la fibre (*Fibre + Réseau privé*)
  
 ### Spanish:
 
 Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
- Coloca el archivo . unistore en/3ds/Universal-Updater/stores/
- *(Habiendo instalado y arrancado previamente Universal-Updater)*
-
  Hecho por Ghost0159. ¡Discuta con él en Gmail y no dude en pedirle que se añadan más juegos!
 
  Mail: contact.ghost01@gmail.com
  
- Para hacer una donación paypal clicar [aquí](https://www.paypal.com/paypalme/WTCub).
-
  Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0).
 
  La última versión válida es la "v6.0"! Probado allí!
@@ -94,12 +69,6 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  *Este unistore se convertirá en un Homebrew que no dependerá en absoluto de Universal-Team o utilizando una de sus herramientas, cuando el Homebrew de unistore salga, adaptaremos este unistore de manera que no funcione con Universal-Updater.*
  
  Actualmente tenemos: **234** archivo en formato . cia
-
-*Prueba:*
-
- -Para juegos de más de 200Mib, es recomendable tener una conexión estable (*ADSL + Red privada*)
-
- -Para los juegos de más de 950Mib, es recomendable tener fibra (*Fibra + Red privada*)
  
 ### Screenshots:
 
