@@ -41,9 +41,9 @@ We currently have: **234** file in . cia format
 
  Mail: contact.ghost01@gmail.com
  
- Télécharger la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0).
+ Téléchargez la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0).
 
- La derniére version valide est la "v6.0"! Testé là!
+ La dernière version valide est la "v6.0"! Testez la!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
