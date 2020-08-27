@@ -17,7 +17,7 @@ void MainMenu::Draw(void) const {
 	GFX::DrawTop();
 	Gui::DrawStringCentered(0, config->useBars() ? 0 : 2, 0.7f, config->textColor(), "Ghost-Eshop", 400);
 	Gui::DrawString(397-Gui::GetStringWidth(0.5f, V_STRING), (config->useBars() ? 239 : 237)-Gui::GetStringHeight(0.5f, V_STRING), 0.5f, config->textColor(), V_STRING);
-	GFX::DrawSprite(sprites_universal_updater_idx, 200, 160);
+	GFX::DrawSprite(sprites_universal_updater_idx, 0, 0);
 	if (fadealpha > 0) Gui::Draw_Rect(0, 0, 400, 240, C2D_Color32(fadecolor, fadecolor, fadecolor, fadealpha)); // Fade in/out effect
 	GFX::DrawBottom();
 	GFX::DrawArrow(0, 218, 0, 1);
@@ -42,13 +42,9 @@ void MainMenu::Logic(u32 hDown, u32 hHeld, touchPosition touch) {
 
 	// Navigation.
 	if (hDown & KEY_UP) {
-		if (Selection > 1)	Selection -= 2;
+		if (Selection > 0)	Selection --;
 	} else if (hDown & KEY_DOWN) {
-		if (Selection < 3 && Selection != 2 && Selection != 3)	Selection += 2;
-	} else if (hDown & KEY_LEFT) {
-		if (Selection%2) Selection--;
-	} else if (hDown & KEY_RIGHT) {
-		if (!(Selection%2)) Selection++;
+		if(Selection < 2)	Selection++;
 	}
 
 	if (hDown & KEY_A) {
