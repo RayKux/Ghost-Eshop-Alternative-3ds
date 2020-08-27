@@ -74,5 +74,27 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
 
 
 
+### Compilation
+#### Setting up your enviromment
+
+To build Ghost Eshop Alternative from source, you will need to setup a system with devkitARM, libctru, 3ds-curl and 3ds-libarchive. Follow devkitPro's [Getting Started](https://devkitpro.org/wiki/Getting_Started) page to install pacman, then run `(sudo dkp-)pacman -S devkitARM libctru 3ds-curl 3ds-libarchive`. You will also need [bannertool](https://github.com/Steveice10/bannertool/releases/latest) and [makerom](https://github.com/profi200/Project_CTR/releases/latest) at the root the Ghost-Eshop-Alternative-3ds folder.
+
+#### Cloning the repo
+
+To download the source you will need to clone it with submodules, this can be done by running
+```
+git clone --recursive https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds
+```
+or if you've already cloned it running 
+```
+git submodule update --init --recursive
+```
+to update all the submodules.
+
+#### Compiling
+
+Simply run `make` in the Ghost-Eshop-Alternative-3ds source directory.
+
+
 #### Crédits: 
 <a href="https://github.com/Ghost0159" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/Creator-Ghost0159-blue.svg" height="20"></a> <a href="https://github.com/Anonyku" style="padding-left: 5px; padding-right: 5px;"> <img src="https://img.shields.io/badge/Spécial_thanks-Anonyku-green.svg" height="20"></a>  
