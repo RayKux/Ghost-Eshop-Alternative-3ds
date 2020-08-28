@@ -34,17 +34,17 @@
 		            "description": "An alternative eshop for 3DS",
 		            "last_updated": "2020-08-27 at 18:03 (UTC)"
 },
-"": [
+"Ghost Eshop (.cia)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v7.0/GhostEshop.cia",
+				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Homebrew%20Compil%C3%A9/GhostEshop.cia",
 				   "output": "sdmc:/GhostEshop.cia",
-				   "message": "Téléchargement de votre jeux en cours..."
+				   "message": "Téléchargement de GhostEshop.cia en cours..."
 }, 
 {
 		           "type": "installCia",
 				   "file": "/GhostEshop.cia",
-				   "message": "Installation de votre jeux en cours..."
+				   "message": "Installation de GhostEshop.cia en cours..."
 },
 {
 				   "type": "deleteFile",
