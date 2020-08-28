@@ -25,6 +25,35 @@
 "revision": 28},
 "storeContent": [
 {"info": {
+		            "title": "Ghost Eshop",
+		            "version": "7.0",
+		            "author": "Ghost0159",
+		            "category": "Homebrew",
+		            "console": "3DS",
+		            "icon_index": 234,
+		            "description": "An alternative eshop for 3DS",
+		            "last_updated": "2020-08-27 at 18:03 (UTC)"
+},
+"": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v7.0/GhostEshop.cia",
+				   "output": "sdmc:/GhostEshop.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/GhostEshop.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/GhostEshop.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
 		            "title": "Anonymous notes chapter 1",
 		            "version": "USA",
 		            "author": "Sonic Powered",
