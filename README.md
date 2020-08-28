@@ -86,10 +86,6 @@ To download the source you will need to clone it with submodules, this can be do
 git clone --recursive https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds
 ```
 or if you've already cloned it running 
-```
-git submodule update --init --recursive
-```
-to update all the submodules.
 
 ##### Compiling
 
