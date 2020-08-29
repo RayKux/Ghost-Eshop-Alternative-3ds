@@ -91,7 +91,7 @@ or if you've already cloned it running
 
 Simply run `make` in the Ghost-Eshop-Alternative-3ds source directory.
 
-[![Discord](<iframe src="https://discord.com/widget?id=633965704424718336&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)](https://discord.gg/FPDUSaA)
+[![Discord](https://discord.com/widget?id=633965704424718336&theme=dark](https://discord.gg/FPDUSaA)
 
 #### Crédits: 
 <a href="https://github.com/Ghost0159" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/Creator-Ghost0159-blue.svg" height="20"></a> <a href="https://github.com/Anonyku" style="padding-left: 5px; padding-right: 5px;"> <img src="https://img.shields.io/badge/Spécial_thanks-Anonyku-green.svg" height="20"></a>  
