@@ -80,12 +80,12 @@ ____
 
 ______
 
-#### Compilation
-##### Setting up your enviromment
+#### Compilation:
+##### 1.Setting up your enviromment:
 
 To build Ghost Eshop Alternative from source, you will need to setup a system with devkitARM, libctru, 3ds-curl and 3ds-libarchive. Follow devkitPro's [Getting Started](https://devkitpro.org/wiki/Getting_Started) page to install pacman, then run `(sudo dkp-)pacman -S devkitARM libctru 3ds-curl 3ds-libarchive`.
 
-##### Cloning the repo
+##### 2.Cloning the repo:
 
 To download the source you will need to clone it with submodules, this can be done by running
 ```
@@ -93,7 +93,7 @@ git clone --recursive https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds
 ```
 or if you've already cloned it running 
 
-##### Compiling
+##### 3.Compiling:
 
 Simply run `make` in the Ghost-Eshop-Alternative-3ds source directory.
 
