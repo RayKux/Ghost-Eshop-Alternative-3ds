@@ -11,6 +11,8 @@
 		<img src="https://img.shields.io/badge/Latest_Release-v6.0-black.svg" heigh
 </p>
 
+______
+
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english), [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais) & [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
 
@@ -70,9 +72,13 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  
  Actualmente tenemos: **234** archivo en formato . cia
  
+____ 
+ 
 #### Screenshots:
 
 
+
+______
 
 #### Compilation
 ##### Setting up your enviromment
@@ -90,6 +96,8 @@ or if you've already cloned it running
 ##### Compiling
 
 Simply run `make` in the Ghost-Eshop-Alternative-3ds source directory.
+
+_______
 
 [![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/FPDUSaA)
 
