@@ -5,7 +5,7 @@
 		<img src="https://img.shields.io/badge/Discord-Server-black.svg" height="20">
 	</a>
 	<a href="https://somsubhra.com/github-release-stats/?username=Ghost0159&repository=Ghost-Eshop-Alternative-3ds" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Total_Downloads-1863-yellow.svg" height="20">
+		<img src="https://img.shields.io/badge/Total_Downloads-1948-yellow.svg" height="20">
 	</a>
 		<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Latest_Release-v6.0-black.svg" heigh
