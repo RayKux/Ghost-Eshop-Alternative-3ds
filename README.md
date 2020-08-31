@@ -5,13 +5,11 @@
 		<img src="https://img.shields.io/badge/Discord-Server-black.svg" height="20">
 	</a>
 	<a href="https://somsubhra.com/github-release-stats/?username=Ghost0159&repository=Ghost-Eshop-Alternative-3ds" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Total_Downloads-1948-yellow.svg" height="20">
+		<img src="https://img.shields.io/badge/Total_Downloads-889-yellow.svg" height="20">
 	</a>
 		<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Latest_Release-v6.0-black.svg" heigh
 </p>
-
-______
 
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english), [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais) & [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
@@ -72,34 +70,9 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  
  Actualmente tenemos: **234** archivo en formato . cia
  
-____ 
- 
-#### Screenshots:
+### Screenshots:
 
 
-
-______
-
-#### Compilation:
-##### 1. Setting up your enviromment:
-
-To build Ghost Eshop Alternative from source, you will need to setup a system with devkitARM, libctru, 3ds-curl and 3ds-libarchive. Follow devkitPro's [Getting Started](https://devkitpro.org/wiki/Getting_Started) page to install pacman, then run `(sudo dkp-)pacman -S devkitARM libctru 3ds-curl 3ds-libarchive`.
-
-##### 2. Cloning the repo:
-
-To download the source you will need to clone it with submodules, this can be done by running
-```
-git clone --recursive https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds
-```
-or if you've already cloned it running 
-
-##### 3. Compiling:
-
-Simply run `make` in the Ghost-Eshop-Alternative-3ds source directory.
-
-_______
-
-[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/FPDUSaA)
 
 #### Crédits: 
 <a href="https://github.com/Ghost0159" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/Creator-Ghost0159-blue.svg" height="20"></a> <a href="https://github.com/Anonyku" style="padding-left: 5px; padding-right: 5px;"> <img src="https://img.shields.io/badge/Spécial_thanks-Anonyku-green.svg" height="20"></a>  

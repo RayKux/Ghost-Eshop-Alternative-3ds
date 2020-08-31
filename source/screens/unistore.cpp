@@ -1,3 +1,29 @@
+/*
+*   This file is part of Universal-Updater
+*   Copyright (C) 2019-2020 Universal-Team
+*
+*   This program is free software: you can redistribute it and/or modify
+*   it under the terms of the GNU General Public License as published by
+*   the Free Software Foundation, either version 3 of the License, or
+*   (at your option) any later version.
+*
+*   This program is distributed in the hope that it will be useful,
+*   but WITHOUT ANY WARRANTY; without even the implied warranty of
+*   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+*   GNU General Public License for more details.
+*
+*   You should have received a copy of the GNU General Public License
+*   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*
+*   Additional Terms 7.b and 7.c of GPLv3 apply to this file:
+*       * Requiring preservation of specified reasonable legal notices or
+*         author attributions in that material or in the Appropriate Legal
+*         Notices displayed by works containing it.
+*       * Prohibiting misrepresentation of the origin of that material,
+*         or requiring that modified versions of such material be marked in
+*         reasonable ways as different from the original version.
+*/
+
 #include "download.hpp"
 #include "fileBrowse.hpp"
 #include "formatting.hpp"
@@ -678,7 +704,7 @@ void UniStore::DrawSearch(void) const {
 
 	GFX::DrawButton(URLBtn[0].x, URLBtn[0].y,Lang::get("FULL_URL"));
 	GFX::DrawButton(URLBtn[1].x, URLBtn[1].y, Lang::get("GITHUB"));
-	GFX::DrawButton(URLBtn[2].x, URLBtn[2].y, "GhostEshop-DB");
+	GFX::DrawButton(URLBtn[2].x, URLBtn[2].y, "TinyDB");
 	GFX::DrawButton(URLBtn[3].x, URLBtn[3].y, "Universal DB");
 
 	// Selector.
@@ -718,8 +744,8 @@ void UniStore::SearchLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 			Selection = 0;
 			mode = 4;
 		} else if (Selection == 2) {
-			if (Msg::promptMsg("Do you still like to continue?")) {
-				ScriptHelper::downloadFile("https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/GhostEshop-DB.unistore", config->storePath() + "GhostEshop-DB.unistore", Lang::get("DOWNLOADING") + "GhostEshop-DB");
+			if (Msg::promptMsg("TinyDB might be down. This would lead to Download Failed!\nDo you still like to continue?")) {
+				ScriptHelper::downloadFile("https://tinydb.eiphax.tech/api/tinydb.unistore", config->storePath() + "TinyDB.unistore", Lang::get("DOWNLOADING") + "TinyDB");
 			}
 		} else if (Selection == 3) {
 			ScriptHelper::downloadFile("https://db.universal-team.net/unistore/universal-db.unistore", config->storePath() + "Universal-DB.unistore", Lang::get("DOWNLOADING") + "Universal DB");

@@ -59,15 +59,6 @@ void Settings::DrawSubMenu(void) const {
 		GFX::DrawButton(mainButtons[0].x, mainButtons[0].y, Lang::get("LANGUAGE"));
 		GFX::DrawButton(mainButtons[1].x, mainButtons[1].y, Lang::get("COLORS"));
 		GFX::DrawButton(mainButtons[2].x, mainButtons[2].y, Lang::get("CHANGE_BAR_STYLE"));
-	} else if (this->settingPage == 1) {
-		GFX::DrawButton(mainButtons2[0].x, mainButtons2[0].y, Lang::get("CHANGE_MUSICFILE"));
-		GFX::DrawButton(mainButtons2[1].x, mainButtons2[1].y, Lang::get("CHANGE_KEY_DELAY"));
-		GFX::DrawButton(mainButtons2[2].x, mainButtons2[2].y, Lang::get("TOGGLE_FADE"));
-		GFX::DrawButton(mainButtons2[3].x, mainButtons2[3].y, Lang::get("TOGGLE_PROGRESSBAR"));
-	} else if (this->settingPage == 2) {
-		GFX::DrawButton(mainButtons[0].x, mainButtons[0].y, Lang::get("CHANGE_3DSX_PATH"));
-		GFX::DrawButton(mainButtons[1].x, mainButtons[1].y, Lang::get("CHANGE_NDS_PATH"));
-		GFX::DrawButton(mainButtons[2].x, mainButtons[2].y, Lang::get("CHANGE_ARCHIVE_PATH"));
 	}
 
 	// Selector.
@@ -243,13 +234,6 @@ void Settings::SubMenuLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 		return;
 	}
 
-	if ((hDown & KEY_R) || (hDown & KEY_TOUCH && touching(touch, arrowPos[4]))) {
-		if (this->settingPage < 2) {
-			this->settingPage++;
-			Selection = 0;
-		}
-	}
-
 	if ((hDown & KEY_L) || (hDown & KEY_TOUCH && touching(touch, arrowPos[2]))) {
 		if (this->settingPage > 0) {
 			this->settingPage--;
@@ -260,10 +244,6 @@ void Settings::SubMenuLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 	if (this->settingPage == 0) {
 		if (hDown & KEY_UP) {
 			if (Selection > 0)	Selection--;
-		}
-
-		if (hDown & KEY_DOWN) {
-			if (Selection < 2)	Selection++;
 		}
 
 		if (hDown & KEY_A) {
@@ -295,132 +275,10 @@ void Settings::SubMenuLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 			} else if (touching(touch, mainButtons[2])) {
 				if (config->useBars())	config->useBars(false);
 				else	config->useBars(true);
-			}
-		}
-	} else if (this->settingPage == 1) {
-		if (hDown & KEY_A) {
-			if (Selection == 0) {
-				std::string tempMusic = selectFilePath(Lang::get("SELECT_MUSIC_FILE"), "sdmc:/", {"wav"}, 2);
-				if (tempMusic != "") {
-					config->musicPath(tempMusic);
-				}
-			} else if (Selection == 1) {
-				int temp = Input::setInt(255, Lang::get("ENTER_KEY_DELAY"));
-				if (temp != -1) config->keyDelay(temp);
-			} else if (Selection == 2) {
-				if (config->screenFade()) {
-					if (Msg::promptMsg(Lang::get("TOGGLE_FADE_DISABLE"))) {
-						config->screenFade(false);
-						Msg::DisplayWarnMsg(Lang::get("DISABLED"));
-					}
-				} else {
-					if (Msg::promptMsg(Lang::get("TOGGLE_FADE_ENABLE"))) {
-						config->screenFade(true);
-						Msg::DisplayWarnMsg(Lang::get("ENABLED"));
-					}
-				}
-			} else if (Selection == 3) {
-				if (config->progressDisplay()) {
-					if (Msg::promptMsg(Lang::get("PROGRESS_BAR_DISABLE"))) {
-						config->progressDisplay(false);
-						Msg::DisplayWarnMsg(Lang::get("DISABLED"));
-					}
-				} else {
-					if (Msg::promptMsg(Lang::get("PROGRESS_BAR_ENABLE"))) {
-						config->progressDisplay(true);
-						Msg::DisplayWarnMsg(Lang::get("ENABLED"));
 					}
 				}
 			}
 		}
-
-		if (hDown & KEY_TOUCH) {
-			if (touching(touch, mainButtons2[0])) {
-				std::string tempMusic = selectFilePath(Lang::get("SELECT_MUSIC_FILE"), "sdmc:/", {"wav"}, 2);
-				if (tempMusic != "") {
-					config->musicPath(tempMusic);
-				}
-			} else if (touching(touch, mainButtons2[1])) {
-				int temp = Input::setInt(255, Lang::get("ENTER_KEY_DELAY"));
-				if (temp != -1) config->keyDelay(temp);
-			} else if (touching(touch, mainButtons2[2])) {
-				if (config->screenFade()) {
-					if (Msg::promptMsg(Lang::get("TOGGLE_FADE_DISABLE"))) {
-						config->screenFade(false);
-						Msg::DisplayWarnMsg(Lang::get("DISABLED"));
-					}
-				} else {
-					if (Msg::promptMsg(Lang::get("TOGGLE_FADE_ENABLE"))) {
-						config->screenFade(true);
-						Msg::DisplayWarnMsg(Lang::get("ENABLED"));
-					}
-				}
-			} else if (touching(touch, mainButtons2[3])) {
-				if (config->progressDisplay()) {
-					if (Msg::promptMsg(Lang::get("PROGRESS_BAR_DISABLE"))) {
-						config->progressDisplay(false);
-						Msg::DisplayWarnMsg(Lang::get("DISABLED"));
-					}
-				} else {
-					if (Msg::promptMsg(Lang::get("PROGRESS_BAR_ENABLE"))) {
-						config->progressDisplay(true);
-						Msg::DisplayWarnMsg(Lang::get("ENABLED"));
-					}
-				}
-			}
-		}
-		
-		// Navigation.
-		if (hDown & KEY_UP) {
-			if (Selection > 1)	Selection -= 2;
-		} else if (hDown & KEY_DOWN) {
-			if (Selection < 2)	Selection += 2;
-		} else if (hDown & KEY_LEFT) {
-			if (Selection%2) Selection--;
-		} else if (hDown & KEY_RIGHT) {
-			if (!(Selection%2)) Selection++;
-		}
-	} else if (this->settingPage == 2) {
-		if (hDown & KEY_UP) {
-			if (Selection > 0)	Selection--;
-		}
-
-		if (hDown & KEY_DOWN) {
-			if (Selection < 2)	Selection++;
-		}
-
-		if (hDown & KEY_A) {
-			std::string tempPath;
-			switch (Selection) {
-				case 0:
-					tempPath = selectFilePath(Lang::get("SELECT_3DSX_PATH"), config->_3dsxpath(), {});
-					if (tempPath != "") config->_3dsxpath(tempPath);
-					break;
-				case 1:
-					tempPath = selectFilePath(Lang::get("SELECT_NDS_PATH"), config->ndspath(), {});
-					if (tempPath != "")	config->ndspath(tempPath);
-					break;
-				case 2:
-					tempPath = selectFilePath(Lang::get("SELECT_ARCHIVE_PATH"), config->archivepath(), {});
-					if (tempPath != "")	config->archivepath(tempPath);
-					break;
-			}
-		}
-
-		if (hDown & KEY_TOUCH) {
-			if (touching(touch, mainButtons[0])) {
-				std::string tempPath = selectFilePath(Lang::get("SELECT_3DSX_PATH"), config->_3dsxpath(), {});
-				if (tempPath != "") config->_3dsxpath(tempPath);
-			} else if (touching(touch, mainButtons[1])) {
-				std::string tempPath = selectFilePath(Lang::get("SELECT_NDS_PATH"), config->ndspath(), {});
-				if (tempPath != "")	config->ndspath(tempPath);
-			} else if (touching(touch, mainButtons[2])) {
-				std::string tempPath = selectFilePath(Lang::get("SELECT_ARCHIVE_PATH"), config->archivepath(), {});
-				if (tempPath != "")	config->archivepath(tempPath);
-			}
-		}
-	}
-}
 
 std::string langsTemp[] = {"br", "da", "de", "en", "es", "fr", "it", "lt", "pl", "pt", "ru", "jp"};
 void Settings::LanguageSelection(u32 hDown, u32 hHeld, touchPosition touch) {
