@@ -63,13 +63,6 @@ private:
 		{80, 150, 149, 52} // Credits.
 	};
 
-	const std::vector<Structs::ButtonPos> mainButtons2 = {
-		{0, 60, 149, 52}, // Change Music File.
-		{162, 60, 149, 52}, // Change bar style.
-		{0, 130, 149, 52}, // Change Key Delay.
-		{162, 130, 149, 52} // Toggle animation.
-	};
-
 	const std::vector<Structs::ButtonPos> arrowPos = {
 		{0, 0, 25, 25}, // Previous Arrow.
 		{295, 0, 25, 25}, // Next Arrow.

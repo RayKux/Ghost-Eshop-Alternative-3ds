@@ -47,7 +47,7 @@ void Credits::Draw(void) const {
 		GFX::DrawSprite(sprites_stackZ_idx, 5, 85);
 		GFX::DrawSprite(sprites_universal_core_idx, 200, 110);
 		std::string currentVersion = Lang::get("CURRENT_VERSION");
-		currentVersion += V_STRING;
+		currentVersion == V_STRING;
 		Gui::DrawString(395-Gui::GetStringWidth(0.70f, currentVersion), 219, 0.70f, config->textColor(), currentVersion, 400);
 	} else {
 		Gui::Draw_Rect(0, 0, 400, 240, C2D_Color32(0, 0, 0, 190));

@@ -64,10 +64,10 @@ using json = nlohmann::json;
 #endif
 
 #define WORKING_DIR	"/"
-#define SCRIPTS_PATH	"romfs:/Ghost-Eshop/scripts/" // The Scripts will be here.
+#define SCRIPTS_PATH	"sdmc:/3ds/Ghost-Eshop/scripts/" // The Scripts will be here.
 #define MUSIC_PATH	"romfs:/Ghost-Eshop/Music.wav" // Default Music File / Path.
 #define SCRIPT_VERSION	4
-#define STORE_PATH "romfs:/Ghost-Eshop/stores/" // Default Store path.
+#define STORE_PATH "sdmc:/3ds/Ghost-Eshop/stores/" // Default Store path.
 #define ENTRIES_PER_SCREEN 3
 #define ENTRIES_PER_LIST 7
 #define metaFile "sdmc:/3ds/Ghost-Eshop/ScriptInfo.json"

@@ -705,7 +705,7 @@ void UniStore::DrawSearch(void) const {
 	GFX::DrawButton(URLBtn[0].x, URLBtn[0].y,Lang::get("FULL_URL"));
 	GFX::DrawButton(URLBtn[1].x, URLBtn[1].y, Lang::get("GITHUB"));
 	GFX::DrawButton(URLBtn[2].x, URLBtn[2].y, "TinyDB");
-	GFX::DrawButton(URLBtn[3].x, URLBtn[3].y, "Universal DB");
+	GFX::DrawButton(URLBtn[3].x, URLBtn[3].y, "Ghost Eshop");
 
 	// Selector.
 	Animation::Button(URLBtn[Selection].x, URLBtn[Selection].y, .060);
@@ -748,7 +748,7 @@ void UniStore::SearchLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 				ScriptHelper::downloadFile("https://tinydb.eiphax.tech/api/tinydb.unistore", config->storePath() + "TinyDB.unistore", Lang::get("DOWNLOADING") + "TinyDB");
 			}
 		} else if (Selection == 3) {
-			ScriptHelper::downloadFile("https://db.universal-team.net/unistore/universal-db.unistore", config->storePath() + "Universal-DB.unistore", Lang::get("DOWNLOADING") + "Universal DB");
+			ScriptHelper::downloadFile("https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/GhostEshop-DB.unistore", config->storePath() + "GhostEshop-DB.unistore", Lang::get("DOWNLOADING") + "Ghost Eshop");
 		}
 	}
 
@@ -763,7 +763,7 @@ void UniStore::SearchLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 			ScriptHelper::downloadFile("https://tinydb.eiphax.tech/api/tinydb.unistore", config->storePath() + "TinyDB.unistore", Lang::get("DOWNLOADING") + "TinyDB");
 		}
 	} else if (hDown & KEY_TOUCH && touching(touch, URLBtn[3])) {
-		ScriptHelper::downloadFile("https://db.universal-team.net/unistore/universal-db.unistore", config->storePath() + "Universal-DB.unistore", Lang::get("DOWNLOADING") + "Universal DB");
+			ScriptHelper::downloadFile("https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/GhostEshop-DB.unistore", config->storePath() + "GhostEshop-DB.unistore", Lang::get("DOWNLOADING") + "Ghost Eshop");
 	}
 }
 

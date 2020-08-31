@@ -64,8 +64,6 @@ void Settings::DrawSubMenu(void) const {
 	// Selector.
 	if (this->settingPage == 0 || this->settingPage == 2) {
 		Animation::Button(mainButtons[Selection].x, mainButtons[Selection].y, .060);
-	} else {
-		Animation::Button(mainButtons2[Selection].x, mainButtons2[Selection].y, .060);
 	}
 	if (fadealpha > 0) Gui::Draw_Rect(0, 0, 320, 240, C2D_Color32(fadecolor, fadecolor, fadecolor, fadealpha)); // Fade in/out effect
 }
