@@ -72,7 +72,7 @@ Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
  
 ### Screenshots:
 
-
+Screenshot is not disponnible.
 
 ### Compilation
 #### Setting up your enviromment
