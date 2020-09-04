@@ -8,7 +8,7 @@
 		<img src="https://img.shields.io/badge/Total_Downloads-3.288-green.svg" height="20">
 	</a>
 		<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v6.0" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Latest_Release-v8.0-yellow.svg" heigh
+		<img src="https://img.shields.io/badge/Latest_Release-v8.0-orange.svg" heigh
 </p>
 
 ## Languages:
